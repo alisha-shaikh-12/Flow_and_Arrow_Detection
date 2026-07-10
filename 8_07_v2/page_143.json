@@ -1,0 +1,568 @@
+{
+  "source_image": "page_143.png",
+  "image_size": {
+    "width": 3024,
+    "height": 2160
+  },
+  "connector_count": 31,
+  "connectors": [
+    {
+      "id": 1,
+      "bbox_xywh": [
+        122,
+        199,
+        79,
+        23
+      ],
+      "reference_tag": null,
+      "description": "FROM 2ND SIAGE",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM 2ND SIAGE\n(CM\u2014113N\u20141)",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 2,
+      "bbox_xywh": [
+        2877,
+        222,
+        79,
+        23
+      ],
+      "reference_tag": "G-32248",
+      "description": "IG. TAIS VENT PLUG ACE. TO COLD",
+      "equipment_tag": null,
+      "raw_ocr_text": "IG. TAIS VENT PLUG\nACE. TO COLD\n__S0=322885,",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 3,
+      "bbox_xywh": [
+        121,
+        254,
+        79,
+        23
+      ],
+      "reference_tag": "G-32308",
+      "description": "TO SEAL GAS",
+      "equipment_tag": null,
+      "raw_ocr_text": "TO SEAL GAS\nPANEL",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 4,
+      "bbox_xywh": [
+        2842,
+        288,
+        110,
+        24
+      ],
+      "reference_tag": null,
+      "description": "NOTE 4 FROM COMPRESSOR} CM\u2014113N\u20141 SHUTDOWN",
+      "equipment_tag": null,
+      "raw_ocr_text": "NOTE 4\nFROM COMPRESSOR}\nCM\u2014113N\u20141\nSHUTDOWN\nAo CO I8IL",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 5,
+      "bbox_xywh": [
+        121,
+        303,
+        79,
+        24
+      ],
+      "reference_tag": "G-52350",
+      "description": "TO SEAL GAS PANEL TO SEAL GAS",
+      "equipment_tag": null,
+      "raw_ocr_text": "TO SEAL GAS\nPANEL\n\nTO SEAL GAS\nBOOSTER",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 6,
+      "bbox_xywh": [
+        120,
+        347,
+        89,
+        24
+      ],
+      "reference_tag": null,
+      "description": "",
+      "equipment_tag": null,
+      "raw_ocr_text": "",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "low",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 7,
+      "bbox_xywh": [
+        2876,
+        437,
+        80,
+        23
+      ],
+      "reference_tag": "G-31904",
+      "description": "HOT RECYCLE #1 TO HPFD",
+      "equipment_tag": "TK-222N",
+      "raw_ocr_text": "HOT RECYCLE #1\nTO HPFD\n(TK-222N-1)",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 8,
+      "bbox_xywh": [
+        2866,
+        483,
+        90,
+        24
+      ],
+      "reference_tag": "G-30328",
+      "description": "SIGNAL FROM PIC\u201430527",
+      "equipment_tag": null,
+      "raw_ocr_text": "SIGNAL FROM\nPIC\u201430527\npo LO BORL",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 9,
+      "bbox_xywh": [
+        121,
+        540,
+        79,
+        23
+      ],
+      "reference_tag": null,
+      "description": "HOT RECYCLE #2 TO LPFO 2",
+      "equipment_tag": "TK-221N",
+      "raw_ocr_text": "HOT RECYCLE #2\nTO LPFO 2\n(TK-221N-1) \u00b0",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 10,
+      "bbox_xywh": [
+        2876,
+        600,
+        80,
+        23
+      ],
+      "reference_tag": "G-30300",
+      "description": "CIRYLENE PROOUCT TO HIGH-PRESSURE HEADER (SOUTH SYNTHESIS) To",
+      "equipment_tag": null,
+      "raw_ocr_text": "CIRYLENE\nPROOUCT TO\nHIGH-PRESSURE\nHEADER (SOUTH\nSYNTHESIS)\n\nTo\nT-30300-233A/8",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 11,
+      "bbox_xywh": [
+        121,
+        653,
+        79,
+        24
+      ],
+      "reference_tag": "G-30331",
+      "description": "\u2014 oor VAPORIZED PROPYLENE REFRIGERANT TO SUCTION ORUM (TK-131)",
+      "equipment_tag": "TK-131",
+      "raw_ocr_text": "\u2014 oor VAPORIZED\nPROPYLENE\nREFRIGERANT TO\nSUCTION ORUM\n(TK-131)\n\nTO T-30331-80",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 12,
+      "bbox_xywh": [
+        2877,
+        658,
+        79,
+        23
+      ],
+      "reference_tag": "G-32248",
+      "description": "TQ COLD",
+      "equipment_tag": null,
+      "raw_ocr_text": "TQ COLD\nFLARE HEADER",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 13,
+      "bbox_xywh": [
+        2877,
+        750,
+        79,
+        23
+      ],
+      "reference_tag": null,
+      "description": "HOT VAPOR 10 C2 SPLITTER REBOILER #2",
+      "equipment_tag": "HE-314N",
+      "raw_ocr_text": "HOT VAPOR 10\nC2 SPLITTER\nREBOILER #2\n(HE-314N-1)",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "low",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 14,
+      "bbox_xywh": [
+        1854,
+        799,
+        197,
+        65
+      ],
+      "reference_tag": "G-34151",
+      "description": "\u2014* toy =",
+      "equipment_tag": null,
+      "raw_ocr_text": "\u2014* toy =\nQC] ett\u201d |)",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 15,
+      "bbox_xywh": [
+        2877,
+        821,
+        79,
+        23
+      ],
+      "reference_tag": "G-30257",
+      "description": "C2R TO ETHANE FEED VAPORIZER",
+      "equipment_tag": "HE-301N",
+      "raw_ocr_text": "C2R TO ETHANE\nFEED VAPORIZER\n(HE-301N-1)",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 16,
+      "bbox_xywh": [
+        122,
+        830,
+        79,
+        24
+      ],
+      "reference_tag": "G-50257",
+      "description": "C2r FROM CIRANE FEED VAPORIZER",
+      "equipment_tag": "HE-301N",
+      "raw_ocr_text": "C2r FROM CIRANE\nFEED VAPORIZER\n(HE-301N-1)",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 17,
+      "bbox_xywh": [
+        122,
+        913,
+        79,
+        23
+      ],
+      "reference_tag": null,
+      "description": "C\u00e9n FROM",
+      "equipment_tag": "HE-323",
+      "raw_ocr_text": "C\u00e9n FROM\nHE-323",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 18,
+      "bbox_xywh": [
+        2877,
+        981,
+        79,
+        23
+      ],
+      "reference_tag": "G-30300",
+      "description": "T= QU0300\u2014 Zo0A/5",
+      "equipment_tag": null,
+      "raw_ocr_text": "T= QU0300\u2014 Zo0A/5",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 19,
+      "bbox_xywh": [
+        122,
+        996,
+        79,
+        23
+      ],
+      "reference_tag": "G-30258",
+      "description": "CORK FROM",
+      "equipment_tag": "HE-317N",
+      "raw_ocr_text": "CORK FROM\nHE-317N\u20141",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 20,
+      "bbox_xywh": [
+        2877,
+        1036,
+        79,
+        23
+      ],
+      "reference_tag": "G-32248",
+      "description": "TO COLD",
+      "equipment_tag": null,
+      "raw_ocr_text": "TO COLD\nFLARE HEADER",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 21,
+      "bbox_xywh": [
+        2877,
+        1096,
+        79,
+        23
+      ],
+      "reference_tag": "G-32248",
+      "description": "TQ COLD",
+      "equipment_tag": null,
+      "raw_ocr_text": "TQ COLD\nFLARE HEADER",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 22,
+      "bbox_xywh": [
+        122,
+        1100,
+        79,
+        23
+      ],
+      "reference_tag": "G-30331",
+      "description": "\u2014 397 VAPORIZED PROPYLENE REFRIGERAN",
+      "equipment_tag": null,
+      "raw_ocr_text": "\u2014 397 VAPORIZED\nPROPYLENE REFRIGERAN\nFROM LPFD ail",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 23,
+      "bbox_xywh": [
+        121,
+        1183,
+        79,
+        23
+      ],
+      "reference_tag": "G-32248",
+      "description": "TO COLD",
+      "equipment_tag": null,
+      "raw_ocr_text": "TO COLD\nFLARE HEADER",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 24,
+      "bbox_xywh": [
+        2862,
+        1214,
+        94,
+        23
+      ],
+      "reference_tag": "G-50312",
+      "description": "(FROM SPRERES FOR START-UP) ETHYLENE PRODUCT TO STORAGE",
+      "equipment_tag": null,
+      "raw_ocr_text": "(FROM SPRERES\nFOR START-UP)\nETHYLENE\nPRODUCT TO\nSTORAGE\n\nc TO T- 30312-56",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 25,
+      "bbox_xywh": [
+        2877,
+        1325,
+        78,
+        24
+      ],
+      "reference_tag": "G-32248",
+      "description": "TO COLD",
+      "equipment_tag": null,
+      "raw_ocr_text": "TO COLD\nFLARE HEADER",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 26,
+      "bbox_xywh": [
+        121,
+        1411,
+        79,
+        23
+      ],
+      "reference_tag": "G-31904",
+      "description": "UQUID INJECTION TO HPFD # 2 (\u2122K=222N=1)",
+      "equipment_tag": null,
+      "raw_ocr_text": "UQUID INJECTION\nTO HPFD # 2\n(\u2122K=222N=1)\n\n0",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 27,
+      "bbox_xywh": [
+        2877,
+        1413,
+        78,
+        23
+      ],
+      "reference_tag": "G-31903",
+      "description": "COLD LIQUID 10 TK=221N-1,",
+      "equipment_tag": null,
+      "raw_ocr_text": "COLD LIQUID 10\nTK=221N-1,\nLP_FLASH DRUM",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 28,
+      "bbox_xywh": [
+        2877,
+        1506,
+        79,
+        23
+      ],
+      "reference_tag": "G-31904",
+      "description": "COLD UQUID TO TK-222N-1",
+      "equipment_tag": "TK-222N",
+      "raw_ocr_text": "COLD UQUID TO\nTK-222N-1\nHP FLASH DRUM",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 29,
+      "bbox_xywh": [
+        121,
+        1748,
+        79,
+        23
+      ],
+      "reference_tag": "G-31894",
+      "description": "MO CoS ABSORBER CONDENSER",
+      "equipment_tag": "HE-303N",
+      "raw_ocr_text": "MO CoS\nABSORBER\nCONDENSER\n(HE-303N-1)",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 30,
+      "bbox_xywh": [
+        121,
+        1835,
+        79,
+        23
+      ],
+      "reference_tag": "G-31894",
+      "description": "PREFRACTIONATOR CONDENSER (HE-302N-1 Z",
+      "equipment_tag": "HE-302N",
+      "raw_ocr_text": "PREFRACTIONATOR\n\nCONDENSER\n\n(HE-302N-1 Z\ny",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 31,
+      "bbox_xywh": [
+        121,
+        1901,
+        79,
+        24
+      ],
+      "reference_tag": null,
+      "description": "PREFRACTIONATOR CONDENSER (HE-302N-1 Z y LIQUID INJECTION TO C2R HPFD (1K-222N-1)",
+      "equipment_tag": "HE-302N",
+      "raw_ocr_text": "PREFRACTIONATOR\nCONDENSER\n(HE-302N-1 Z\ny\nLIQUID INJECTION\nTO C2R HPFD\n(1K-222N-1)\nU",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left"
+    }
+  ]
+}

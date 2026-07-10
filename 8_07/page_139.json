@@ -1,0 +1,355 @@
+{
+  "source_image": "page_139.png",
+  "image_size": {
+    "width": 3024,
+    "height": 2160
+  },
+  "connector_count": 23,
+  "connectors": [
+    {
+      "id": 1,
+      "bbox_xywh": [
+        2857,
+        169,
+        79,
+        23
+      ],
+      "reference_tag": "G-30302",
+      "description": "1O REGEN COOLER (HE-237)",
+      "equipment_tag": "HE-237",
+      "raw_ocr_text": "1O REGEN COOLER\n(HE-237)\nTO T-30302-231A/8",
+      "direction": "outflow",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 2,
+      "bbox_xywh": [
+        150,
+        197,
+        79,
+        23
+      ],
+      "reference_tag": "G-32247",
+      "description": "TO WARM FLARE",
+      "equipment_tag": null,
+      "raw_ocr_text": "TO WARM FLARE\n| HEADER 3",
+      "direction": "outflow",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 3,
+      "bbox_xywh": [
+        150,
+        236,
+        95,
+        24
+      ],
+      "reference_tag": "G-30323",
+      "description": "TO WARM FLARE HEADER ilk oe",
+      "equipment_tag": null,
+      "raw_ocr_text": "TO WARM FLARE\n\nHEADER\n\nilk oe\nTO FFIC\u201430529",
+      "direction": "outflow",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 4,
+      "bbox_xywh": [
+        2857,
+        274,
+        79,
+        23
+      ],
+      "reference_tag": "G-52247",
+      "description": "TO WARM FLARE",
+      "equipment_tag": null,
+      "raw_ocr_text": "TO WARM FLARE\nHEADER",
+      "direction": "outflow",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 5,
+      "bbox_xywh": [
+        150,
+        286,
+        108,
+        23
+      ],
+      "reference_tag": "G-31910",
+      "description": "TO WARM FLARE HEADER TO FFIC\u201430529 CeO. SIGNAL FROM",
+      "equipment_tag": null,
+      "raw_ocr_text": "TO WARM FLARE\n\nHEADER\n\nTO FFIC\u201430529\nCeO.\nSIGNAL FROM\n\nFI-31042",
+      "direction": "outflow",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 6,
+      "bbox_xywh": [
+        150,
+        345,
+        108,
+        24
+      ],
+      "reference_tag": "G-30306",
+      "description": "TO WARM FLARE HEADER TO_FFIC-\u201430529 a oe SIGNAL FROM FI-31042 SIGNAL FROM DEETHANIZER OVHD, FI-30530 PV \u00b0",
+      "equipment_tag": null,
+      "raw_ocr_text": "TO WARM FLARE\nHEADER\nTO_FFIC-\u201430529\na oe\nSIGNAL FROM\nFI-31042\nSIGNAL FROM\nDEETHANIZER\nOVHD, FI-30530\nPV\n\u00b0\n\u201cf",
+      "direction": "outflow",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 7,
+      "bbox_xywh": [
+        149,
+        415,
+        102,
+        23
+      ],
+      "reference_tag": null,
+      "description": "SIGNAL FROM FI-31042 FF. SIGNAL FROM DEETHANIZER OVHD, FI-30530 a Do 80508) \u2014e SIGNAL FROM DEMETHANIZER BOTTOMS FIC-30766 py",
+      "equipment_tag": null,
+      "raw_ocr_text": "SIGNAL FROM\nFI-31042\nFF.\nSIGNAL FROM\nDEETHANIZER\nOVHD, FI-30530\n\na\nDo 80508) \u2014e\nSIGNAL FROM\nDEMETHANIZER\nBOTTOMS\nFIC-30766 py\nSears",
+      "direction": "inflow",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 8,
+      "bbox_xywh": [
+        149,
+        456,
+        102,
+        24
+      ],
+      "reference_tag": "G-34852",
+      "description": "FInyQivVed a ee SIGNAL FROM DEETHANIZER OVHD, F-30530 oH 250808 >\u2014s SIGNAL FROM OEMETHANIZER BOTTOMS FIC\u201430766 py Seri FROM AIC\u201430885C",
+      "equipment_tag": null,
+      "raw_ocr_text": "FInyQivVed\na ee\nSIGNAL FROM\nDEETHANIZER\nOVHD, F-30530\n\noH\n250808 >\u2014s\nSIGNAL FROM\nOEMETHANIZER\nBOTTOMS\nFIC\u201430766 py\nSeri\nFROM AIC\u201430885C\nSOS",
+      "direction": "inflow",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 9,
+      "bbox_xywh": [
+        151,
+        507,
+        79,
+        23
+      ],
+      "reference_tag": "G-30299",
+      "description": "Mee PIP tiaers OVHD, FI-30530 PV as SIGNAL FROM OEMETHANIZER BOTTOMS FIC-30766 py Deo FROM AIC-30885C See HYDROGEN",
+      "equipment_tag": null,
+      "raw_ocr_text": "Mee PIP tiaers\nOVHD, FI-30530\n\nPV\nas\nSIGNAL FROM\nOEMETHANIZER\nBOTTOMS\nFIC-30766 py\nDeo\nFROM AIC-30885C\nSee\nHYDROGEN\nFROM T-30299-35",
+      "direction": "inflow",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 10,
+      "bbox_xywh": [
+        150,
+        681,
+        79,
+        23
+      ],
+      "reference_tag": null,
+      "description": "TO GREEN OIL KO",
+      "equipment_tag": "TK-220N",
+      "raw_ocr_text": "TO GREEN OIL KO\nPOT (TK-220N-1)",
+      "direction": "outflow",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 11,
+      "bbox_xywh": [
+        151,
+        806,
+        79,
+        23
+      ],
+      "reference_tag": "G-51900",
+      "description": "FROM ACETYLENE REACTOR FEED /EFFLUENT",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM ACETYLENE\nREACTOR\n\nFEED /EFFLUENT\nEXCHANGER",
+      "direction": "inflow",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 12,
+      "bbox_xywh": [
+        1954,
+        907,
+        78,
+        22
+      ],
+      "reference_tag": null,
+      "description": "Xe NS N RE-103NAN S Van pR0807) 24\"mw 0 3B UML a",
+      "equipment_tag": null,
+      "raw_ocr_text": "Xe NS\nN\nRE-103NAN\nS\nVan\npR0807)\n24\"mw 0\n3B\nUML\na\nto \\O TD 4",
+      "direction": "outflow",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 13,
+      "bbox_xywh": [
+        150,
+        920,
+        79,
+        23
+      ],
+      "reference_tag": "G-32247",
+      "description": "TO WARM FLARE",
+      "equipment_tag": null,
+      "raw_ocr_text": "TO WARM FLARE\nHEADER",
+      "direction": "outflow",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 14,
+      "bbox_xywh": [
+        151,
+        1074,
+        78,
+        24
+      ],
+      "reference_tag": "G-30355",
+      "description": "COOLING WATER RETURN",
+      "equipment_tag": null,
+      "raw_ocr_text": "COOLING WATER\nRETURN\nTO CW HEADER",
+      "direction": "outflow",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 15,
+      "bbox_xywh": [
+        151,
+        1256,
+        79,
+        23
+      ],
+      "reference_tag": "G-30355",
+      "description": "COOLING WATER SUPPLY",
+      "equipment_tag": null,
+      "raw_ocr_text": "COOLING WATER\nSUPPLY\nFROM CW HEADER",
+      "direction": "inflow",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 16,
+      "bbox_xywh": [
+        2856,
+        1357,
+        79,
+        23
+      ],
+      "reference_tag": "G-30302",
+      "description": "RX REGEN GAS FROM J.T. ACETYLENE REACTOR (RE-106)",
+      "equipment_tag": null,
+      "raw_ocr_text": "RX REGEN GAS FROM\nJ.T. ACETYLENE REACTOR\n(RE-106)\n\nFROM T\u201430302-211",
+      "direction": "inflow",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 17,
+      "bbox_xywh": [
+        2856,
+        1401,
+        79,
+        23
+      ],
+      "reference_tag": "G-30258",
+      "description": "RX REGEN GAS FROM J.T. ACETYLENE REACTOR (RE-106) FROM T\u201430302-211",
+      "equipment_tag": null,
+      "raw_ocr_text": "RX REGEN GAS FROM\n\nJ.T. ACETYLENE REACTOR\n\n(RE-106)\n\nFROM T\u201430302-211\nETHANE FROM",
+      "direction": "inflow",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 18,
+      "bbox_xywh": [
+        2856,
+        1458,
+        79,
+        24
+      ],
+      "reference_tag": "G-30288",
+      "description": "NATURAL GAS FROM",
+      "equipment_tag": null,
+      "raw_ocr_text": "NATURAL GAS FROM\nMANIFOLD",
+      "direction": "inflow",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 19,
+      "bbox_xywh": [
+        2857,
+        1589,
+        79,
+        23
+      ],
+      "reference_tag": "G-30350",
+      "description": "RX REGEN GAS TO REGEN FURNACE (H-104R)",
+      "equipment_tag": null,
+      "raw_ocr_text": "RX REGEN GAS\n\nTO REGEN FURNACE\n(H-104R)\nTO_T-30302-230A/8",
+      "direction": "outflow",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 20,
+      "bbox_xywh": [
+        2821,
+        1651,
+        116,
+        48
+      ],
+      "reference_tag": "G-35052",
+      "description": "RX REGEN GAS TO REGEN FURNACE (H-104R) TO_T-30302-230A/8 TO ACETYLENE REACTOR EFFLUENT COOLER (HE-138) One 6 \u00a7 TO T-30323-59",
+      "equipment_tag": "HE-138",
+      "raw_ocr_text": "RX REGEN GAS\nTO REGEN FURNACE\n(H-104R)\nTO_T-30302-230A/8\nTO ACETYLENE\nREACTOR EFFLUENT\nCOOLER (HE-138)\nOne 6 \u00a7 TO T-30323-59\n\u2014 rai 08\"",
+      "direction": "outflow",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 21,
+      "bbox_xywh": [
+        151,
+        1751,
+        78,
+        23
+      ],
+      "reference_tag": "G-32251",
+      "description": "CONDENSATE TO TK-146 (30#STEAM FLASH DRUM)",
+      "equipment_tag": "TK-146",
+      "raw_ocr_text": "CONDENSATE\nTO TK-146\n(30#STEAM\nFLASH DRUM)\n130286-110",
+      "direction": "outflow",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 22,
+      "bbox_xywh": [
+        2856,
+        1753,
+        79,
+        23
+      ],
+      "reference_tag": "G-30324",
+      "description": "TO T-30302-230A/B TO ACETYLENE REACTOR EFFLUENT COOLER (HE-138) \u00b0 TO T-30323-59 a By\" 5139-420 iM A YLENE REMOVAL REACTORS (RE\u20141014/B) FROM T-30324-61",
+      "equipment_tag": "HE-138",
+      "raw_ocr_text": "TO T-30302-230A/B\nTO ACETYLENE\nREACTOR EFFLUENT\nCOOLER (HE-138)\n\u00b0 TO T-30323-59\na\nBy\" 5139-420\niM A YLENE\nREMOVAL REACTORS\n(RE\u20141014/B)\nFROM T-30324-61\nAZ0TE <C~S0824\u00a2",
+      "direction": "outflow",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 23,
+      "bbox_xywh": [
+        151,
+        1874,
+        79,
+        23
+      ],
+      "reference_tag": "G-32251",
+      "description": "160 PSIG SILAM",
+      "equipment_tag": null,
+      "raw_ocr_text": "160 PSIG SILAM\n| FROM T\u201430360-95",
+      "direction": "inflow",
+      "chevron_point_orientation": "points_right"
+    }
+  ]
+}

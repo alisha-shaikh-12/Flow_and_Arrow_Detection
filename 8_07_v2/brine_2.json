@@ -1,0 +1,82 @@
+{
+  "source_image": "brine_2.jpeg",
+  "image_size": {
+    "width": 10800,
+    "height": 7200
+  },
+  "connector_count": 4,
+  "connectors": [
+    {
+      "id": 1,
+      "bbox_xywh": [
+        424,
+        703,
+        507,
+        95
+      ],
+      "reference_tag": "G-10231",
+      "description": "TERED BRINE SIORAGE TF \u00a9",
+      "equipment_tag": null,
+      "raw_ocr_text": "TERED BRINE SIORAGE TF\n\u00a9\n5 O7A-10231",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 2,
+      "bbox_xywh": [
+        424,
+        1153,
+        506,
+        95
+      ],
+      "reference_tag": "G-10122",
+      "description": "TERED BRINE PUMPS",
+      "equipment_tag": null,
+      "raw_ocr_text": "TERED BRINE PUMPS\n19 O7A-10122",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 3,
+      "bbox_xywh": [
+        9218,
+        1828,
+        507,
+        95
+      ],
+      "reference_tag": "G-10236",
+      "description": "BRINE ION EXCHANGE U",
+      "equipment_tag": null,
+      "raw_ocr_text": "BRINE ION EXCHANGE U\nQO7A-10236 3",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 4,
+      "bbox_xywh": [
+        9219,
+        5203,
+        506,
+        95
+      ],
+      "reference_tag": "G-10233",
+      "description": "TQ BRINE ION EXCHANGE",
+      "equipment_tag": null,
+      "raw_ocr_text": "TQ BRINE ION EXCHANGE\nO7A-10233 20",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left"
+    }
+  ]
+}

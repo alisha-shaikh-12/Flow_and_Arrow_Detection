@@ -1,0 +1,316 @@
+{
+  "source_image": "page_97.png",
+  "image_size": {
+    "width": 3024,
+    "height": 2160
+  },
+  "connector_count": 17,
+  "connectors": [
+    {
+      "id": 1,
+      "bbox_xywh": [
+        130,
+        147,
+        78,
+        24
+      ],
+      "reference_tag": "G-30300",
+      "description": "FROM SV\u00a5-1222/25/24",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM SV\u00a5-1222/25/24\n@\u00ae CmM-107",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 2,
+      "bbox_xywh": [
+        2888,
+        203,
+        79,
+        23
+      ],
+      "reference_tag": "G-50350",
+      "description": "VRIEU CSO PRODUCT 10 P/P SPLITTER COLUMN",
+      "equipment_tag": null,
+      "raw_ocr_text": "VRIEU CSO PRODUCT 10\nP/P SPLITTER COLUMN\n(CL=116A)",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 3,
+      "bbox_xywh": [
+        129,
+        227,
+        79,
+        23
+      ],
+      "reference_tag": "G-30307",
+      "description": "Co PROUUC! FROM REFLUX PUMPS",
+      "equipment_tag": "PU-115/115S",
+      "raw_ocr_text": "Co PROUUC! FROM\nREFLUX PUMPS\n(PU-115/115S)",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 4,
+      "bbox_xywh": [
+        2888,
+        257,
+        79,
+        23
+      ],
+      "reference_tag": "G-50338",
+      "description": "TO DISTILLATION",
+      "equipment_tag": null,
+      "raw_ocr_text": "TO DISTILLATION\nFLARE HEADER",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 5,
+      "bbox_xywh": [
+        130,
+        308,
+        79,
+        23
+      ],
+      "reference_tag": "G-30302",
+      "description": "FROM SV-1010 & XV-5",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM SV-1010 & XV-5\nAT RE-106",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 6,
+      "bbox_xywh": [
+        2888,
+        321,
+        79,
+        23
+      ],
+      "reference_tag": "G-31914",
+      "description": "DEPRESSURING TO QUENCH COLUMN",
+      "equipment_tag": null,
+      "raw_ocr_text": "DEPRESSURING TO\nQUENCH COLUMN\nCL-101-1",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 7,
+      "bbox_xywh": [
+        2888,
+        376,
+        79,
+        23
+      ],
+      "reference_tag": "G-30339",
+      "description": "DEPRESSURING TO QUENCH COLUMN CL-101-1 TO DISTILLATION",
+      "equipment_tag": null,
+      "raw_ocr_text": "DEPRESSURING TO\nQUENCH COLUMN\nCL-101-1\n\nTO DISTILLATION\nFLARE HEADER",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 8,
+      "bbox_xywh": [
+        128,
+        387,
+        84,
+        23
+      ],
+      "reference_tag": "G-30307",
+      "description": "ANALOG SIGNAL FROM UC-787 (DEPROP.",
+      "equipment_tag": null,
+      "raw_ocr_text": "ANALOG SIGNAL FROM\nUC-787 (DEPROP.\nREFLUX DRUM LEVEL)",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 9,
+      "bbox_xywh": [
+        2888,
+        552,
+        79,
+        23
+      ],
+      "reference_tag": "G-30324",
+      "description": "TO DISTILLATION",
+      "equipment_tag": null,
+      "raw_ocr_text": "TO DISTILLATION\nFLARE HEADER",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 10,
+      "bbox_xywh": [
+        130,
+        1553,
+        79,
+        23
+      ],
+      "reference_tag": "G-30324",
+      "description": "REACTIVATION GAS FRO REGEN. /REACT.",
+      "equipment_tag": null,
+      "raw_ocr_text": "REACTIVATION GAS FRO\nREGEN. /REACT.\nFURNACE (H-104)",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 11,
+      "bbox_xywh": [
+        130,
+        1675,
+        79,
+        23
+      ],
+      "reference_tag": "G-30331",
+      "description": "VAPORS FROM OIr",
+      "equipment_tag": null,
+      "raw_ocr_text": "VAPORS FROM OIr\n| STAGE DISCHARGE",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 12,
+      "bbox_xywh": [
+        2884,
+        1675,
+        79,
+        23
+      ],
+      "reference_tag": "G-30294",
+      "description": "-3JH6 SULPHUR SCRUBBER REGENERATION GAS TO",
+      "equipment_tag": null,
+      "raw_ocr_text": "-3JH6 SULPHUR SCRUBBER\nREGENERATION GAS TO\n\u2018UEL GAS SYSTEM",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 13,
+      "bbox_xywh": [
+        2884,
+        1739,
+        79,
+        23
+      ],
+      "reference_tag": "G-34851",
+      "description": "IQ AN=1310",
+      "equipment_tag": null,
+      "raw_ocr_text": "IQ AN=1310",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 14,
+      "bbox_xywh": [
+        130,
+        1803,
+        78,
+        23
+      ],
+      "reference_tag": "G-30302",
+      "description": "REACTIVATION GAS FRO",
+      "equipment_tag": null,
+      "raw_ocr_text": "REACTIVATION GAS FRO\nJT REACTOR (RE-106)",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 15,
+      "bbox_xywh": [
+        2345,
+        1803,
+        78,
+        23
+      ],
+      "reference_tag": "G-30294",
+      "description": "C3H6 DRYER/JT REACTOR REGENERATION GAS TO REGEN GAS COOLER",
+      "equipment_tag": "HE-118",
+      "raw_ocr_text": "C3H6 DRYER/JT REACTOR\nREGENERATION GAS TO\n\nREGEN GAS COOLER\n\n(HE-118) ;",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "bottom",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 16,
+      "bbox_xywh": [
+        130,
+        1874,
+        79,
+        23
+      ],
+      "reference_tag": "G-30324",
+      "description": "REGEN. /REAGT. GAS",
+      "equipment_tag": null,
+      "raw_ocr_text": "REGEN. /REAGT. GAS\n| FROM FURNACE (H-104)",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 17,
+      "bbox_xywh": [
+        2345,
+        1874,
+        79,
+        23
+      ],
+      "reference_tag": "G-30302",
+      "description": "REACTIVATION GAS TO JT REACTOR EXCH. (HE-230) oa = Cid",
+      "equipment_tag": "HE-230",
+      "raw_ocr_text": "REACTIVATION GAS TO\nJT REACTOR EXCH.\n\n(HE-230) oa\n\n=\n\nCid\n\n=",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "bottom",
+      "chevron_point_orientation": "points_right"
+    }
+  ]
+}

@@ -1,0 +1,442 @@
+{
+  "source_image": "page_61.png",
+  "image_size": {
+    "width": 12600,
+    "height": 9000
+  },
+  "connector_count": 24,
+  "connectors": [
+    {
+      "id": 1,
+      "bbox_xywh": [
+        531,
+        418,
+        328,
+        91
+      ],
+      "reference_tag": "G-30290",
+      "description": "RECYCLE TO STA",
+      "equipment_tag": null,
+      "raw_ocr_text": "RECYCLE TO STA\nRECYCLE DRUM (",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 2,
+      "bbox_xywh": [
+        11928,
+        680,
+        328,
+        92
+      ],
+      "reference_tag": "G-30355",
+      "description": "",
+      "equipment_tag": null,
+      "raw_ocr_text": "",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 3,
+      "bbox_xywh": [
+        528,
+        705,
+        338,
+        97
+      ],
+      "reference_tag": "G-30290",
+      "description": "TO CONTROL VAL",
+      "equipment_tag": null,
+      "raw_ocr_text": "TO CONTROL VAL\nNEAR 3rd STG. D",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 4,
+      "bbox_xywh": [
+        11928,
+        913,
+        328,
+        92
+      ],
+      "reference_tag": "G-30335",
+      "description": "",
+      "equipment_tag": null,
+      "raw_ocr_text": "",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 5,
+      "bbox_xywh": [
+        528,
+        939,
+        372,
+        97
+      ],
+      "reference_tag": "G-99999",
+      "description": "NNN OPEN CONTROL VAL",
+      "equipment_tag": null,
+      "raw_ocr_text": "NNN\nOPEN CONTROL VAL\nUPON SHUTDOWN",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 6,
+      "bbox_xywh": [
+        534,
+        1178,
+        328,
+        92
+      ],
+      "reference_tag": "G-30333",
+      "description": "",
+      "equipment_tag": null,
+      "raw_ocr_text": "",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 7,
+      "bbox_xywh": [
+        11928,
+        1490,
+        328,
+        91
+      ],
+      "reference_tag": "G-90291",
+      "description": "DRUM (IK-10/\u2014-1,",
+      "equipment_tag": null,
+      "raw_ocr_text": "DRUM (IK-10/\u2014-1,",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 8,
+      "bbox_xywh": [
+        534,
+        1680,
+        328,
+        91
+      ],
+      "reference_tag": "G-90249",
+      "description": "|",
+      "equipment_tag": null,
+      "raw_ocr_text": "|",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 9,
+      "bbox_xywh": [
+        11928,
+        1900,
+        328,
+        92
+      ],
+      "reference_tag": "G-30335",
+      "description": "",
+      "equipment_tag": null,
+      "raw_ocr_text": "",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 10,
+      "bbox_xywh": [
+        11523,
+        2022,
+        752,
+        226
+      ],
+      "reference_tag": null,
+      "description": "SIGNAL TO\u2019 DEI TEMP. LCR\u201d _ \\G>30298\u2122~N ~0 -\u20140 -\u2014_- 0 \u2014~\u2014- 0-\u2014",
+      "equipment_tag": null,
+      "raw_ocr_text": "SIGNAL TO\u2019 DEI\nTEMP. LCR\u201d\n_ \\G>30298\u2122~N\n~0 -\u20140 -\u2014_- 0 \u2014~\u2014- 0-\u2014\nadn an gy MUMMY",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 11,
+      "bbox_xywh": [
+        528,
+        2367,
+        774,
+        96
+      ],
+      "reference_tag": "G-30336",
+      "description": "3160A 316 160A/ WI DV INJECTION INJECTION OIL OIL FLUSH Sonsossy",
+      "equipment_tag": null,
+      "raw_ocr_text": "3160A 316\n160A/ WI\nDV INJECTION\nINJECTION OIL OIL FLUSH\nSonsossy\nz/A\u201d",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 12,
+      "bbox_xywh": [
+        11928,
+        2781,
+        328,
+        91
+      ],
+      "reference_tag": "G-99290",
+      "description": "",
+      "equipment_tag": null,
+      "raw_ocr_text": "",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 13,
+      "bbox_xywh": [
+        534,
+        3017,
+        328,
+        91
+      ],
+      "reference_tag": "G-99992",
+      "description": "",
+      "equipment_tag": null,
+      "raw_ocr_text": "",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 14,
+      "bbox_xywh": [
+        528,
+        3474,
+        1608,
+        255
+      ],
+      "reference_tag": "G-30952",
+      "description": "TV \\S Aw ae, PROPYLENE LIQUID / 3399 VAPOR TO HPFD (TK\u2014133) \u201d_ RAL FO 6 v 6",
+      "equipment_tag": null,
+      "raw_ocr_text": "TV \\S Aw ae,\nPROPYLENE LIQUID / 3399\nVAPOR TO HPFD\n(TK\u2014133)\n\u201d_ RAL FO\n6 v 6\nT7711 a Tw \u201cA",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 15,
+      "bbox_xywh": [
+        531,
+        3706,
+        328,
+        91
+      ],
+      "reference_tag": "G-30335",
+      "description": "NNN TO COLD",
+      "equipment_tag": null,
+      "raw_ocr_text": "NNN\nTO COLD\nFLARE HEADER",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 16,
+      "bbox_xywh": [
+        11703,
+        4316,
+        557,
+        136
+      ],
+      "reference_tag": "G-30360",
+      "description": "s. 180# PSIG STEAM + CO= 30860",
+      "equipment_tag": null,
+      "raw_ocr_text": "s. 180# PSIG STEAM\n+ CO= 30860\nwy ed",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 17,
+      "bbox_xywh": [
+        525,
+        4768,
+        635,
+        141
+      ],
+      "reference_tag": null,
+      "description": "LIQUID PROPYLENE FROM RECYCLE VAPORIZER ;",
+      "equipment_tag": null,
+      "raw_ocr_text": "LIQUID PROPYLENE\n\nFROM RECYCLE\n\nVAPORIZER ;\n\nSes 3\u201d\u2014P\u20141828\u2014",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 18,
+      "bbox_xywh": [
+        11928,
+        5524,
+        328,
+        91
+      ],
+      "reference_tag": null,
+      "description": "CONDENSATE",
+      "equipment_tag": null,
+      "raw_ocr_text": "CONDENSATE",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "low",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 19,
+      "bbox_xywh": [
+        531,
+        5568,
+        328,
+        91
+      ],
+      "reference_tag": "G-30289",
+      "description": "OILY WATER TO OIL WATER SEPAI (TK-102",
+      "equipment_tag": "TK-102",
+      "raw_ocr_text": "OILY WATER TO\n\nOIL WATER SEPAI\n\n(TK-102\nG\u201430289",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 20,
+      "bbox_xywh": [
+        11928,
+        5821,
+        328,
+        92
+      ],
+      "reference_tag": "G-30357",
+      "description": "TANK (TK\u2014211)",
+      "equipment_tag": null,
+      "raw_ocr_text": "TANK (TK\u2014211)",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 21,
+      "bbox_xywh": [
+        10591,
+        6518,
+        1669,
+        243
+      ],
+      "reference_tag": "G-30307",
+      "description": "FEEDGAS SIRIPPEI BOTTOMS TO rat ON \u2014",
+      "equipment_tag": null,
+      "raw_ocr_text": "FEEDGAS SIRIPPEI\nBOTTOMS TO\nrat ON\n\u2014\n3/4\"",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 22,
+      "bbox_xywh": [
+        11928,
+        7160,
+        328,
+        92
+      ],
+      "reference_tag": "G-30293",
+      "description": "(DR-101M A/B/C",
+      "equipment_tag": null,
+      "raw_ocr_text": "(DR-101M A/B/C",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 23,
+      "bbox_xywh": [
+        9758,
+        7526,
+        329,
+        92
+      ],
+      "reference_tag": "G-30284",
+      "description": "TQ OIL\u2014WATER SEPARATOR TK\u2014-163",
+      "equipment_tag": null,
+      "raw_ocr_text": "TQ OIL\u2014WATER\nSEPARATOR\nTK\u2014-163\nG\u2014 30284",
+      "direction": "outflow",
+      "direction_source": "geometry:edge_convention_weak",
+      "confidence": "medium",
+      "nearest_edge": "bottom",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 24,
+      "bbox_xywh": [
+        9758,
+        7842,
+        329,
+        92
+      ],
+      "reference_tag": "G-30357",
+      "description": "TANK (TK\u2014211)",
+      "equipment_tag": null,
+      "raw_ocr_text": "TANK (TK\u2014211)",
+      "direction": "outflow",
+      "direction_source": "geometry:edge_convention_weak",
+      "confidence": "medium",
+      "nearest_edge": "bottom",
+      "chevron_point_orientation": "points_right"
+    }
+  ]
+}

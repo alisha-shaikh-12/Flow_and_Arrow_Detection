@@ -1,0 +1,136 @@
+{
+  "source_image": "page_65.png",
+  "image_size": {
+    "width": 3024,
+    "height": 2160
+  },
+  "connector_count": 7,
+  "connectors": [
+    {
+      "id": 1,
+      "bbox_xywh": [
+        1902,
+        167,
+        68,
+        18
+      ],
+      "reference_tag": null,
+      "description": "o_O",
+      "equipment_tag": null,
+      "raw_ocr_text": "o_O",
+      "direction": "inflow",
+      "direction_source": "geometry:edge_convention_weak",
+      "confidence": "low",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 2,
+      "bbox_xywh": [
+        126,
+        343,
+        79,
+        23
+      ],
+      "reference_tag": "G-30324",
+      "description": "METHANE RICH TAIL GAS FROM LIQ. PROP. SUB-COOLER",
+      "equipment_tag": "HE-126",
+      "raw_ocr_text": "METHANE RICH TAIL\nGAS FROM LIQ. PROP.\nSUB-COOLER\n(HE-126-2)",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 3,
+      "bbox_xywh": [
+        126,
+        386,
+        78,
+        24
+      ],
+      "reference_tag": null,
+      "description": "| NITROGEN",
+      "equipment_tag": null,
+      "raw_ocr_text": "| NITROGEN",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "low",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 4,
+      "bbox_xywh": [
+        123,
+        1007,
+        311,
+        45
+      ],
+      "reference_tag": null,
+      "description": "COOLING WATER RETURN 4\"\u2014WR2030-15CS9 ~",
+      "equipment_tag": null,
+      "raw_ocr_text": "COOLING WATER\nRETURN\n4\"\u2014WR2030-15CS9 ~\n12874, \u2014,,",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 5,
+      "bbox_xywh": [
+        124,
+        1218,
+        592,
+        68
+      ],
+      "reference_tag": "G-30288",
+      "description": "a 1 (2874 a 7 3/4\u00b0x1\" SET @ ae. 150 PSIG | as Ys y ATMOS | V SET@ . HE\u2014-109A on 150 PSIG 1 OIL COOLER (AxX2\" B2 jw z \" . S & S12 3/4 3/4 =\\> XY 3\" o ~ 7\u201d Ls oO I= COOLING WATER yy ro SUPPLY A OIL H20 | G\u2014 30288 4\"\u2014WC2030\u2014 9 DRAIN DRAIN | > ix",
+      "equipment_tag": null,
+      "raw_ocr_text": "a\n1 (2874 a\n7\n3/4\u00b0x1\"\nSET @ ae.\n150 PSIG | as Ys y\nATMOS |\nV\nSET@ . HE\u2014-109A on\n150 PSIG 1 OIL COOLER (AxX2\" B2 jw\nz\n\" . S & S12\n3/4 3/4 =\\>\nXY 3\" o ~\n7\u201d Ls oO I=\nCOOLING WATER yy ro\nSUPPLY A OIL H20 |\nG\u2014 30288 4\"\u2014WC2030\u2014 9 DRAIN DRAIN |\n> ix\nARR",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 6,
+      "bbox_xywh": [
+        126,
+        1309,
+        78,
+        23
+      ],
+      "reference_tag": null,
+      "description": "lS",
+      "equipment_tag": null,
+      "raw_ocr_text": "lS",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "low",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 7,
+      "bbox_xywh": [
+        2873,
+        1457,
+        79,
+        23
+      ],
+      "reference_tag": "G-50288",
+      "description": "VENT TO COMP. SUCT. DRUM (TK-109)",
+      "equipment_tag": "TK-109",
+      "raw_ocr_text": "VENT TO COMP.\nSUCT. DRUM\n(TK-109)\n\n23 G\u201430288",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "source_image": "page_114.png",
+  "image_size": {
+    "width": 3024,
+    "height": 2160
+  },
+  "connector_count": 17,
+  "connectors": [
+    {
+      "id": 1,
+      "bbox_xywh": [
+        137,
+        428,
+        79,
+        23
+      ],
+      "reference_tag": "G-30353",
+      "description": "FROM ISF TRANSFER PUMPS",
+      "equipment_tag": "PU-197A/8",
+      "raw_ocr_text": "FROM ISF\nTRANSFER PUMPS\n(PU-197A/8)",
+      "direction": "inflow",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 2,
+      "bbox_xywh": [
+        137,
+        520,
+        79,
+        23
+      ],
+      "reference_tag": "G-30345",
+      "description": "FROM STORM WATER TRANSFER PUMPS",
+      "equipment_tag": "PU-2224/B",
+      "raw_ocr_text": "FROM STORM WATER\nTRANSFER PUMPS\n(PU-2224/B)",
+      "direction": "inflow",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 3,
+      "bbox_xywh": [
+        2866,
+        579,
+        78,
+        24
+      ],
+      "reference_tag": "G-30564",
+      "description": "TOWER #5 COOLING WATER",
+      "equipment_tag": null,
+      "raw_ocr_text": "TOWER #5\nCOOLING WATER\ngr RETURN",
+      "direction": "inflow",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 4,
+      "bbox_xywh": [
+        137,
+        601,
+        79,
+        23
+      ],
+      "reference_tag": "G-30344",
+      "description": "FROM STORM WATER TRANSFER PUMPS",
+      "equipment_tag": "PU-220A/B/C",
+      "raw_ocr_text": "FROM STORM WATER\nTRANSFER PUMPS\n(PU-220A/B/C)",
+      "direction": "inflow",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 5,
+      "bbox_xywh": [
+        137,
+        687,
+        79,
+        23
+      ],
+      "reference_tag": "G-30344",
+      "description": "FROM STORM WATER TRANSFER PUMPS",
+      "equipment_tag": "PU-217A/B/C",
+      "raw_ocr_text": "FROM STORM WATER\nTRANSFER PUMPS\n(PU-217A/B/C)",
+      "direction": "inflow",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 6,
+      "bbox_xywh": [
+        137,
+        786,
+        78,
+        24
+      ],
+      "reference_tag": "G-30345",
+      "description": "FROM STORM WATER TRANSFER PUMPS",
+      "equipment_tag": "PU-2264/B",
+      "raw_ocr_text": "FROM STORM WATER\nTRANSFER PUMPS\n(PU-2264/B)",
+      "direction": "inflow",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 7,
+      "bbox_xywh": [
+        137,
+        897,
+        79,
+        23
+      ],
+      "reference_tag": "G-30345",
+      "description": "FROM SIORM WATER TRANSFER PUMPS",
+      "equipment_tag": "PU-223A/B",
+      "raw_ocr_text": "FROM SIORM WATER\nTRANSFER PUMPS\n(PU-223A/B)",
+      "direction": "inflow",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 8,
+      "bbox_xywh": [
+        137,
+        971,
+        79,
+        23
+      ],
+      "reference_tag": "G-30345",
+      "description": "FROM SIORM WATER TRANSFER PUMPS",
+      "equipment_tag": "PU-224A/B",
+      "raw_ocr_text": "FROM SIORM WATER\nTRANSFER PUMPS\n(PU-224A/B)",
+      "direction": "inflow",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 9,
+      "bbox_xywh": [
+        2865,
+        1003,
+        79,
+        23
+      ],
+      "reference_tag": "G-30564",
+      "description": "TOWER #5 COOLING WATER SUPPLY",
+      "equipment_tag": null,
+      "raw_ocr_text": "TOWER #5\nCOOLING WATER\nSUPPLY\n__\u00a26- 305647",
+      "direction": "outflow",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 10,
+      "bbox_xywh": [
+        137,
+        1049,
+        78,
+        24
+      ],
+      "reference_tag": "G-30343",
+      "description": "FROM STORM WATER TRANSFER PUMPS",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM STORM WATER\nTRANSFER PUMPS\n(PU-225A4/B)",
+      "direction": "inflow",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 11,
+      "bbox_xywh": [
+        2866,
+        1098,
+        79,
+        23
+      ],
+      "reference_tag": "G-30503",
+      "description": "TO SECONDARY TREATMENT EQUALIZATION TANK",
+      "equipment_tag": "TK-1850",
+      "raw_ocr_text": "TO SECONDARY\nTREATMENT\nEQUALIZATION TANK\n(TK-1850)",
+      "direction": "outflow",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 12,
+      "bbox_xywh": [
+        137,
+        1143,
+        79,
+        23
+      ],
+      "reference_tag": "G-30345",
+      "description": "FROM SIORM WATER TRANSFER PUMPS",
+      "equipment_tag": "PU-2184/8",
+      "raw_ocr_text": "FROM SIORM WATER\nTRANSFER PUMPS\n(PU-2184/8)",
+      "direction": "inflow",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 13,
+      "bbox_xywh": [
+        2865,
+        1169,
+        79,
+        23
+      ],
+      "reference_tag": null,
+      "description": "WASTEWATER",
+      "equipment_tag": null,
+      "raw_ocr_text": "WASTEWATER\nFROM CYMETECH",
+      "direction": "inflow",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 14,
+      "bbox_xywh": [
+        137,
+        1277,
+        79,
+        23
+      ],
+      "reference_tag": "G-30344",
+      "description": "FROM SIORM WATER TRANSFER PUMPS",
+      "equipment_tag": "PU-2274/B8/C",
+      "raw_ocr_text": "FROM SIORM WATER\nTRANSFER PUMPS\n(PU-2274/B8/C)",
+      "direction": "inflow",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 15,
+      "bbox_xywh": [
+        2866,
+        1279,
+        78,
+        23
+      ],
+      "reference_tag": "G-30347",
+      "description": "TO PRIMARY TREATMENT EQUAL.",
+      "equipment_tag": "TK-191",
+      "raw_ocr_text": "TO PRIMARY\nTREATMENT EQUAL.\nTANK (TK-191)",
+      "direction": "outflow",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 16,
+      "bbox_xywh": [
+        137,
+        1373,
+        78,
+        24
+      ],
+      "reference_tag": "G-30344",
+      "description": "FROM STORM WATER TRANSFER PUMPS",
+      "equipment_tag": "PU-219A/B8/C",
+      "raw_ocr_text": "FROM STORM WATER\nTRANSFER PUMPS\n(PU-219A/B8/C)",
+      "direction": "inflow",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 17,
+      "bbox_xywh": [
+        137,
+        1465,
+        79,
+        23
+      ],
+      "reference_tag": "G-30545",
+      "description": "FROM STORM WATER TRANSFER PUMPS",
+      "equipment_tag": "PU-2214/8",
+      "raw_ocr_text": "FROM STORM WATER\nTRANSFER PUMPS\n(PU-2214/8)",
+      "direction": "inflow",
+      "chevron_point_orientation": "points_right"
+    }
+  ]
+}

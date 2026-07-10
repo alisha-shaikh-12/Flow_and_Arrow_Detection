@@ -1,0 +1,244 @@
+{
+  "source_image": "brine_3.jpeg",
+  "image_size": {
+    "width": 10800,
+    "height": 7200
+  },
+  "connector_count": 13,
+  "connectors": [
+    {
+      "id": 1,
+      "bbox_xywh": [
+        205,
+        372,
+        521,
+        97
+      ],
+      "reference_tag": "G-10235",
+      "description": "2 O7A- 10255",
+      "equipment_tag": null,
+      "raw_ocr_text": "2 O7A- 10255",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 2,
+      "bbox_xywh": [
+        9391,
+        605,
+        707,
+        101
+      ],
+      "reference_tag": "G-10232",
+      "description": "REMOVAL COLUMN",
+      "equipment_tag": null,
+      "raw_ocr_text": "REMOVAL COLUMN\nO7A-10232 (8) 3",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 3,
+      "bbox_xywh": [
+        205,
+        607,
+        521,
+        97
+      ],
+      "reference_tag": "G-10235",
+      "description": "3 O7A- 10235",
+      "equipment_tag": null,
+      "raw_ocr_text": "3 O7A- 10235",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 4,
+      "bbox_xywh": [
+        206,
+        1783,
+        519,
+        97
+      ],
+      "reference_tag": "G-10235",
+      "description": "/ O7 A= 10235",
+      "equipment_tag": null,
+      "raw_ocr_text": "/ O7 A= 10235",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 5,
+      "bbox_xywh": [
+        9390,
+        2251,
+        708,
+        102
+      ],
+      "reference_tag": "G-10039",
+      "description": "H-IDIC 7 ALKALINE EFFLUENIS 7 ) DI WASTE NEUTRALIZATION TANI 07A-10039 (4 > -",
+      "equipment_tag": null,
+      "raw_ocr_text": "H-IDIC 7 ALKALINE EFFLUENIS 7\n) DI WASTE NEUTRALIZATION TANI\n07A-10039 (4 > -\n\n10 7",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 6,
+      "bbox_xywh": [
+        9390,
+        2722,
+        708,
+        101
+      ],
+      "reference_tag": "G-10270",
+      "description": "TO BRINE WATER TANK . O7A-10270 (is > -",
+      "equipment_tag": null,
+      "raw_ocr_text": "TO BRINE WATER TANK .\nO7A-10270 (is > -\nLo \\2",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 7,
+      "bbox_xywh": [
+        9390,
+        4133,
+        708,
+        102
+      ],
+      "reference_tag": "G-10238",
+      "description": ", PURE BRINE STORAGE TANK + O7A-10238 07>",
+      "equipment_tag": null,
+      "raw_ocr_text": ", PURE BRINE STORAGE TANK +\nO7A-10238 07>\n18 \u00b0",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 8,
+      "bbox_xywh": [
+        9390,
+        5309,
+        708,
+        102
+      ],
+      "reference_tag": "G-10237",
+      "description": "AE-4333 & 4334 O7A-10237 (o>",
+      "equipment_tag": null,
+      "raw_ocr_text": "AE-4333 & 4334\nO7A-10237 (o>\nee\u2019",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 9,
+      "bbox_xywh": [
+        206,
+        5782,
+        519,
+        97
+      ],
+      "reference_tag": "G-10235",
+      "description": "25 O7A-10235",
+      "equipment_tag": null,
+      "raw_ocr_text": "25 O7A-10235",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 10,
+      "bbox_xywh": [
+        8292,
+        6015,
+        826,
+        102
+      ],
+      "reference_tag": "G-10233",
+      "description": "- 25 WATER/HCI/NAOH FROM CHEMICAL DILUTION STATION O7A-10233",
+      "equipment_tag": null,
+      "raw_ocr_text": "- 25\nWATER/HCI/NAOH FROM\nCHEMICAL DILUTION STATION\n\nO7A-10233\n4-\u2014<07A-10233 (03) fe",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "bottom",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 11,
+      "bbox_xywh": [
+        205,
+        6017,
+        521,
+        97
+      ],
+      "reference_tag": "G-10235",
+      "description": "26 U7 A= 1023.5",
+      "equipment_tag": null,
+      "raw_ocr_text": "26 U7 A= 1023.5",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 12,
+      "bbox_xywh": [
+        8409,
+        6250,
+        709,
+        102
+      ],
+      "reference_tag": "G-10233",
+      "description": "~\\ Ws ty ee ee IJ : 126 DRAIN TO PROCESS SEWER O7A- 10233 27)",
+      "equipment_tag": null,
+      "raw_ocr_text": "~\\ Ws ty ee ee IJ : 126\nDRAIN TO PROCESS SEWER\nO7A- 10233 27)\n\nZo 2d|",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "bottom",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 13,
+      "bbox_xywh": [
+        205,
+        6253,
+        519,
+        97
+      ],
+      "reference_tag": "G-10235",
+      "description": "2 if QO7A-10235",
+      "equipment_tag": null,
+      "raw_ocr_text": "2 if QO7A-10235",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "source_image": "brine_1.jpeg",
+  "image_size": {
+    "width": 10800,
+    "height": 7200
+  },
+  "connector_count": 6,
+  "connectors": [
+    {
+      "id": 1,
+      "bbox_xywh": [
+        9216,
+        1378,
+        506,
+        95
+      ],
+      "reference_tag": "G-10347",
+      "description": "TQ ELECTROLYZERS",
+      "equipment_tag": null,
+      "raw_ocr_text": "TQ ELECTROLYZERS\nO7A- 1034/7 15",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 2,
+      "bbox_xywh": [
+        423,
+        1603,
+        506,
+        95
+      ],
+      "reference_tag": "G-10237",
+      "description": "--4335 &@ AE-4354",
+      "equipment_tag": null,
+      "raw_ocr_text": "--4335 &@ AE-4354\n10 OTA. = 10.25 7",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 3,
+      "bbox_xywh": [
+        423,
+        3178,
+        506,
+        95
+      ],
+      "reference_tag": "G-10238",
+      "description": "IRE BRINE SIORAGE TANK",
+      "equipment_tag": null,
+      "raw_ocr_text": "IRE BRINE SIORAGE TANK\n/ O7A-10238",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 4,
+      "bbox_xywh": [
+        5334,
+        4772,
+        1070,
+        227
+      ],
+      "reference_tag": "G-12300",
+      "description": "<| +L 2\"-O07A-123002-PLO14 /",
+      "equipment_tag": null,
+      "raw_ocr_text": "<| +L 2\"-O07A-123002-PLO14\n/\n266 al",
+      "direction": "outflow",
+      "direction_source": "geometry:edge_convention_weak",
+      "confidence": "medium",
+      "nearest_edge": "bottom",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 5,
+      "bbox_xywh": [
+        423,
+        4978,
+        506,
+        95
+      ],
+      "reference_tag": "G-10238",
+      "description": "JRE BRINE PUMPS",
+      "equipment_tag": null,
+      "raw_ocr_text": "JRE BRINE PUMPS\n10 O7A-10238",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 6,
+      "bbox_xywh": [
+        9217,
+        5203,
+        505,
+        95
+      ],
+      "reference_tag": "G-10231",
+      "description": "FILTERED BRINE HEATER",
+      "equipment_tag": null,
+      "raw_ocr_text": "FILTERED BRINE HEATER\nO7A- 10231 \u201cZY",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left"
+    }
+  ]
+}

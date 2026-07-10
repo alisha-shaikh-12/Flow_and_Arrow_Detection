@@ -1,0 +1,20 @@
+{
+  "source_image": ".\\output_images\\page_154.png",
+  "timestamp": "2026-07-10T01:52:47.291225",
+  "image_size": {
+    "width": 3024,
+    "height": 2160
+  },
+  "parameters": {
+    "min_area": 1200,
+    "max_area": 480000,
+    "aspect_min": 1.0,
+    "aspect_max": 8.0,
+    "conv_min": 0.6
+  },
+  "connectors": [],
+  "total": 0,
+  "outgoing": 0,
+  "incoming": 0,
+  "unknown": 0
+}

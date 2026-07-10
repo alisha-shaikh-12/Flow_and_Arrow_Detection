@@ -1,0 +1,208 @@
+{
+  "source_image": "page_111.png",
+  "image_size": {
+    "width": 3024,
+    "height": 2160
+  },
+  "connector_count": 11,
+  "connectors": [
+    {
+      "id": 1,
+      "bbox_xywh": [
+        2050,
+        195,
+        68,
+        18
+      ],
+      "reference_tag": null,
+      "description": "",
+      "equipment_tag": null,
+      "raw_ocr_text": "",
+      "direction": "inflow",
+      "direction_source": "geometry:edge_convention_weak",
+      "confidence": "low",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 2,
+      "bbox_xywh": [
+        2861,
+        281,
+        78,
+        23
+      ],
+      "reference_tag": "G-30359",
+      "description": "WW PRESSURE SHUTDOWN",
+      "equipment_tag": null,
+      "raw_ocr_text": "WW PRESSURE SHUTDOWN",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 3,
+      "bbox_xywh": [
+        2860,
+        317,
+        79,
+        23
+      ],
+      "reference_tag": null,
+      "description": "IW PRESSURE SHU IDOWN",
+      "equipment_tag": null,
+      "raw_ocr_text": "IW PRESSURE SHU IDOWN\nELEC. PUMP_START",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "low",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 4,
+      "bbox_xywh": [
+        2860,
+        605,
+        78,
+        23
+      ],
+      "reference_tag": "G-30331",
+      "description": "Ae IN HIGH LEVEL Ke PERUISSIVE YONED_ IN PLACE TOW PRESSUR REF. LINE (START=UP)",
+      "equipment_tag": null,
+      "raw_ocr_text": "Ae IN HIGH LEVEL\nKe PERUISSIVE\nYONED_ IN PLACE\nTOW PRESSUR\nREF. LINE\n(START=UP)\n24",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 5,
+      "bbox_xywh": [
+        136,
+        935,
+        142,
+        23
+      ],
+      "reference_tag": "G-30555",
+      "description": "COOLING WATER RETURN |",
+      "equipment_tag": null,
+      "raw_ocr_text": "COOLING WATER\nRETURN |\n_C\u2014\u2014\u2014",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 6,
+      "bbox_xywh": [
+        136,
+        1156,
+        144,
+        24
+      ],
+      "reference_tag": "G-30555",
+      "description": "COOLING WATER",
+      "equipment_tag": null,
+      "raw_ocr_text": "COOLING WATER\nSUPPLY |",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 7,
+      "bbox_xywh": [
+        2858,
+        1248,
+        78,
+        23
+      ],
+      "reference_tag": "G-30357",
+      "description": "TO CONTAMINATED WATER COLLECTION",
+      "equipment_tag": "TK-211",
+      "raw_ocr_text": "TO CONTAMINATED\nWATER COLLECTION\nTANK (TK-211)",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 8,
+      "bbox_xywh": [
+        2858,
+        1311,
+        78,
+        24
+      ],
+      "reference_tag": null,
+      "description": "TO CONTAMINATED WATER COLLECTION TANK (TK-211) VAPOR TO 1ST STAGE SUCTION",
+      "equipment_tag": "TK-211",
+      "raw_ocr_text": "TO CONTAMINATED\nWATER COLLECTION\nTANK (TK-211)\nVAPOR TO 1ST\nSTAGE SUCTION\nDRUM (TK=<131)",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 9,
+      "bbox_xywh": [
+        136,
+        1433,
+        157,
+        24
+      ],
+      "reference_tag": null,
+      "description": "4 3 35 PSIG : 3\u00b0x2\u201d",
+      "equipment_tag": null,
+      "raw_ocr_text": "4 3\n35 PSIG : 3\u00b0x2\u201d\nSTEAM ca)",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "low",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 10,
+      "bbox_xywh": [
+        138,
+        1566,
+        79,
+        23
+      ],
+      "reference_tag": "G-50560",
+      "description": "ISU PslIG",
+      "equipment_tag": null,
+      "raw_ocr_text": "ISU PslIG\n| STEAM",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 11,
+      "bbox_xywh": [
+        1323,
+        1670,
+        58,
+        26
+      ],
+      "reference_tag": null,
+      "description": "_ ABANDONED IN P LOC-\u20146016-6\"-\u2014CS Ye, 6\u201d OIL RETURN We te. <2 i] CS 3 2\u201d 4 LOC",
+      "equipment_tag": null,
+      "raw_ocr_text": "_ ABANDONED IN P\nLOC-\u20146016-6\"-\u2014CS\nYe, 6\u201d OIL RETURN\nWe\nte.\n<2 i]\nCS\n3 2\u201d\n4 LOC\nata\" a\"",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "bottom",
+      "chevron_point_orientation": "points_right"
+    }
+  ]
+}

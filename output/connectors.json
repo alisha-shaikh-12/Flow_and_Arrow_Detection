@@ -1,0 +1,548 @@
+[
+  {
+    "bbox": {
+      "x": 2472,
+      "y": 1862,
+      "w": 157,
+      "h": 24
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2673,
+      "y": 1794,
+      "w": 92,
+      "h": 31
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2857,
+      "y": 1618,
+      "w": 75,
+      "h": 23
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2855,
+      "y": 1553,
+      "w": 75,
+      "h": 23
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2857,
+      "y": 1500,
+      "w": 75,
+      "h": 23
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 1397,
+      "w": 75,
+      "h": 23
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 1295,
+      "w": 75,
+      "h": 23
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 1200,
+      "w": 75,
+      "h": 23
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 654,
+      "w": 75,
+      "h": 23
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 467,
+      "w": 75,
+      "h": 23
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 128,
+      "y": 415,
+      "w": 75,
+      "h": 23
+    },
+    "page_edge": "left",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 128,
+      "y": 313,
+      "w": 75,
+      "h": 23
+    },
+    "page_edge": "left",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 243,
+      "w": 75,
+      "h": 23
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 148,
+      "w": 75,
+      "h": 23
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 75,
+      "w": 75,
+      "h": 23
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 1682,
+      "w": 74,
+      "h": 23
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 1450,
+      "w": 74,
+      "h": 23
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 1343,
+      "w": 74,
+      "h": 23
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 1247,
+      "w": 74,
+      "h": 23
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 1148,
+      "w": 74,
+      "h": 23
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 1099,
+      "w": 74,
+      "h": 23
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 844,
+      "w": 74,
+      "h": 23
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 738,
+      "w": 74,
+      "h": 23
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 561,
+      "w": 74,
+      "h": 23
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2861,
+      "y": 525,
+      "w": 74,
+      "h": 23
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 408,
+      "w": 74,
+      "h": 23
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 298,
+      "w": 74,
+      "h": 23
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 201,
+      "w": 74,
+      "h": 23
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 181,
+      "y": 1790,
+      "w": 84,
+      "h": 20
+    },
+    "page_edge": "left",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2859,
+      "y": 1732,
+      "w": 74,
+      "h": 22
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 1051,
+      "w": 74,
+      "h": 22
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 1001,
+      "w": 74,
+      "h": 22
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 947,
+      "w": 74,
+      "h": 22
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 893,
+      "w": 74,
+      "h": 22
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 789,
+      "w": 74,
+      "h": 22
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 691,
+      "w": 74,
+      "h": 22
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 614,
+      "w": 74,
+      "h": 22
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2858,
+      "y": 350,
+      "w": 74,
+      "h": 22
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  },
+  {
+    "bbox": {
+      "x": 2883,
+      "y": 1658,
+      "w": 71,
+      "h": 21
+    },
+    "page_edge": "right",
+    "flow": "unknown",
+    "arrow_direction": "unknown",
+    "confidence": 0.0,
+    "text": "",
+    "label_text": ""
+  }
+]
