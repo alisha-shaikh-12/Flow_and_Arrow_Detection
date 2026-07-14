@@ -22,7 +22,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "left",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 2,
@@ -40,7 +41,8 @@
       "direction_source": "geometry:edge+point",
       "confidence": "medium",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 3,
@@ -58,7 +60,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "left",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 4,
@@ -76,7 +79,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 5,
@@ -94,7 +98,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "left",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 6,
@@ -112,7 +117,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 7,
@@ -130,7 +136,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 8,
@@ -148,7 +155,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "left",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 9,
@@ -166,7 +174,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 10,
@@ -184,7 +193,8 @@
       "direction_source": "geometry:edge+point",
       "confidence": "medium",
       "nearest_edge": "left",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 11,
@@ -202,7 +212,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "left",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 12,
@@ -220,7 +231,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 13,
@@ -238,7 +250,8 @@
       "direction_source": "geometry:edge+point",
       "confidence": "medium",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 14,
@@ -256,7 +269,8 @@
       "direction_source": "geometry:edge+point",
       "confidence": "medium",
       "nearest_edge": "left",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 15,
@@ -274,7 +288,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "bottom",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 16,
@@ -292,7 +307,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "left",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 17,
@@ -310,7 +326,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "bottom",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     }
   ]
 }

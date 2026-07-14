@@ -1,0 +1,314 @@
+{
+  "source_image": "page_150.png",
+  "image_size": {
+    "width": 3024,
+    "height": 2160
+  },
+  "connector_count": 16,
+  "connectors": [
+    {
+      "id": 1,
+      "bbox_xywh": [
+        2789,
+        178,
+        79,
+        23
+      ],
+      "reference_tag": "G-30507",
+      "description": "VEPROPANIZER REFLU",
+      "equipment_tag": null,
+      "raw_ocr_text": "VEPROPANIZER REFLU\nORUM_ VENT",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 2,
+      "bbox_xywh": [
+        2789,
+        275,
+        79,
+        23
+      ],
+      "reference_tag": "G-30325",
+      "description": "DEPRESSURING FROM DEBUTANIZER OVHD. CO & REFLUX DRUM",
+      "equipment_tag": null,
+      "raw_ocr_text": "DEPRESSURING FROM\nDEBUTANIZER OVHD. CO\n& REFLUX DRUM\nPROPYLENE FEED GAS",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 3,
+      "bbox_xywh": [
+        2789,
+        366,
+        79,
+        23
+      ],
+      "reference_tag": "G-30285",
+      "description": "BLOWDOWIN FROM VAPORIZERS (HE-220/220A",
+      "equipment_tag": "HE-220/220A",
+      "raw_ocr_text": "BLOWDOWIN FROM\nVAPORIZERS\n(HE-220/220A\n\na.",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 4,
+      "bbox_xywh": [
+        2789,
+        455,
+        79,
+        23
+      ],
+      "reference_tag": "G-30329",
+      "description": "PROPYLENE DRYLR & SULFUR SCRUBBER",
+      "equipment_tag": null,
+      "raw_ocr_text": "PROPYLENE DRYLR &\nSULFUR SCRUBBER\nDRAINS",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 5,
+      "bbox_xywh": [
+        2790,
+        545,
+        79,
+        23
+      ],
+      "reference_tag": "G-30282",
+      "description": "JO_1K\u2014-109",
+      "equipment_tag": null,
+      "raw_ocr_text": "JO_1K\u2014-109",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 6,
+      "bbox_xywh": [
+        2789,
+        727,
+        79,
+        23
+      ],
+      "reference_tag": "G-30285",
+      "description": "QUENCH WATER FROM HE-220/",
+      "equipment_tag": "HE-220",
+      "raw_ocr_text": "QUENCH WATER\nFROM HE-220/\nHE=220A",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 7,
+      "bbox_xywh": [
+        2789,
+        944,
+        79,
+        23
+      ],
+      "reference_tag": "G-30285",
+      "description": "QUENCH WATER",
+      "equipment_tag": "HE-108C",
+      "raw_ocr_text": "QUENCH WATER\nFROM HE-108C",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 8,
+      "bbox_xywh": [
+        2790,
+        1031,
+        79,
+        23
+      ],
+      "reference_tag": "G-50282",
+      "description": "LQUALIZING 10 TK-102/TK-\u2014184",
+      "equipment_tag": "TK-102/TK",
+      "raw_ocr_text": "LQUALIZING 10\nTK-102/TK-\u2014184\n2 S-sb283y",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 9,
+      "bbox_xywh": [
+        148,
+        1048,
+        79,
+        23
+      ],
+      "reference_tag": "G-30261",
+      "description": "URACKED GAS",
+      "equipment_tag": null,
+      "raw_ocr_text": "URACKED GAS\nFROM FURNACE",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 10,
+      "bbox_xywh": [
+        2790,
+        1268,
+        79,
+        23
+      ],
+      "reference_tag": "G-30282",
+      "description": "TQ COKE KNOCKOUT",
+      "equipment_tag": "TK-184",
+      "raw_ocr_text": "TQ COKE KNOCKOUT\nTANK TK-184",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 11,
+      "bbox_xywh": [
+        2790,
+        1329,
+        79,
+        23
+      ],
+      "reference_tag": "G-30282",
+      "description": "TO K-10.",
+      "equipment_tag": null,
+      "raw_ocr_text": "TO K-10.",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 12,
+      "bbox_xywh": [
+        2790,
+        1396,
+        79,
+        23
+      ],
+      "reference_tag": "G-30284",
+      "description": "QUENCH COL. BOTTOMS TO HEAVY",
+      "equipment_tag": null,
+      "raw_ocr_text": "QUENCH COL.\nBOTTOMS TO HEAVY\nOIL_ TANK TK=136",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 13,
+      "bbox_xywh": [
+        2523,
+        1411,
+        347,
+        69
+      ],
+      "reference_tag": "G-30282",
+      "description": "QUENCH COL. 2\" BOTTOMS TO HEAVY none OIL TANK TK=136 6 x2 2\u00b0\u2014WP-1903-A10-ET G=30284 i 3/4\" FROM TK-163",
+      "equipment_tag": "TK-163",
+      "raw_ocr_text": "QUENCH COL.\n2\" BOTTOMS TO HEAVY\nnone OIL TANK TK=136\n6 x2 2\u00b0\u2014WP-1903-A10-ET G=30284\ni 3/4\"\nFROM TK-163\n\u2014 AIO PIPE SIZES (6- 302827",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 14,
+      "bbox_xywh": [
+        2789,
+        1509,
+        79,
+        23
+      ],
+      "reference_tag": "G-30282",
+      "description": "D4 BOTTOMS",
+      "equipment_tag": null,
+      "raw_ocr_text": "D4 BOTTOMS",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 15,
+      "bbox_xywh": [
+        2789,
+        1563,
+        79,
+        23
+      ],
+      "reference_tag": null,
+      "description": "FROM HE-324",
+      "equipment_tag": "HE-324",
+      "raw_ocr_text": "FROM HE-324",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 16,
+      "bbox_xywh": [
+        2560,
+        1872,
+        96,
+        18
+      ],
+      "reference_tag": null,
+      "description": "WESTLAKE Cf MED IN THIS BOCUREMT IS THE WORK PROOUCT OF OME OF \u00bb CXGODIES COW IBENTIA. AND PROPRIETARY INFORMATION OF ROAMCE WITH THE COMBITIONS SPECIFIED BY THE CONTRAC' ,STIES FOR ANT CHANCES OR MODIFICATIONS TO THIS SOCU",
+      "equipment_tag": null,
+      "raw_ocr_text": "WESTLAKE Cf\nMED IN THIS BOCUREMT IS THE WORK PROOUCT OF OME OF \u00bb\nCXGODIES COW IBENTIA. AND PROPRIETARY INFORMATION OF\nROAMCE WITH THE COMBITIONS SPECIFIED BY THE CONTRAC'\n,STIES FOR ANT CHANCES OR MODIFICATIONS TO THIS SOCU\n* APPLICABLE CLIGMT CONTRACT.",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    }
+  ]
+}

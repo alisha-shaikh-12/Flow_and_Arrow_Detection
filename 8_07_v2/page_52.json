@@ -1,0 +1,770 @@
+{
+  "source_image": "page_52.png",
+  "image_size": {
+    "width": 3024,
+    "height": 2160
+  },
+  "connector_count": 40,
+  "connectors": [
+    {
+      "id": 1,
+      "bbox_xywh": [
+        134,
+        167,
+        79,
+        23
+      ],
+      "reference_tag": "G-30355",
+      "description": "COOLING WATER",
+      "equipment_tag": null,
+      "raw_ocr_text": "COOLING WATER\nRETURN",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 2,
+      "bbox_xywh": [
+        2802,
+        201,
+        153,
+        23
+      ],
+      "reference_tag": "G-30337",
+      "description": "TO WARM",
+      "equipment_tag": null,
+      "raw_ocr_text": "TO WARM\nFLARE HEADER",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 3,
+      "bbox_xywh": [
+        133,
+        223,
+        171,
+        24
+      ],
+      "reference_tag": "G-50286",
+      "description": "COOLING WATER UG _AY RETURN ea eS /4\" ce\u2014\u2014T FROM pH 3/4\u00b0\u2014CWR-S205~A15 | INDICATOR",
+      "equipment_tag": null,
+      "raw_ocr_text": "COOLING WATER UG _AY\nRETURN ea eS /4\"\nce\u2014\u2014T\nFROM pH 3/4\u00b0\u2014CWR-S205~A15 |\nINDICATOR\nNersoee |",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 4,
+      "bbox_xywh": [
+        2851,
+        246,
+        104,
+        32
+      ],
+      "reference_tag": "G-30261",
+      "description": "EIRANE VAPOR",
+      "equipment_tag": null,
+      "raw_ocr_text": "EIRANE VAPOR\n| TO 30268 |",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 5,
+      "bbox_xywh": [
+        133,
+        269,
+        171,
+        24
+      ],
+      "reference_tag": null,
+      "description": "COOLING WATER UG AG RETURN S|) 3/4\" COR a FROM pH 3/4\"-CWR-S205~A15 | INDICATOR",
+      "equipment_tag": null,
+      "raw_ocr_text": "COOLING WATER UG AG\nRETURN S|) 3/4\"\nCOR a\nFROM pH 3/4\"-CWR-S205~A15 |\nINDICATOR\n\n850286",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 6,
+      "bbox_xywh": [
+        135,
+        386,
+        79,
+        23
+      ],
+      "reference_tag": "G-30355",
+      "description": "COOLING WAITER",
+      "equipment_tag": null,
+      "raw_ocr_text": "COOLING WAITER\nSUPPLY",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 7,
+      "bbox_xywh": [
+        134,
+        434,
+        79,
+        23
+      ],
+      "reference_tag": "G-30286",
+      "description": "COOLING WAITER SUPPLY TO pH",
+      "equipment_tag": null,
+      "raw_ocr_text": "COOLING WAITER\nSUPPLY\n\nTO pH\nINDICATOR",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 8,
+      "bbox_xywh": [
+        135,
+        483,
+        78,
+        23
+      ],
+      "reference_tag": "G-31909",
+      "description": "| ROM SIN\u201411A/B",
+      "equipment_tag": null,
+      "raw_ocr_text": "| ROM SIN\u201411A/B",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 9,
+      "bbox_xywh": [
+        133,
+        517,
+        323,
+        43
+      ],
+      "reference_tag": null,
+      "description": "ROM N\u20141IA/B ETHANE FROM HE-322",
+      "equipment_tag": "HE-322",
+      "raw_ocr_text": "ROM N\u20141IA/B\nETHANE FROM HE-322\ner s1918 12\u00b0P-1811\u2014A10\u2014H",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 10,
+      "bbox_xywh": [
+        135,
+        576,
+        79,
+        23
+      ],
+      "reference_tag": null,
+      "description": "| FROM SIN-10",
+      "equipment_tag": null,
+      "raw_ocr_text": "| FROM SIN-10",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 11,
+      "bbox_xywh": [
+        133,
+        621,
+        81,
+        24
+      ],
+      "reference_tag": null,
+      "description": "WO FY-3U630",
+      "equipment_tag": null,
+      "raw_ocr_text": "WO FY-3U630\n(E=STBREL,_9_",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "low",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 12,
+      "bbox_xywh": [
+        134,
+        656,
+        79,
+        23
+      ],
+      "reference_tag": "G-30332",
+      "description": "WO FY\u20143U030 CR",
+      "equipment_tag": null,
+      "raw_ocr_text": "WO FY\u20143U030\nCR\nC3R_TO TK=133",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 13,
+      "bbox_xywh": [
+        2851,
+        678,
+        104,
+        24
+      ],
+      "reference_tag": "G-30333",
+      "description": "COOUNG WATER SUPPLY",
+      "equipment_tag": null,
+      "raw_ocr_text": "COOUNG WATER\nSUPPLY\noy",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 14,
+      "bbox_xywh": [
+        135,
+        692,
+        79,
+        23
+      ],
+      "reference_tag": "G-37191",
+      "description": "| QUENCH WATER FROM",
+      "equipment_tag": null,
+      "raw_ocr_text": "| QUENCH WATER FROM",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 15,
+      "bbox_xywh": [
+        133,
+        726,
+        81,
+        24
+      ],
+      "reference_tag": "G-50257",
+      "description": "QUENCH WATER FROM H",
+      "equipment_tag": null,
+      "raw_ocr_text": "QUENCH WATER FROM H\nPV-\u2014305:",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 16,
+      "bbox_xywh": [
+        2851,
+        732,
+        104,
+        23
+      ],
+      "reference_tag": "G-30355",
+      "description": "COOLUNG WAIER SUPPLY % * COOLING WATER",
+      "equipment_tag": null,
+      "raw_ocr_text": "COOLUNG WAIER\nSUPPLY\n%\n* COOLING WATER\n2 RETURN",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 17,
+      "bbox_xywh": [
+        133,
+        792,
+        82,
+        24
+      ],
+      "reference_tag": "G-30257",
+      "description": "PV-3052 SIGNAL TO FIC\u201430538 FIC-\u201430540",
+      "equipment_tag": null,
+      "raw_ocr_text": "PV-3052\nSIGNAL TO\nFIC\u201430538\nFIC-\u201430540\n(E=S02TZ,",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 18,
+      "bbox_xywh": [
+        135,
+        844,
+        78,
+        23
+      ],
+      "reference_tag": "G-30258",
+      "description": "PV-305. SIGNAL TO FIC\u201430538 FIC-\u201430540 CR ETHANE FEED FROM HE-317N-1",
+      "equipment_tag": "HE-317N",
+      "raw_ocr_text": "PV-305.\n\nSIGNAL TO\n\nFIC\u201430538\n\nFIC-\u201430540\nCR\nETHANE FEED FROM\nHE-317N-1\nS8-S502585,",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 19,
+      "bbox_xywh": [
+        134,
+        913,
+        79,
+        23
+      ],
+      "reference_tag": "G-31915",
+      "description": "Cc IRANE",
+      "equipment_tag": "HE-322",
+      "raw_ocr_text": "Cc IRANE\nTO HE-322",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 20,
+      "bbox_xywh": [
+        134,
+        958,
+        79,
+        23
+      ],
+      "reference_tag": "G-30337",
+      "description": "| 1Q WARM FLARE READE",
+      "equipment_tag": null,
+      "raw_ocr_text": "| 1Q WARM FLARE READE",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 21,
+      "bbox_xywh": [
+        2832,
+        1051,
+        127,
+        24
+      ],
+      "reference_tag": "G-30355",
+      "description": "FURNACE ARCA COOLING WATER",
+      "equipment_tag": null,
+      "raw_ocr_text": "FURNACE ARCA\nCOOLING WATER\nSUPPLY",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 22,
+      "bbox_xywh": [
+        135,
+        1054,
+        79,
+        23
+      ],
+      "reference_tag": "G-50261",
+      "description": "RECYCLE LIHANE FROM HOT FEEDGAS/RECYCLE ETHANE EXCHANGER",
+      "equipment_tag": "HE-119",
+      "raw_ocr_text": "RECYCLE LIHANE FROM\nHOT FEEDGAS/RECYCLE\nETHANE EXCHANGER\n(HE-119)",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 23,
+      "bbox_xywh": [
+        134,
+        1119,
+        79,
+        23
+      ],
+      "reference_tag": "G-30337",
+      "description": "tO WARM",
+      "equipment_tag": null,
+      "raw_ocr_text": "tO WARM\n| FLARE HEADER",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 24,
+      "bbox_xywh": [
+        2802,
+        1202,
+        153,
+        24
+      ],
+      "reference_tag": "G-30355",
+      "description": "COOLING WATER",
+      "equipment_tag": null,
+      "raw_ocr_text": "COOLING WATER\nRETURN",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 25,
+      "bbox_xywh": [
+        134,
+        1415,
+        79,
+        23
+      ],
+      "reference_tag": "G-31914",
+      "description": "WATER IO 1Or QUENCH COL.",
+      "equipment_tag": null,
+      "raw_ocr_text": "WATER IO 1Or\nQUENCH COL.\nCL-101-1",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 26,
+      "bbox_xywh": [
+        2876,
+        1437,
+        78,
+        23
+      ],
+      "reference_tag": "G-31914",
+      "description": "WAIER TO MIDDLE & BOTTOM OF PENG Sst CL-101-1",
+      "equipment_tag": null,
+      "raw_ocr_text": "WAIER TO MIDDLE\n& BOTTOM OF\nPENG Sst\nCL-101-1\n\nSO SS~ 51914",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 27,
+      "bbox_xywh": [
+        134,
+        1467,
+        79,
+        23
+      ],
+      "reference_tag": "G-30337",
+      "description": "1O WARM FLARE",
+      "equipment_tag": null,
+      "raw_ocr_text": "1O WARM FLARE\nHEADER",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 28,
+      "bbox_xywh": [
+        2875,
+        1499,
+        79,
+        23
+      ],
+      "reference_tag": "G-30350",
+      "description": "WASTE GAS |",
+      "equipment_tag": null,
+      "raw_ocr_text": "WASTE GAS |",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 29,
+      "bbox_xywh": [
+        2876,
+        1550,
+        78,
+        23
+      ],
+      "reference_tag": "G-30337",
+      "description": "FLARE",
+      "equipment_tag": null,
+      "raw_ocr_text": "FLARE",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 30,
+      "bbox_xywh": [
+        135,
+        1585,
+        79,
+        23
+      ],
+      "reference_tag": "G-30330",
+      "description": "RECYCLED PROPANE FROM P=P SPLITTER BOTTOMS PUMPS",
+      "equipment_tag": "PU-130/130S",
+      "raw_ocr_text": "RECYCLED PROPANE\nFROM P=P SPLITTER\nBOTTOMS PUMPS\n(PU-130/130S)",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 31,
+      "bbox_xywh": [
+        2875,
+        1607,
+        78,
+        24
+      ],
+      "reference_tag": "G-50514",
+      "description": "REWORK LINE",
+      "equipment_tag": null,
+      "raw_ocr_text": "REWORK LINE",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 32,
+      "bbox_xywh": [
+        133,
+        1629,
+        132,
+        24
+      ],
+      "reference_tag": null,
+      "description": "RECYCLED PROPANE FROM P=P SPLITTER BOTTOMS PUMPS (PU-130/130S) D8 50550 \u2014__ Ang RE-\u2014WORK FROM - RAILROAD STATIONS",
+      "equipment_tag": "PU-130/130S",
+      "raw_ocr_text": "RECYCLED PROPANE\nFROM P=P SPLITTER\nBOTTOMS PUMPS\n(PU-130/130S)\nD8 50550 \u2014__ Ang\nRE-\u2014WORK FROM -\nRAILROAD STATIONS\n\n30549;",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 33,
+      "bbox_xywh": [
+        2878,
+        1660,
+        79,
+        23
+      ],
+      "reference_tag": "G-30355",
+      "description": "FURNACE AREA",
+      "equipment_tag": null,
+      "raw_ocr_text": "FURNACE AREA\nCOOLING WATER RETURN",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 34,
+      "bbox_xywh": [
+        135,
+        1687,
+        79,
+        23
+      ],
+      "reference_tag": "G-30332",
+      "description": "6 \u2014P-1256-A10 \u2014 C3R FROM TK-179",
+      "equipment_tag": "TK-179",
+      "raw_ocr_text": "6 \u2014P-1256-A10 \u2014\nC3R FROM TK-179\nf/",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 35,
+      "bbox_xywh": [
+        2875,
+        1706,
+        79,
+        23
+      ],
+      "reference_tag": "G-30355",
+      "description": "COOLING WATER",
+      "equipment_tag": null,
+      "raw_ocr_text": "COOLING WATER\nSUPPLY",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 36,
+      "bbox_xywh": [
+        173,
+        1749,
+        149,
+        52
+      ],
+      "reference_tag": null,
+      "description": "(PU-130/130S) 3/4\" a, a RE-WORK FROM oe RAILROAD STATIONS 11/2\" PI soses) 2 6\"-P-1236-A10 4 G C3R FROM TK-179 \u201c\\ A A \u00a5s/4\" 3 (65.) 6\"-P-1552-Al NI i 2 Fa r F S \\",
+      "equipment_tag": "PU-130/130S",
+      "raw_ocr_text": "(PU-130/130S) 3/4\"\na, a\nRE-WORK FROM oe\nRAILROAD STATIONS\n11/2\" PI\nsoses) 2\n6\"-P-1236-A10 4 G\nC3R FROM TK-179 \u201c\\ A A \u00a5s/4\"\n3 (65.) 6\"-P-1552-Al\nNI\ni 2\nFa r F\nS \\\ndla =",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 37,
+      "bbox_xywh": [
+        2875,
+        1758,
+        79,
+        23
+      ],
+      "reference_tag": "G-30355",
+      "description": "COOLING WATER SUPPLY COOLING WATER",
+      "equipment_tag": null,
+      "raw_ocr_text": "COOLING WATER\nSUPPLY\nCOOLING WATER\nRETURN",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 38,
+      "bbox_xywh": [
+        2359,
+        1835,
+        79,
+        23
+      ],
+      "reference_tag": "G-31914",
+      "description": "BLOWDOWN TO QUENCH COL.",
+      "equipment_tag": null,
+      "raw_ocr_text": "BLOWDOWN\nTO QUENCH COL.\nCL-101-1",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "bottom",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 39,
+      "bbox_xywh": [
+        135,
+        1870,
+        79,
+        23
+      ],
+      "reference_tag": "G-30320",
+      "description": "YI Le) \u201cI 7 an oUt S23 /4 PROPANE FEED FROM PROPANE CAVERN PUMPS PU-411/411S)",
+      "equipment_tag": "PU-411/411S",
+      "raw_ocr_text": "YI\nLe)\n\u201cI\n7 an\noUt\nS23 /4\nPROPANE FEED\nFROM PROPANE\nCAVERN PUMPS\nPU-411/411S)\nDS 50820S 404",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 40,
+      "bbox_xywh": [
+        134,
+        1934,
+        79,
+        23
+      ],
+      "reference_tag": "G-30520",
+      "description": "| BACK PRESSURE CONTR",
+      "equipment_tag": null,
+      "raw_ocr_text": "| BACK PRESSURE CONTR",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    }
+  ]
+}

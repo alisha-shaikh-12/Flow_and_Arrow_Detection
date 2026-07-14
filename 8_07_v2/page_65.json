@@ -22,7 +22,8 @@
       "direction_source": "geometry:edge_convention_weak",
       "confidence": "low",
       "nearest_edge": "top",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 2,
@@ -40,7 +41,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "left",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 3,
@@ -58,7 +60,8 @@
       "direction_source": "geometry:edge+point",
       "confidence": "low",
       "nearest_edge": "left",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 4,
@@ -76,7 +79,8 @@
       "direction_source": "text",
       "confidence": "medium",
       "nearest_edge": "left",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 5,
@@ -94,7 +98,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "left",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 6,
@@ -112,7 +117,8 @@
       "direction_source": "geometry:edge+point",
       "confidence": "low",
       "nearest_edge": "left",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 7,
@@ -130,7 +136,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     }
   ]
 }

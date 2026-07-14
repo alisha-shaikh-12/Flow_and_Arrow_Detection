@@ -4,7 +4,7 @@
     "width": 3024,
     "height": 2160
   },
-  "connector_count": 42,
+  "connector_count": 59,
   "connectors": [
     {
       "id": 1,
@@ -22,7 +22,8 @@
       "direction_source": "geometry:edge+point",
       "confidence": "medium",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 2,
@@ -40,7 +41,8 @@
       "direction_source": "geometry:edge_convention_weak",
       "confidence": "low",
       "nearest_edge": "top",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 3,
@@ -58,7 +60,8 @@
       "direction_source": "geometry:edge+point",
       "confidence": "medium",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 4,
@@ -76,7 +79,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 5,
@@ -94,7 +98,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 6,
@@ -112,7 +117,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 7,
@@ -130,7 +136,8 @@
       "direction_source": "geometry:edge+point",
       "confidence": "medium",
       "nearest_edge": "left",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 8,
@@ -148,7 +155,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 9,
@@ -166,7 +174,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 10,
@@ -184,7 +193,8 @@
       "direction_source": "geometry:edge+point",
       "confidence": "medium",
       "nearest_edge": "left",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 11,
@@ -202,7 +212,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 12,
@@ -220,7 +231,8 @@
       "direction_source": "text",
       "confidence": "medium",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 13,
@@ -238,7 +250,8 @@
       "direction_source": "text",
       "confidence": "medium",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 14,
@@ -256,7 +269,8 @@
       "direction_source": "text",
       "confidence": "medium",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 15,
@@ -274,7 +288,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 16,
@@ -292,7 +307,8 @@
       "direction_source": "geometry:edge_convention_weak",
       "confidence": "medium",
       "nearest_edge": "top",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 17,
@@ -310,7 +326,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 18,
@@ -328,7 +345,8 @@
       "direction_source": "text",
       "confidence": "medium",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 19,
@@ -346,7 +364,8 @@
       "direction_source": "text",
       "confidence": "medium",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 20,
@@ -364,7 +383,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 21,
@@ -382,7 +402,8 @@
       "direction_source": "text",
       "confidence": "medium",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 22,
@@ -400,7 +421,8 @@
       "direction_source": "text",
       "confidence": "medium",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 23,
@@ -418,7 +440,8 @@
       "direction_source": "text",
       "confidence": "medium",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 24,
@@ -436,7 +459,8 @@
       "direction_source": "text",
       "confidence": "medium",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 25,
@@ -454,7 +478,8 @@
       "direction_source": "text",
       "confidence": "medium",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 26,
@@ -472,7 +497,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 27,
@@ -490,7 +516,8 @@
       "direction_source": "text",
       "confidence": "medium",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 28,
@@ -508,7 +535,8 @@
       "direction_source": "text",
       "confidence": "medium",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 29,
@@ -526,7 +554,8 @@
       "direction_source": "text",
       "confidence": "medium",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 30,
@@ -544,7 +573,8 @@
       "direction_source": "text",
       "confidence": "medium",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 31,
@@ -562,7 +592,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "bottom",
-      "chevron_point_orientation": "points_right"
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 32,
@@ -580,7 +611,8 @@
       "direction_source": "text",
       "confidence": "medium",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 33,
@@ -598,7 +630,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 34,
@@ -616,7 +649,8 @@
       "direction_source": "text",
       "confidence": "medium",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 35,
@@ -634,7 +668,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 36,
@@ -652,7 +687,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 37,
@@ -670,7 +706,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 38,
@@ -688,7 +725,8 @@
       "direction_source": "text",
       "confidence": "medium",
       "nearest_edge": "right",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 39,
@@ -706,7 +744,8 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "bottom",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 40,
@@ -724,7 +763,8 @@
       "direction_source": "text",
       "confidence": "medium",
       "nearest_edge": "bottom",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 41,
@@ -742,7 +782,8 @@
       "direction_source": "text",
       "confidence": "medium",
       "nearest_edge": "bottom",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
     },
     {
       "id": 42,
@@ -760,7 +801,331 @@
       "direction_source": "text",
       "confidence": "high",
       "nearest_edge": "bottom",
-      "chevron_point_orientation": "points_left"
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 43,
+      "bbox_xywh": [
+        765,
+        276,
+        23,
+        79
+      ],
+      "reference_tag": null,
+      "description": "FROM $V-30926 /S0927",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM\n$V-30926 /S0927\nON CM-113N-1",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_down",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 44,
+      "bbox_xywh": [
+        805,
+        276,
+        23,
+        79
+      ],
+      "reference_tag": "G-32308",
+      "description": "FROM CM-113N-1",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM CM-113N-1",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_down",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 45,
+      "bbox_xywh": [
+        854,
+        276,
+        23,
+        79
+      ],
+      "reference_tag": "G-32306",
+      "description": "FROM CM\u2014TION-1",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM CM\u2014TION-1",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_down",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 46,
+      "bbox_xywh": [
+        904,
+        276,
+        23,
+        79
+      ],
+      "reference_tag": null,
+      "description": "FROM",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM\nPV-309298",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_down",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 47,
+      "bbox_xywh": [
+        969,
+        276,
+        23,
+        79
+      ],
+      "reference_tag": null,
+      "description": "FROM PV-30929B FROM PU-192N-1A/B",
+      "equipment_tag": "PU-192N",
+      "raw_ocr_text": "FROM\nPV-30929B\nFROM\nPU-192N-1A/B\nDRAIN AND VENT",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_down",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 48,
+      "bbox_xywh": [
+        1036,
+        276,
+        23,
+        79
+      ],
+      "reference_tag": null,
+      "description": "FROM PV-30929B FROM PU-192N-1A/B DRAIN AND VENT FROM $V-30936 /30937",
+      "equipment_tag": "PU-192N",
+      "raw_ocr_text": "FROM\n\nPV-30929B\n\nFROM\nPU-192N-1A/B\nDRAIN AND VENT\nFROM\n\n$V-30936 /30937\nON TK=223N=1",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_down",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 49,
+      "bbox_xywh": [
+        1164,
+        276,
+        23,
+        79
+      ],
+      "reference_tag": "G-31910",
+      "description": "* FROM \u201cXK",
+      "equipment_tag": "HE-400A/8",
+      "raw_ocr_text": "* FROM \u201cXK\nHE-400A/8 =",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_down",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 50,
+      "bbox_xywh": [
+        1229,
+        276,
+        23,
+        79
+      ],
+      "reference_tag": "G-31910",
+      "description": "FROM SV-31046/ SV-31047 ON HE-400A/6",
+      "equipment_tag": "HE-400A/6",
+      "raw_ocr_text": "FROM SV-31046/\n\nSV-31047 ON\n\nHE-400A/6\nESIC",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_down",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 51,
+      "bbox_xywh": [
+        1298,
+        276,
+        23,
+        79
+      ],
+      "reference_tag": "G-31910",
+      "description": "FROM SV\u2014O1040/ SV-31049 ON",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM SV\u2014O1040/\nSV-31049 ON\nCL-122",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_down",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 52,
+      "bbox_xywh": [
+        1349,
+        276,
+        23,
+        79
+      ],
+      "reference_tag": null,
+      "description": "FROM TK~222N~1",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM TK~222N~1\nDRAIN",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_down",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 53,
+      "bbox_xywh": [
+        1411,
+        276,
+        23,
+        79
+      ],
+      "reference_tag": null,
+      "description": "FROM IK\u201422iN-1",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM IK\u201422iN-1\nDRAIN",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_down",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 54,
+      "bbox_xywh": [
+        1480,
+        276,
+        23,
+        79
+      ],
+      "reference_tag": "G-31904",
+      "description": "FROM $V-\u201430906 /30907",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM\n$V-\u201430906 /30907\nON TK~222N~1",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_down",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 55,
+      "bbox_xywh": [
+        1569,
+        276,
+        23,
+        79
+      ],
+      "reference_tag": null,
+      "description": "FROM $V-\u201430890/30891 ON CL-121N-1",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM\n$V-\u201430890/30891\nON CL-121N-1\n\n) 4 G\u201431 BOR",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_down",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 56,
+      "bbox_xywh": [
+        1619,
+        276,
+        23,
+        79
+      ],
+      "reference_tag": null,
+      "description": "FROM $V-30890/30891 ON CL-121N-1 FROM PU-188N-1",
+      "equipment_tag": "PU-188N",
+      "raw_ocr_text": "FROM\n$V-30890/30891\nON CL-121N-1\nFROM PU-188N-1\nDRAIN VENT",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_down",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 57,
+      "bbox_xywh": [
+        1680,
+        276,
+        23,
+        79
+      ],
+      "reference_tag": "G-31894",
+      "description": "FROM SV-\u201430612/30613 ON CL-119N-1",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM\nSV-\u201430612/30613\nON CL-119N-1\n\n) G-\u201431894",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_down",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 58,
+      "bbox_xywh": [
+        1736,
+        276,
+        23,
+        79
+      ],
+      "reference_tag": "G-31894",
+      "description": "FROM PU-1S0N\u2014-1 DRAIN & VENT",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM PU-1S0N\u2014-1\nDRAIN & VENT\n] G\u2014 31894",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_down",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 59,
+      "bbox_xywh": [
+        1802,
+        276,
+        23,
+        79
+      ],
+      "reference_tag": "G-31894",
+      "description": "FROM PU-1SON-1 DRAIN & VENT FROM $V-30628/30629",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM PU-1SON-1\nDRAIN & VENT\nFROM\n$V-30628/30629\nON CL-120N-2",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_down",
+      "shape_orientation": "vertical"
     }
   ]
 }

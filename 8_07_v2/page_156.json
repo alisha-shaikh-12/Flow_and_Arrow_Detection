@@ -1,0 +1,238 @@
+{
+  "source_image": "page_156.png",
+  "image_size": {
+    "width": 3024,
+    "height": 2160
+  },
+  "connector_count": 12,
+  "connectors": [
+    {
+      "id": 1,
+      "bbox_xywh": [
+        2574,
+        348,
+        79,
+        23
+      ],
+      "reference_tag": "G-30256",
+      "description": "30 PSIG STEAM 10",
+      "equipment_tag": null,
+      "raw_ocr_text": "30 PSIG STEAM 10\nS80",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 2,
+      "bbox_xywh": [
+        2572,
+        407,
+        79,
+        23
+      ],
+      "reference_tag": "G-30256",
+      "description": "30 PSIG STEAM 10 Sse 30 PSIG STEAM CONDENSATE FROM",
+      "equipment_tag": "HE-320N",
+      "raw_ocr_text": "30 PSIG STEAM 10\nSse\n\n30 PSIG STEAM\nCONDENSATE FROM\nHE-320N",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 3,
+      "bbox_xywh": [
+        240,
+        559,
+        79,
+        23
+      ],
+      "reference_tag": "G-50286",
+      "description": "1802 STEAM CONDENS 30# STEAM FLASK DR",
+      "equipment_tag": null,
+      "raw_ocr_text": "1802 STEAM CONDENS\n30# STEAM FLASK DR\nT-30286-110",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 4,
+      "bbox_xywh": [
+        2568,
+        583,
+        79,
+        23
+      ],
+      "reference_tag": "G-30258",
+      "description": "90 PSIG SIEAM",
+      "equipment_tag": null,
+      "raw_ocr_text": "90 PSIG SIEAM\nFROM DESUPERHEATE!",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 5,
+      "bbox_xywh": [
+        1255,
+        851,
+        79,
+        23
+      ],
+      "reference_tag": null,
+      "description": "9Q PSIG CONDENSATE | CONDENSATE SYSTEM (1K=147)",
+      "equipment_tag": null,
+      "raw_ocr_text": "9Q PSIG CONDENSATE |\nCONDENSATE SYSTEM\n(1K=147)\nCeca",
+      "direction": "inflow",
+      "direction_source": "geometry:edge_convention_weak",
+      "confidence": "low",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 6,
+      "bbox_xywh": [
+        2568,
+        955,
+        79,
+        23
+      ],
+      "reference_tag": "G-30258",
+      "description": "30 PSIG STEAM CONDENSATE FROM",
+      "equipment_tag": null,
+      "raw_ocr_text": "30 PSIG STEAM\nCONDENSATE FROM\nLPS-3507",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 7,
+      "bbox_xywh": [
+        2568,
+        1094,
+        79,
+        23
+      ],
+      "reference_tag": "G-30258",
+      "description": "CONDENSATE",
+      "equipment_tag": null,
+      "raw_ocr_text": "CONDENSATE\nFR. LPS-3301 (HE-3",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 8,
+      "bbox_xywh": [
+        2572,
+        1462,
+        79,
+        23
+      ],
+      "reference_tag": "G-30258",
+      "description": "30 PSIG STEAM CONDENSATE FROM HE=318N",
+      "equipment_tag": null,
+      "raw_ocr_text": "30 PSIG STEAM\nCONDENSATE FROM\nHE=318N\nenn",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 9,
+      "bbox_xywh": [
+        836,
+        191,
+        23,
+        79
+      ],
+      "reference_tag": null,
+      "description": "180 PSIG STEAM CONDENSATE FROM",
+      "equipment_tag": "HE-312N",
+      "raw_ocr_text": "180 PSIG STEAM\nCONDENSATE FROM\nHE-312N",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_down",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 10,
+      "bbox_xywh": [
+        1413,
+        191,
+        23,
+        79
+      ],
+      "reference_tag": "G-30360",
+      "description": "FROM MP SICAM HEADER T-30360-239/241",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM MP SICAM\nHEADER\nT-30360-239/241\nCG- S080",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_down",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 11,
+      "bbox_xywh": [
+        899,
+        197,
+        23,
+        79
+      ],
+      "reference_tag": "G-37190",
+      "description": "160 PSIG SIEAM",
+      "equipment_tag": "HE-312N",
+      "raw_ocr_text": "160 PSIG SIEAM\nTO HE-312N",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_up",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 12,
+      "bbox_xywh": [
+        1646,
+        708,
+        23,
+        79
+      ],
+      "reference_tag": "G-30258",
+      "description": "160 PSIG SIEAM CONDENSATE",
+      "equipment_tag": null,
+      "raw_ocr_text": "160 PSIG SIEAM\nCONDENSATE\nFROM 4\u201d\u2014-MPS-3506",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_up",
+      "shape_orientation": "vertical"
+    }
+  ]
+}
