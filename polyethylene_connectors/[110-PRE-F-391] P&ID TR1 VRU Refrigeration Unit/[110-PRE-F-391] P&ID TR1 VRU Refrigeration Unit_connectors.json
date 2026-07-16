@@ -1,0 +1,659 @@
+{
+  "drawing_number": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit",
+  "source_file": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit.pdf",
+  "render_dpi": 300,
+  "page_size_px": [
+    9933,
+    7012
+  ],
+  "num_pages": 1,
+  "line_number_prefix_used_for_semantics": null,
+  "num_connectors_detected": 8,
+  "connectors": [
+    {
+      "id": 1,
+      "connector_id": "conn_01_0001",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit",
+      "source_file": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        8098,
+        1104,
+        480,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          8098,
+          1104,
+          8578,
+          1159
+        ],
+        "tip_polygon_px": [
+          [
+            8235,
+            1157
+          ],
+          [
+            8236,
+            1104
+          ],
+          [
+            8550,
+            1104
+          ],
+          [
+            8577,
+            1131
+          ],
+          [
+            8550,
+            1158
+          ]
+        ],
+        "companion_bbox_px": [
+          8098,
+          1104,
+          8235,
+          1159
+        ],
+        "tip_side": "right",
+        "divider_x_px": 8235
+      },
+      "direction": "outflow",
+      "direction_source": "caption:from_to_label+geometry:tip_point:agree",
+      "direction_signals_agree": true,
+      "reference_tag": "F-392",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 79.0,
+      "sheet_grid_reference": "A-4",
+      "sheet_grid_reference_ocr_confidence": 0.0,
+      "description": "TO LV-1306",
+      "equipment_tag": "LV-1306",
+      "raw_ocr_text": "F-392\nA-4\nTO LV-1306",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit:conn_01_0001",
+        "to_node": "F-392:LV-1306",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "low_ocr_confidence_review_recommended"
+      ]
+    },
+    {
+      "id": 2,
+      "connector_id": "conn_01_0002",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit",
+      "source_file": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        8125,
+        1410,
+        454,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          8125,
+          1410,
+          8579,
+          1465
+        ],
+        "tip_polygon_px": [
+          [
+            8236,
+            1463
+          ],
+          [
+            8237,
+            1410
+          ],
+          [
+            8551,
+            1410
+          ],
+          [
+            8578,
+            1437
+          ],
+          [
+            8551,
+            1464
+          ]
+        ],
+        "companion_bbox_px": [
+          8125,
+          1410,
+          8235,
+          1465
+        ],
+        "tip_side": "right",
+        "divider_x_px": 8235
+      },
+      "direction": "outflow",
+      "direction_source": "caption:from_to_label+geometry:tip_point:agree",
+      "direction_signals_agree": true,
+      "reference_tag": "F-390",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 90.0,
+      "sheet_grid_reference": "A-1",
+      "sheet_grid_reference_ocr_confidence": 77.0,
+      "description": "TO LK-1301",
+      "equipment_tag": "LK-1301",
+      "raw_ocr_text": "F-390\nA-1\nTO LK-1301",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit:conn_01_0002",
+        "to_node": "F-390:LK-1301",
+        "relationship": "flow_continues_to"
+      },
+      "flags": []
+    },
+    {
+      "id": 3,
+      "connector_id": "conn_01_0003",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit",
+      "source_file": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        745,
+        2104,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          745,
+          2104,
+          1198,
+          2159
+        ],
+        "tip_polygon_px": [
+          [
+            745,
+            2131
+          ],
+          [
+            772,
+            2104
+          ],
+          [
+            1087,
+            2105
+          ],
+          [
+            1086,
+            2158
+          ],
+          [
+            772,
+            2158
+          ]
+        ],
+        "companion_bbox_px": [
+          1088,
+          2104,
+          1198,
+          2159
+        ],
+        "tip_side": "left",
+        "divider_x_px": 1087
+      },
+      "direction": "inflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "U-820",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 91.0,
+      "sheet_grid_reference": "7700",
+      "sheet_grid_reference_ocr_confidence": 88.0,
+      "description": null,
+      "equipment_tag": null,
+      "raw_ocr_text": "U-820\n7700",
+      "graph_edge": {
+        "from_node": "U-820:None",
+        "to_node": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit:conn_01_0003",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed"
+      ]
+    },
+    {
+      "id": 4,
+      "connector_id": "conn_01_0004",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit",
+      "source_file": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        8126,
+        4408,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          8126,
+          4408,
+          8579,
+          4463
+        ],
+        "tip_polygon_px": [
+          [
+            8126,
+            4435
+          ],
+          [
+            8153,
+            4408
+          ],
+          [
+            8468,
+            4409
+          ],
+          [
+            8467,
+            4462
+          ],
+          [
+            8153,
+            4462
+          ]
+        ],
+        "companion_bbox_px": [
+          8470,
+          4408,
+          8579,
+          4463
+        ],
+        "tip_side": "left",
+        "divider_x_px": 8469
+      },
+      "direction": "inflow",
+      "direction_source": "caption:from_to_label+geometry:tip_point:agree",
+      "direction_signals_agree": true,
+      "reference_tag": "F-392",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 67.0,
+      "sheet_grid_reference": "A-4",
+      "sheet_grid_reference_ocr_confidence": 91.0,
+      "description": "FROM LE-1310",
+      "equipment_tag": "LE-1310",
+      "raw_ocr_text": "F-392\nA-4\nFROM LE-1310",
+      "graph_edge": {
+        "from_node": "F-392:LE-1310",
+        "to_node": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit:conn_01_0004",
+        "relationship": "flow_continues_to"
+      },
+      "flags": []
+    },
+    {
+      "id": 5,
+      "connector_id": "conn_01_0005",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit",
+      "source_file": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        8126,
+        5249,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          8126,
+          5249,
+          8579,
+          5304
+        ],
+        "tip_polygon_px": [
+          [
+            8126,
+            5276
+          ],
+          [
+            8153,
+            5249
+          ],
+          [
+            8468,
+            5250
+          ],
+          [
+            8467,
+            5303
+          ],
+          [
+            8153,
+            5303
+          ]
+        ],
+        "companion_bbox_px": [
+          8470,
+          5249,
+          8579,
+          5304
+        ],
+        "tip_side": "left",
+        "divider_x_px": 8469
+      },
+      "direction": "inflow",
+      "direction_source": "caption:from_to_label+geometry:tip_point:agree",
+      "direction_signals_agree": true,
+      "reference_tag": "F-392",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 67.0,
+      "sheet_grid_reference": "A-4",
+      "sheet_grid_reference_ocr_confidence": 91.0,
+      "description": "FROM LV-1304",
+      "equipment_tag": "LV-1304",
+      "raw_ocr_text": "F-392\nA-4\nFROM LV-1304",
+      "graph_edge": {
+        "from_node": "F-392:LV-1304",
+        "to_node": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit:conn_01_0005",
+        "relationship": "flow_continues_to"
+      },
+      "flags": []
+    },
+    {
+      "id": 6,
+      "connector_id": "conn_01_0006",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit",
+      "source_file": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        8122,
+        5400,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          8122,
+          5400,
+          8575,
+          5455
+        ],
+        "tip_polygon_px": [
+          [
+            8233,
+            5401
+          ],
+          [
+            8547,
+            5400
+          ],
+          [
+            8574,
+            5428
+          ],
+          [
+            8548,
+            5454
+          ],
+          [
+            8234,
+            5454
+          ]
+        ],
+        "companion_bbox_px": [
+          8122,
+          5400,
+          8232,
+          5455
+        ],
+        "tip_side": "right",
+        "divider_x_px": 8232
+      },
+      "direction": "outflow",
+      "direction_source": "caption:from_to_label+geometry:tip_point:agree",
+      "direction_signals_agree": true,
+      "reference_tag": "F-392",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 67.0,
+      "sheet_grid_reference": "A-9",
+      "sheet_grid_reference_ocr_confidence": 55.0,
+      "description": "TO LV-1306",
+      "equipment_tag": "LV-1306",
+      "raw_ocr_text": "F-392\nA-9\nTO LV-1306",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit:conn_01_0006",
+        "to_node": "F-392:LV-1306",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "low_ocr_confidence_review_recommended"
+      ]
+    },
+    {
+      "id": 7,
+      "connector_id": "conn_01_0007",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit",
+      "source_file": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        738,
+        5594,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          738,
+          5594,
+          1191,
+          5649
+        ],
+        "tip_polygon_px": [
+          [
+            849,
+            5647
+          ],
+          [
+            850,
+            5594
+          ],
+          [
+            1164,
+            5594
+          ],
+          [
+            1190,
+            5620
+          ],
+          [
+            1163,
+            5648
+          ]
+        ],
+        "companion_bbox_px": [
+          738,
+          5594,
+          848,
+          5649
+        ],
+        "tip_side": "right",
+        "divider_x_px": 848
+      },
+      "direction": "inflow",
+      "direction_source": "caption:from_to_label+geometry:tip_point:conflict",
+      "direction_signals_agree": false,
+      "reference_tag": "F-374",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 92.0,
+      "sheet_grid_reference": "1065",
+      "sheet_grid_reference_ocr_confidence": 96.0,
+      "description": "FROM LE-1303",
+      "equipment_tag": "LE-1303",
+      "raw_ocr_text": "F-374\n1065\nFROM LE-1303",
+      "graph_edge": {
+        "from_node": "F-374:LE-1303",
+        "to_node": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit:conn_01_0007",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "shape_and_caption_direction_mismatch"
+      ]
+    },
+    {
+      "id": 8,
+      "connector_id": "conn_01_0008",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit",
+      "source_file": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        736,
+        5835,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          736,
+          5835,
+          1189,
+          5890
+        ],
+        "tip_polygon_px": [
+          [
+            736,
+            5862
+          ],
+          [
+            763,
+            5835
+          ],
+          [
+            1078,
+            5836
+          ],
+          [
+            1077,
+            5889
+          ],
+          [
+            763,
+            5889
+          ]
+        ],
+        "companion_bbox_px": [
+          1080,
+          5835,
+          1189,
+          5890
+        ],
+        "tip_side": "left",
+        "divider_x_px": 1079
+      },
+      "direction": "outflow",
+      "direction_source": "caption:from_to_label+geometry:tip_point:conflict",
+      "direction_signals_agree": false,
+      "reference_tag": "F-380",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 90.0,
+      "sheet_grid_reference": "1070",
+      "sheet_grid_reference_ocr_confidence": 96.0,
+      "description": "TO LV-1302",
+      "equipment_tag": "LV-1302",
+      "raw_ocr_text": "F-380\n1070\nTO LV-1302",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit:conn_01_0008",
+        "to_node": "F-380:LV-1302",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "shape_and_caption_direction_mismatch"
+      ]
+    }
+  ],
+  "num_candidates_rejected_as_non_connectors": 1,
+  "rejected_candidates_for_qa": [
+    {
+      "id": 10,
+      "connector_id": "conn_01_0010",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit",
+      "source_file": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        345,
+        6623,
+        138,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          345,
+          6623,
+          483,
+          6678
+        ],
+        "tip_polygon_px": [
+          [
+            345,
+            6624
+          ],
+          [
+            481,
+            6623
+          ],
+          [
+            482,
+            6676
+          ],
+          [
+            360,
+            6677
+          ],
+          [
+            345,
+            6662
+          ]
+        ],
+        "companion_bbox_px": null,
+        "tip_side": "unknown",
+        "divider_x_px": null
+      },
+      "direction": null,
+      "direction_source": null,
+      "direction_signals_agree": true,
+      "reference_tag": null,
+      "reference_tag_matches_drawing_series": false,
+      "reference_tag_ocr_confidence": 0.0,
+      "sheet_grid_reference": null,
+      "sheet_grid_reference_ocr_confidence": 0.0,
+      "description": "Se\nDrawin\u00a2",
+      "equipment_tag": null,
+      "raw_ocr_text": "Se\nDrawin\u00a2",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-391] P&ID TR1 VRU Refrigeration Unit:conn_01_0010",
+        "to_node": null,
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "companion_cell_not_found",
+        "reference_tag_ocr_empty",
+        "sheet_grid_reference_ocr_empty",
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended",
+        "dropped_low_confidence_shape_only_match"
+      ]
+    }
+  ]
+}

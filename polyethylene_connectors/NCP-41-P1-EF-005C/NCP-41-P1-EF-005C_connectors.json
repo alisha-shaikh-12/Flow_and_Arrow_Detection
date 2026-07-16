@@ -1,0 +1,1346 @@
+{
+  "drawing_number": "NCP-41-P1-EF-005C",
+  "source_file": "NCP-41-P1-EF-005C.pdf",
+  "render_dpi": 300,
+  "page_size_px": [
+    4963,
+    3509
+  ],
+  "num_pages": 1,
+  "line_number_prefix_used_for_semantics": "NCP",
+  "num_connectors_detected": 0,
+  "connectors": [],
+  "num_candidates_rejected_as_non_connectors": 18,
+  "rejected_candidates_for_qa": [
+    {
+      "id": 1,
+      "connector_id": "conn_01_0001",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "NCP-41-P1-EF-005C",
+      "source_file": "NCP-41-P1-EF-005C.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        4572,
+        569,
+        246,
+        30
+      ],
+      "geometry": {
+        "bbox_px": [
+          4572,
+          569,
+          4818,
+          599
+        ],
+        "tip_polygon_px": [
+          [
+            4572,
+            584
+          ],
+          [
+            4587,
+            569
+          ],
+          [
+            4742,
+            570
+          ],
+          [
+            4741,
+            598
+          ],
+          [
+            4586,
+            598
+          ]
+        ],
+        "companion_bbox_px": [
+          4743,
+          569,
+          4818,
+          599
+        ],
+        "tip_side": "left",
+        "divider_x_px": 4742
+      },
+      "direction": "inflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "41-P1-EF-01",
+      "reference_tag_matches_drawing_series": false,
+      "reference_tag_ocr_confidence": 90.0,
+      "sheet_grid_reference": "6543",
+      "sheet_grid_reference_ocr_confidence": 96.0,
+      "description": "41A105035B4-BF 41F05 |",
+      "equipment_tag": null,
+      "raw_ocr_text": "41-P1-EF-01\n6543\n41A105035B4-BF 41F05 |",
+      "graph_edge": {
+        "from_node": "41-P1-EF-01:None",
+        "to_node": "NCP-41-P1-EF-005C:conn_01_0001",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed",
+        "dropped_low_confidence_shape_only_match"
+      ]
+    },
+    {
+      "id": 2,
+      "connector_id": "conn_01_0002",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "NCP-41-P1-EF-005C",
+      "source_file": "NCP-41-P1-EF-005C.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        4571,
+        700,
+        246,
+        30
+      ],
+      "geometry": {
+        "bbox_px": [
+          4571,
+          700,
+          4817,
+          730
+        ],
+        "tip_polygon_px": [
+          [
+            4646,
+            701
+          ],
+          [
+            4801,
+            700
+          ],
+          [
+            4816,
+            715
+          ],
+          [
+            4802,
+            729
+          ],
+          [
+            4647,
+            729
+          ]
+        ],
+        "companion_bbox_px": [
+          4571,
+          700,
+          4646,
+          730
+        ],
+        "tip_side": "right",
+        "divider_x_px": 4646
+      },
+      "direction": "outflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "11-P1-EF-016",
+      "reference_tag_matches_drawing_series": false,
+      "reference_tag_ocr_confidence": 44.0,
+      "sheet_grid_reference": "6529",
+      "sheet_grid_reference_ocr_confidence": 96.0,
+      "description": "A1F05 41AE05035 |",
+      "equipment_tag": null,
+      "raw_ocr_text": "11-P1-EF-016\n6529\nA1F05 41AE05035 |",
+      "graph_edge": {
+        "from_node": "NCP-41-P1-EF-005C:conn_01_0002",
+        "to_node": "11-P1-EF-016:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended",
+        "dropped_low_confidence_shape_only_match"
+      ]
+    },
+    {
+      "id": 3,
+      "connector_id": "conn_01_0003",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "NCP-41-P1-EF-005C",
+      "source_file": "NCP-41-P1-EF-005C.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        205,
+        719,
+        246,
+        30
+      ],
+      "geometry": {
+        "bbox_px": [
+          205,
+          719,
+          451,
+          749
+        ],
+        "tip_polygon_px": [
+          [
+            205,
+            733
+          ],
+          [
+            219,
+            719
+          ],
+          [
+            374,
+            719
+          ],
+          [
+            375,
+            747
+          ],
+          [
+            219,
+            748
+          ]
+        ],
+        "companion_bbox_px": [
+          376,
+          719,
+          451,
+          749
+        ],
+        "tip_side": "left",
+        "divider_x_px": 375
+      },
+      "direction": "inflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "41-P1-EF-006",
+      "reference_tag_matches_drawing_series": false,
+      "reference_tag_ocr_confidence": 6.0,
+      "sheet_grid_reference": "408",
+      "sheet_grid_reference_ocr_confidence": 96.0,
+      "description": "| 41FDA04012",
+      "equipment_tag": null,
+      "raw_ocr_text": "41-P1-EF-006\n408\n| 41FDA04012",
+      "graph_edge": {
+        "from_node": "41-P1-EF-006:None",
+        "to_node": "NCP-41-P1-EF-005C:conn_01_0003",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended",
+        "dropped_low_confidence_shape_only_match"
+      ]
+    },
+    {
+      "id": 4,
+      "connector_id": "conn_01_0004",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "NCP-41-P1-EF-005C",
+      "source_file": "NCP-41-P1-EF-005C.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        205,
+        832,
+        246,
+        30
+      ],
+      "geometry": {
+        "bbox_px": [
+          205,
+          832,
+          451,
+          862
+        ],
+        "tip_polygon_px": [
+          [
+            205,
+            845
+          ],
+          [
+            218,
+            832
+          ],
+          [
+            374,
+            832
+          ],
+          [
+            375,
+            860
+          ],
+          [
+            219,
+            861
+          ]
+        ],
+        "companion_bbox_px": [
+          376,
+          832,
+          451,
+          862
+        ],
+        "tip_side": "left",
+        "divider_x_px": 375
+      },
+      "direction": "inflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "41-P1-EF-006",
+      "reference_tag_matches_drawing_series": false,
+      "reference_tag_ocr_confidence": 6.0,
+      "sheet_grid_reference": "34064",
+      "sheet_grid_reference_ocr_confidence": 69.0,
+      "description": "; | A1FY04100B",
+      "equipment_tag": null,
+      "raw_ocr_text": "41-P1-EF-006\n34064\n; | A1FY04100B",
+      "graph_edge": {
+        "from_node": "41-P1-EF-006:None",
+        "to_node": "NCP-41-P1-EF-005C:conn_01_0004",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended",
+        "dropped_low_confidence_shape_only_match"
+      ]
+    },
+    {
+      "id": 5,
+      "connector_id": "conn_01_0005",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "NCP-41-P1-EF-005C",
+      "source_file": "NCP-41-P1-EF-005C.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        4572,
+        869,
+        246,
+        30
+      ],
+      "geometry": {
+        "bbox_px": [
+          4572,
+          869,
+          4818,
+          899
+        ],
+        "tip_polygon_px": [
+          [
+            4572,
+            883
+          ],
+          [
+            4586,
+            869
+          ],
+          [
+            4741,
+            869
+          ],
+          [
+            4742,
+            897
+          ],
+          [
+            4587,
+            898
+          ]
+        ],
+        "companion_bbox_px": [
+          4743,
+          869,
+          4818,
+          899
+        ],
+        "tip_side": "left",
+        "divider_x_px": 4742
+      },
+      "direction": "inflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "41-P1-EF-01",
+      "reference_tag_matches_drawing_series": false,
+      "reference_tag_ocr_confidence": 12.0,
+      "sheet_grid_reference": "6541",
+      "sheet_grid_reference_ocr_confidence": 95.0,
+      "description": "A1/AI05036B 41F05 |",
+      "equipment_tag": null,
+      "raw_ocr_text": "41-P1-EF-01\n6541\nA1/AI05036B 41F05 |",
+      "graph_edge": {
+        "from_node": "41-P1-EF-01:None",
+        "to_node": "NCP-41-P1-EF-005C:conn_01_0005",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended",
+        "dropped_low_confidence_shape_only_match"
+      ]
+    },
+    {
+      "id": 6,
+      "connector_id": "conn_01_0006",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "NCP-41-P1-EF-005C",
+      "source_file": "NCP-41-P1-EF-005C.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        203,
+        947,
+        246,
+        30
+      ],
+      "geometry": {
+        "bbox_px": [
+          203,
+          947,
+          449,
+          977
+        ],
+        "tip_polygon_px": [
+          [
+            278,
+            948
+          ],
+          [
+            434,
+            947
+          ],
+          [
+            448,
+            962
+          ],
+          [
+            434,
+            976
+          ],
+          [
+            279,
+            976
+          ]
+        ],
+        "companion_bbox_px": [
+          203,
+          947,
+          278,
+          977
+        ],
+        "tip_side": "right",
+        "divider_x_px": 278
+      },
+      "direction": "outflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "11-P1-EF-006C",
+      "reference_tag_matches_drawing_series": false,
+      "reference_tag_ocr_confidence": 78.0,
+      "sheet_grid_reference": "9972",
+      "sheet_grid_reference_ocr_confidence": 59.0,
+      "description": "SIO",
+      "equipment_tag": null,
+      "raw_ocr_text": "11-P1-EF-006C\n9972\nSIO",
+      "graph_edge": {
+        "from_node": "NCP-41-P1-EF-005C:conn_01_0006",
+        "to_node": "11-P1-EF-006C:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended",
+        "dropped_low_confidence_shape_only_match"
+      ]
+    },
+    {
+      "id": 7,
+      "connector_id": "conn_01_0007",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "NCP-41-P1-EF-005C",
+      "source_file": "NCP-41-P1-EF-005C.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        4572,
+        1206,
+        246,
+        30
+      ],
+      "geometry": {
+        "bbox_px": [
+          4572,
+          1206,
+          4818,
+          1236
+        ],
+        "tip_polygon_px": [
+          [
+            4572,
+            1220
+          ],
+          [
+            4586,
+            1206
+          ],
+          [
+            4741,
+            1206
+          ],
+          [
+            4742,
+            1234
+          ],
+          [
+            4586,
+            1235
+          ]
+        ],
+        "companion_bbox_px": [
+          4743,
+          1206,
+          4818,
+          1236
+        ],
+        "tip_side": "left",
+        "divider_x_px": 4742
+      },
+      "direction": "inflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "41-P1-EF-12",
+      "reference_tag_matches_drawing_series": false,
+      "reference_tag_ocr_confidence": 0.0,
+      "sheet_grid_reference": "6660",
+      "sheet_grid_reference_ocr_confidence": 96.0,
+      "description": "41E24 |",
+      "equipment_tag": null,
+      "raw_ocr_text": "41-P1-EF-12\n6660\n41E24 |",
+      "graph_edge": {
+        "from_node": "41-P1-EF-12:None",
+        "to_node": "NCP-41-P1-EF-005C:conn_01_0007",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended",
+        "dropped_low_confidence_shape_only_match"
+      ]
+    },
+    {
+      "id": 8,
+      "connector_id": "conn_01_0008",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "NCP-41-P1-EF-005C",
+      "source_file": "NCP-41-P1-EF-005C.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        4572,
+        1693,
+        246,
+        30
+      ],
+      "geometry": {
+        "bbox_px": [
+          4572,
+          1693,
+          4818,
+          1723
+        ],
+        "tip_polygon_px": [
+          [
+            4572,
+            1707
+          ],
+          [
+            4586,
+            1693
+          ],
+          [
+            4741,
+            1693
+          ],
+          [
+            4742,
+            1721
+          ],
+          [
+            4587,
+            1722
+          ]
+        ],
+        "companion_bbox_px": [
+          4743,
+          1693,
+          4818,
+          1723
+        ],
+        "tip_side": "left",
+        "divider_x_px": 4742
+      },
+      "direction": "inflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "41-P1-EF-12",
+      "reference_tag_matches_drawing_series": false,
+      "reference_tag_ocr_confidence": 0.0,
+      "sheet_grid_reference": "6661",
+      "sheet_grid_reference_ocr_confidence": 93.0,
+      "description": "41E22 |\nfF",
+      "equipment_tag": null,
+      "raw_ocr_text": "41-P1-EF-12\n6661\n41E22 |\nfF",
+      "graph_edge": {
+        "from_node": "41-P1-EF-12:None",
+        "to_node": "NCP-41-P1-EF-005C:conn_01_0008",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended",
+        "dropped_low_confidence_shape_only_match"
+      ]
+    },
+    {
+      "id": 9,
+      "connector_id": "conn_01_0009",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "NCP-41-P1-EF-005C",
+      "source_file": "NCP-41-P1-EF-005C.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        4572,
+        1843,
+        246,
+        30
+      ],
+      "geometry": {
+        "bbox_px": [
+          4572,
+          1843,
+          4818,
+          1873
+        ],
+        "tip_polygon_px": [
+          [
+            4572,
+            1857
+          ],
+          [
+            4586,
+            1843
+          ],
+          [
+            4741,
+            1843
+          ],
+          [
+            4742,
+            1871
+          ],
+          [
+            4587,
+            1872
+          ]
+        ],
+        "companion_bbox_px": [
+          4743,
+          1843,
+          4818,
+          1873
+        ],
+        "tip_side": "left",
+        "divider_x_px": 4742
+      },
+      "direction": "inflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "41-P1-EF-121",
+      "reference_tag_matches_drawing_series": false,
+      "reference_tag_ocr_confidence": 17.0,
+      "sheet_grid_reference": "6680",
+      "sheet_grid_reference_ocr_confidence": 92.0,
+      "description": null,
+      "equipment_tag": null,
+      "raw_ocr_text": "41-P1-EF-121\n6680",
+      "graph_edge": {
+        "from_node": "41-P1-EF-121:None",
+        "to_node": "NCP-41-P1-EF-005C:conn_01_0009",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended",
+        "dropped_low_confidence_shape_only_match"
+      ]
+    },
+    {
+      "id": 10,
+      "connector_id": "conn_01_0010",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "NCP-41-P1-EF-005C",
+      "source_file": "NCP-41-P1-EF-005C.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        4571,
+        2142,
+        246,
+        30
+      ],
+      "geometry": {
+        "bbox_px": [
+          4571,
+          2142,
+          4817,
+          2172
+        ],
+        "tip_polygon_px": [
+          [
+            4646,
+            2143
+          ],
+          [
+            4801,
+            2142
+          ],
+          [
+            4816,
+            2157
+          ],
+          [
+            4802,
+            2171
+          ],
+          [
+            4647,
+            2171
+          ]
+        ],
+        "companion_bbox_px": [
+          4571,
+          2142,
+          4646,
+          2172
+        ],
+        "tip_side": "right",
+        "divider_x_px": 4646
+      },
+      "direction": "outflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "41-P1-EF-008C",
+      "reference_tag_matches_drawing_series": false,
+      "reference_tag_ocr_confidence": 58.0,
+      "sheet_grid_reference": "34050",
+      "sheet_grid_reference_ocr_confidence": 96.0,
+      "description": "41EM4A-G |\nDILUTION STEAM",
+      "equipment_tag": null,
+      "raw_ocr_text": "41-P1-EF-008C\n34050\n41EM4A-G |\nDILUTION STEAM",
+      "graph_edge": {
+        "from_node": "NCP-41-P1-EF-005C:conn_01_0010",
+        "to_node": "41-P1-EF-008C:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended",
+        "dropped_low_confidence_shape_only_match"
+      ]
+    },
+    {
+      "id": 11,
+      "connector_id": "conn_01_0011",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "NCP-41-P1-EF-005C",
+      "source_file": "NCP-41-P1-EF-005C.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        4571,
+        2236,
+        246,
+        30
+      ],
+      "geometry": {
+        "bbox_px": [
+          4571,
+          2236,
+          4817,
+          2266
+        ],
+        "tip_polygon_px": [
+          [
+            4646,
+            2237
+          ],
+          [
+            4802,
+            2236
+          ],
+          [
+            4816,
+            2251
+          ],
+          [
+            4802,
+            2265
+          ],
+          [
+            4647,
+            2265
+          ]
+        ],
+        "companion_bbox_px": [
+          4571,
+          2236,
+          4646,
+          2266
+        ],
+        "tip_side": "right",
+        "divider_x_px": 4646
+      },
+      "direction": "outflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "41-P1-EF-009C",
+      "reference_tag_matches_drawing_series": false,
+      "reference_tag_ocr_confidence": 53.0,
+      "sheet_grid_reference": "YD",
+      "sheet_grid_reference_ocr_confidence": 61.0,
+      "description": "TRANSFER LINE |\nCRACKED GAS",
+      "equipment_tag": null,
+      "raw_ocr_text": "41-P1-EF-009C\nYD\nTRANSFER LINE |\nCRACKED GAS",
+      "graph_edge": {
+        "from_node": "NCP-41-P1-EF-005C:conn_01_0011",
+        "to_node": "41-P1-EF-009C:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended",
+        "dropped_low_confidence_shape_only_match"
+      ]
+    },
+    {
+      "id": 12,
+      "connector_id": "conn_01_0012",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "NCP-41-P1-EF-005C",
+      "source_file": "NCP-41-P1-EF-005C.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        4572,
+        2330,
+        246,
+        30
+      ],
+      "geometry": {
+        "bbox_px": [
+          4572,
+          2330,
+          4818,
+          2360
+        ],
+        "tip_polygon_px": [
+          [
+            4572,
+            2344
+          ],
+          [
+            4586,
+            2330
+          ],
+          [
+            4741,
+            2330
+          ],
+          [
+            4742,
+            2358
+          ],
+          [
+            4587,
+            2359
+          ]
+        ],
+        "companion_bbox_px": [
+          4743,
+          2330,
+          4818,
+          2360
+        ],
+        "tip_side": "left",
+        "divider_x_px": 4742
+      },
+      "direction": "inflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "41-P1-EF-008",
+      "reference_tag_matches_drawing_series": false,
+      "reference_tag_ocr_confidence": 0.0,
+      "sheet_grid_reference": "34051",
+      "sheet_grid_reference_ocr_confidence": 95.0,
+      "description": "41E04A-G | ;",
+      "equipment_tag": null,
+      "raw_ocr_text": "41-P1-EF-008\n34051\n41E04A-G | ;",
+      "graph_edge": {
+        "from_node": "41-P1-EF-008:None",
+        "to_node": "NCP-41-P1-EF-005C:conn_01_0012",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended",
+        "dropped_low_confidence_shape_only_match"
+      ]
+    },
+    {
+      "id": 13,
+      "connector_id": "conn_01_0013",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "NCP-41-P1-EF-005C",
+      "source_file": "NCP-41-P1-EF-005C.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        4571,
+        2442,
+        246,
+        30
+      ],
+      "geometry": {
+        "bbox_px": [
+          4571,
+          2442,
+          4817,
+          2472
+        ],
+        "tip_polygon_px": [
+          [
+            4646,
+            2443
+          ],
+          [
+            4802,
+            2442
+          ],
+          [
+            4816,
+            2457
+          ],
+          [
+            4802,
+            2471
+          ],
+          [
+            4647,
+            2471
+          ]
+        ],
+        "companion_bbox_px": [
+          4571,
+          2442,
+          4646,
+          2472
+        ],
+        "tip_side": "right",
+        "divider_x_px": 4646
+      },
+      "direction": "outflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "41-P1-EF-009C",
+      "reference_tag_matches_drawing_series": false,
+      "reference_tag_ocr_confidence": 53.0,
+      "sheet_grid_reference": "32958",
+      "sheet_grid_reference_ocr_confidence": 93.0,
+      "description": "DECOKE VALVES |",
+      "equipment_tag": null,
+      "raw_ocr_text": "41-P1-EF-009C\n32958\nDECOKE VALVES |",
+      "graph_edge": {
+        "from_node": "NCP-41-P1-EF-005C:conn_01_0013",
+        "to_node": "41-P1-EF-009C:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended",
+        "dropped_low_confidence_shape_only_match"
+      ]
+    },
+    {
+      "id": 14,
+      "connector_id": "conn_01_0014",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "NCP-41-P1-EF-005C",
+      "source_file": "NCP-41-P1-EF-005C.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        4571,
+        2592,
+        246,
+        30
+      ],
+      "geometry": {
+        "bbox_px": [
+          4571,
+          2592,
+          4817,
+          2622
+        ],
+        "tip_polygon_px": [
+          [
+            4646,
+            2620
+          ],
+          [
+            4647,
+            2592
+          ],
+          [
+            4802,
+            2592
+          ],
+          [
+            4816,
+            2606
+          ],
+          [
+            4801,
+            2621
+          ]
+        ],
+        "companion_bbox_px": [
+          4571,
+          2592,
+          4646,
+          2622
+        ],
+        "tip_side": "right",
+        "divider_x_px": 4646
+      },
+      "direction": "outflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "11-P1-EF-126",
+      "reference_tag_matches_drawing_series": false,
+      "reference_tag_ocr_confidence": 48.0,
+      "sheet_grid_reference": "6677",
+      "sheet_grid_reference_ocr_confidence": 78.0,
+      "description": "41003 |",
+      "equipment_tag": null,
+      "raw_ocr_text": "11-P1-EF-126\n6677\n41003 |",
+      "graph_edge": {
+        "from_node": "NCP-41-P1-EF-005C:conn_01_0014",
+        "to_node": "11-P1-EF-126:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended",
+        "dropped_low_confidence_shape_only_match"
+      ]
+    },
+    {
+      "id": 15,
+      "connector_id": "conn_01_0015",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "NCP-41-P1-EF-005C",
+      "source_file": "NCP-41-P1-EF-005C.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        4572,
+        2704,
+        246,
+        30
+      ],
+      "geometry": {
+        "bbox_px": [
+          4572,
+          2704,
+          4818,
+          2734
+        ],
+        "tip_polygon_px": [
+          [
+            4572,
+            2719
+          ],
+          [
+            4587,
+            2704
+          ],
+          [
+            4742,
+            2705
+          ],
+          [
+            4741,
+            2733
+          ],
+          [
+            4586,
+            2733
+          ]
+        ],
+        "companion_bbox_px": [
+          4743,
+          2704,
+          4818,
+          2734
+        ],
+        "tip_side": "left",
+        "divider_x_px": 4742
+      },
+      "direction": "inflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "41-P1-EF-009",
+      "reference_tag_matches_drawing_series": false,
+      "reference_tag_ocr_confidence": 0.0,
+      "sheet_grid_reference": "34903",
+      "sheet_grid_reference_ocr_confidence": 96.0,
+      "description": null,
+      "equipment_tag": null,
+      "raw_ocr_text": "41-P1-EF-009\n34903",
+      "graph_edge": {
+        "from_node": "41-P1-EF-009:None",
+        "to_node": "NCP-41-P1-EF-005C:conn_01_0015",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended",
+        "dropped_low_confidence_shape_only_match"
+      ]
+    },
+    {
+      "id": 16,
+      "connector_id": "conn_01_0016",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "NCP-41-P1-EF-005C",
+      "source_file": "NCP-41-P1-EF-005C.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        4571,
+        2854,
+        246,
+        30
+      ],
+      "geometry": {
+        "bbox_px": [
+          4571,
+          2854,
+          4817,
+          2884
+        ],
+        "tip_polygon_px": [
+          [
+            4646,
+            2855
+          ],
+          [
+            4802,
+            2854
+          ],
+          [
+            4816,
+            2869
+          ],
+          [
+            4802,
+            2883
+          ],
+          [
+            4647,
+            2883
+          ]
+        ],
+        "companion_bbox_px": [
+          4571,
+          2854,
+          4646,
+          2884
+        ],
+        "tip_side": "right",
+        "divider_x_px": 4646
+      },
+      "direction": "outflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "41-P1-EF-006C",
+      "reference_tag_matches_drawing_series": false,
+      "reference_tag_ocr_confidence": 58.0,
+      "sheet_grid_reference": "34053",
+      "sheet_grid_reference_ocr_confidence": 96.0,
+      "description": "41F04 |",
+      "equipment_tag": null,
+      "raw_ocr_text": "41-P1-EF-006C\n34053\n41F04 |",
+      "graph_edge": {
+        "from_node": "NCP-41-P1-EF-005C:conn_01_0016",
+        "to_node": "41-P1-EF-006C:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended",
+        "dropped_low_confidence_shape_only_match"
+      ]
+    },
+    {
+      "id": 18,
+      "connector_id": "conn_01_0018",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "NCP-41-P1-EF-005C",
+      "source_file": "NCP-41-P1-EF-005C.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        4571,
+        3004,
+        246,
+        30
+      ],
+      "geometry": {
+        "bbox_px": [
+          4571,
+          3004,
+          4817,
+          3034
+        ],
+        "tip_polygon_px": [
+          [
+            4646,
+            3032
+          ],
+          [
+            4647,
+            3004
+          ],
+          [
+            4802,
+            3004
+          ],
+          [
+            4816,
+            3018
+          ],
+          [
+            4801,
+            3033
+          ]
+        ],
+        "companion_bbox_px": [
+          4571,
+          3004,
+          4646,
+          3034
+        ],
+        "tip_side": "right",
+        "divider_x_px": 4646
+      },
+      "direction": "outflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "41-P1-EF-009C",
+      "reference_tag_matches_drawing_series": false,
+      "reference_tag_ocr_confidence": 53.0,
+      "sheet_grid_reference": "32959",
+      "sheet_grid_reference_ocr_confidence": 95.0,
+      "description": "41001 |",
+      "equipment_tag": null,
+      "raw_ocr_text": "41-P1-EF-009C\n32959\n41001 |",
+      "graph_edge": {
+        "from_node": "NCP-41-P1-EF-005C:conn_01_0018",
+        "to_node": "41-P1-EF-009C:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended",
+        "dropped_low_confidence_shape_only_match"
+      ]
+    },
+    {
+      "id": 17,
+      "connector_id": "conn_01_0017",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "NCP-41-P1-EF-005C",
+      "source_file": "NCP-41-P1-EF-005C.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        203,
+        2967,
+        246,
+        29
+      ],
+      "geometry": {
+        "bbox_px": [
+          203,
+          2967,
+          449,
+          2996
+        ],
+        "tip_polygon_px": [
+          [
+            278,
+            2994
+          ],
+          [
+            279,
+            2967
+          ],
+          [
+            435,
+            2967
+          ],
+          [
+            448,
+            2980
+          ],
+          [
+            434,
+            2995
+          ]
+        ],
+        "companion_bbox_px": [
+          203,
+          2967,
+          278,
+          2996
+        ],
+        "tip_side": "right",
+        "divider_x_px": 278
+      },
+      "direction": "outflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "41-P1-EF-703",
+      "reference_tag_matches_drawing_series": false,
+      "reference_tag_ocr_confidence": 76.0,
+      "sheet_grid_reference": "2095",
+      "sheet_grid_reference_ocr_confidence": 95.0,
+      "description": null,
+      "equipment_tag": null,
+      "raw_ocr_text": "41-P1-EF-703\n2095",
+      "graph_edge": {
+        "from_node": "NCP-41-P1-EF-005C:conn_01_0017",
+        "to_node": "41-P1-EF-703:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed",
+        "dropped_low_confidence_shape_only_match"
+      ]
+    }
+  ]
+}

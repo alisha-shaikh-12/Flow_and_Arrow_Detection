@@ -1,0 +1,594 @@
+{
+  "drawing_number": "[700-PRE-F-032] P&ID Hexene Injection Pumps -PID 100134",
+  "source_file": "[700-PRE-F-032] P&ID Hexene Injection Pumps -PID 100134.pdf",
+  "render_dpi": 300,
+  "page_size_px": [
+    9933,
+    7012
+  ],
+  "num_pages": 1,
+  "line_number_prefix_used_for_semantics": null,
+  "num_connectors_detected": 7,
+  "connectors": [
+    {
+      "id": 1,
+      "connector_id": "conn_01_0001",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[700-PRE-F-032] P&ID Hexene Injection Pumps -PID 100134",
+      "source_file": "[700-PRE-F-032] P&ID Hexene Injection Pumps -PID 100134.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        431,
+        2273,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          431,
+          2273,
+          884,
+          2328
+        ],
+        "tip_polygon_px": [
+          [
+            541,
+            2274
+          ],
+          [
+            857,
+            2273
+          ],
+          [
+            883,
+            2301
+          ],
+          [
+            857,
+            2327
+          ],
+          [
+            542,
+            2327
+          ]
+        ],
+        "companion_bbox_px": [
+          431,
+          2273,
+          541,
+          2328
+        ],
+        "tip_side": "right",
+        "divider_x_px": 541
+      },
+      "direction": "inflow",
+      "direction_source": "caption:from_to_label+geometry:tip_point:conflict",
+      "direction_signals_agree": false,
+      "reference_tag": "F-030",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 89.0,
+      "sheet_grid_reference": "1206",
+      "sheet_grid_reference_ocr_confidence": 93.0,
+      "description": "FROM LF-7301/7302\nHEXENE FEED FILTER",
+      "equipment_tag": "LF-7301",
+      "raw_ocr_text": "F-030\n1206\nFROM LF-7301/7302\nHEXENE FEED FILTER",
+      "graph_edge": {
+        "from_node": "F-030:LF-7301",
+        "to_node": "[700-PRE-F-032] P&ID Hexene Injection Pumps -PID 100134:conn_01_0001",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "shape_and_caption_direction_mismatch"
+      ]
+    },
+    {
+      "id": 2,
+      "connector_id": "conn_01_0002",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[700-PRE-F-032] P&ID Hexene Injection Pumps -PID 100134",
+      "source_file": "[700-PRE-F-032] P&ID Hexene Injection Pumps -PID 100134.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        9227,
+        3094,
+        453,
+        54
+      ],
+      "geometry": {
+        "bbox_px": [
+          9227,
+          3094,
+          9680,
+          3148
+        ],
+        "tip_polygon_px": [
+          [
+            9337,
+            3095
+          ],
+          [
+            9653,
+            3094
+          ],
+          [
+            9679,
+            3121
+          ],
+          [
+            9653,
+            3147
+          ],
+          [
+            9338,
+            3147
+          ]
+        ],
+        "companion_bbox_px": [
+          9227,
+          3094,
+          9337,
+          3148
+        ],
+        "tip_side": "right",
+        "divider_x_px": 9337
+      },
+      "direction": "outflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "F-240",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 80.0,
+      "sheet_grid_reference": "1205",
+      "sheet_grid_reference_ocr_confidence": 96.0,
+      "description": "TO TRAIN |\nREACTOR LOOP LE-1101",
+      "equipment_tag": null,
+      "raw_ocr_text": "F-240\n1205\nTO TRAIN |\nREACTOR LOOP LE-1101",
+      "graph_edge": {
+        "from_node": "[700-PRE-F-032] P&ID Hexene Injection Pumps -PID 100134:conn_01_0002",
+        "to_node": "F-240:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed"
+      ]
+    },
+    {
+      "id": 3,
+      "connector_id": "conn_01_0003",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[700-PRE-F-032] P&ID Hexene Injection Pumps -PID 100134",
+      "source_file": "[700-PRE-F-032] P&ID Hexene Injection Pumps -PID 100134.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        9227,
+        3369,
+        454,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          9227,
+          3369,
+          9681,
+          3424
+        ],
+        "tip_polygon_px": [
+          [
+            9337,
+            3422
+          ],
+          [
+            9338,
+            3369
+          ],
+          [
+            9653,
+            3369
+          ],
+          [
+            9680,
+            3396
+          ],
+          [
+            9653,
+            3423
+          ]
+        ],
+        "companion_bbox_px": [
+          9227,
+          3369,
+          9337,
+          3424
+        ],
+        "tip_side": "right",
+        "divider_x_px": 9337
+      },
+      "direction": "outflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "F-245",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 92.0,
+      "sheet_grid_reference": "2209",
+      "sheet_grid_reference_ocr_confidence": 95.0,
+      "description": "TO TRAIN II REACTOR LOOP\nLE-2101 FINAL GAS COOLER",
+      "equipment_tag": null,
+      "raw_ocr_text": "F-245\n2209\nTO TRAIN II REACTOR LOOP\nLE-2101 FINAL GAS COOLER",
+      "graph_edge": {
+        "from_node": "[700-PRE-F-032] P&ID Hexene Injection Pumps -PID 100134:conn_01_0003",
+        "to_node": "F-245:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed"
+      ]
+    },
+    {
+      "id": 4,
+      "connector_id": "conn_01_0004",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[700-PRE-F-032] P&ID Hexene Injection Pumps -PID 100134",
+      "source_file": "[700-PRE-F-032] P&ID Hexene Injection Pumps -PID 100134.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        432,
+        3512,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          432,
+          3512,
+          885,
+          3567
+        ],
+        "tip_polygon_px": [
+          [
+            432,
+            3538
+          ],
+          [
+            458,
+            3512
+          ],
+          [
+            773,
+            3512
+          ],
+          [
+            774,
+            3565
+          ],
+          [
+            459,
+            3566
+          ]
+        ],
+        "companion_bbox_px": [
+          775,
+          3512,
+          885,
+          3567
+        ],
+        "tip_side": "left",
+        "divider_x_px": 774
+      },
+      "direction": "outflow",
+      "direction_source": "caption:from_to_label+geometry:tip_point:conflict",
+      "direction_signals_agree": false,
+      "reference_tag": "F-030",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 87.0,
+      "sheet_grid_reference": "1099",
+      "sheet_grid_reference_ocr_confidence": 96.0,
+      "description": "TO LS-7301 & 02\nHEXENE DRYERS",
+      "equipment_tag": "LS-7301",
+      "raw_ocr_text": "F-030\n1099\nTO LS-7301 & 02\nHEXENE DRYERS",
+      "graph_edge": {
+        "from_node": "[700-PRE-F-032] P&ID Hexene Injection Pumps -PID 100134:conn_01_0004",
+        "to_node": "F-030:LS-7301",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "shape_and_caption_direction_mismatch"
+      ]
+    },
+    {
+      "id": 5,
+      "connector_id": "conn_01_0005",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[700-PRE-F-032] P&ID Hexene Injection Pumps -PID 100134",
+      "source_file": "[700-PRE-F-032] P&ID Hexene Injection Pumps -PID 100134.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        432,
+        3897,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          432,
+          3897,
+          885,
+          3952
+        ],
+        "tip_polygon_px": [
+          [
+            432,
+            3924
+          ],
+          [
+            459,
+            3897
+          ],
+          [
+            774,
+            3898
+          ],
+          [
+            773,
+            3951
+          ],
+          [
+            459,
+            3951
+          ]
+        ],
+        "companion_bbox_px": [
+          775,
+          3897,
+          885,
+          3952
+        ],
+        "tip_side": "left",
+        "divider_x_px": 774
+      },
+      "direction": "outflow",
+      "direction_source": "caption:from_to_label+geometry:tip_point:conflict",
+      "direction_signals_agree": false,
+      "reference_tag": "F-040",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 87.0,
+      "sheet_grid_reference": "1101",
+      "sheet_grid_reference_ocr_confidence": 95.0,
+      "description": "TO LS 7201 & 02\nBUTENE DRYERS.",
+      "equipment_tag": "LS-7201",
+      "raw_ocr_text": "F-040\n1101\nTO LS 7201 & 02\nBUTENE DRYERS.",
+      "graph_edge": {
+        "from_node": "[700-PRE-F-032] P&ID Hexene Injection Pumps -PID 100134:conn_01_0005",
+        "to_node": "F-040:LS-7201",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "shape_and_caption_direction_mismatch"
+      ]
+    },
+    {
+      "id": 6,
+      "connector_id": "conn_01_0006",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[700-PRE-F-032] P&ID Hexene Injection Pumps -PID 100134",
+      "source_file": "[700-PRE-F-032] P&ID Hexene Injection Pumps -PID 100134.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        9227,
+        5009,
+        454,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          9227,
+          5009,
+          9681,
+          5064
+        ],
+        "tip_polygon_px": [
+          [
+            9337,
+            5062
+          ],
+          [
+            9339,
+            5009
+          ],
+          [
+            9653,
+            5009
+          ],
+          [
+            9680,
+            5036
+          ],
+          [
+            9653,
+            5063
+          ]
+        ],
+        "companion_bbox_px": [
+          9227,
+          5009,
+          9337,
+          5064
+        ],
+        "tip_side": "right",
+        "divider_x_px": 9337
+      },
+      "direction": "outflow",
+      "direction_source": "caption:from_to_label+geometry:tip_point:agree",
+      "direction_signals_agree": true,
+      "reference_tag": "F-042JO",
+      "reference_tag_matches_drawing_series": false,
+      "reference_tag_ocr_confidence": 0.0,
+      "sheet_grid_reference": null,
+      "sheet_grid_reference_ocr_confidence": 0.0,
+      "description": "TO LP-7202/03",
+      "equipment_tag": "LP-7202",
+      "raw_ocr_text": "F-042JO\nTO LP-7202/03",
+      "graph_edge": {
+        "from_node": "[700-PRE-F-032] P&ID Hexene Injection Pumps -PID 100134:conn_01_0006",
+        "to_node": "F-042JO:LP-7202",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "sheet_grid_reference_ocr_empty",
+        "low_ocr_confidence_review_recommended"
+      ]
+    },
+    {
+      "id": 7,
+      "connector_id": "conn_01_0007",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[700-PRE-F-032] P&ID Hexene Injection Pumps -PID 100134",
+      "source_file": "[700-PRE-F-032] P&ID Hexene Injection Pumps -PID 100134.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        431,
+        5549,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          431,
+          5549,
+          884,
+          5604
+        ],
+        "tip_polygon_px": [
+          [
+            541,
+            5602
+          ],
+          [
+            542,
+            5549
+          ],
+          [
+            857,
+            5549
+          ],
+          [
+            883,
+            5575
+          ],
+          [
+            856,
+            5603
+          ]
+        ],
+        "companion_bbox_px": [
+          431,
+          5549,
+          541,
+          5604
+        ],
+        "tip_side": "right",
+        "divider_x_px": 541
+      },
+      "direction": "outflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "U-3839",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 39.0,
+      "sheet_grid_reference": "7661",
+      "sheet_grid_reference_ocr_confidence": 59.0,
+      "description": "L.P. NITROGEN",
+      "equipment_tag": null,
+      "raw_ocr_text": "U-3839\n7661\nL.P. NITROGEN",
+      "graph_edge": {
+        "from_node": "[700-PRE-F-032] P&ID Hexene Injection Pumps -PID 100134:conn_01_0007",
+        "to_node": "U-3839:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended"
+      ]
+    }
+  ],
+  "num_candidates_rejected_as_non_connectors": 1,
+  "rejected_candidates_for_qa": [
+    {
+      "id": 8,
+      "connector_id": "conn_01_0008",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[700-PRE-F-032] P&ID Hexene Injection Pumps -PID 100134",
+      "source_file": "[700-PRE-F-032] P&ID Hexene Injection Pumps -PID 100134.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        345,
+        6623,
+        138,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          345,
+          6623,
+          483,
+          6678
+        ],
+        "tip_polygon_px": [
+          [
+            345,
+            6624
+          ],
+          [
+            481,
+            6623
+          ],
+          [
+            482,
+            6676
+          ],
+          [
+            360,
+            6677
+          ],
+          [
+            345,
+            6662
+          ]
+        ],
+        "companion_bbox_px": null,
+        "tip_side": "unknown",
+        "divider_x_px": null
+      },
+      "direction": null,
+      "direction_source": null,
+      "direction_signals_agree": true,
+      "reference_tag": "B",
+      "reference_tag_matches_drawing_series": false,
+      "reference_tag_ocr_confidence": 0.0,
+      "sheet_grid_reference": null,
+      "sheet_grid_reference_ocr_confidence": 0.0,
+      "description": "\u201c Draw",
+      "equipment_tag": null,
+      "raw_ocr_text": "B\n\u201c Draw",
+      "graph_edge": {
+        "from_node": "[700-PRE-F-032] P&ID Hexene Injection Pumps -PID 100134:conn_01_0008",
+        "to_node": "B:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "companion_cell_not_found",
+        "sheet_grid_reference_ocr_empty",
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended",
+        "dropped_low_confidence_shape_only_match"
+      ]
+    }
+  ]
+}

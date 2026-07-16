@@ -615,7 +615,7 @@ if __name__ == "__main__":
     # -------------------------------
     # Create output folder
     # -------------------------------
-    output_dir = "8_07_v2"
+    output_dir = "8_07_v3_output"
     os.makedirs(output_dir, exist_ok=True)
 
     # Base filename of input image

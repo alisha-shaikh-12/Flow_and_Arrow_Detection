@@ -1,0 +1,743 @@
+{
+  "drawing_number": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106",
+  "source_file": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106.pdf",
+  "render_dpi": 300,
+  "page_size_px": [
+    9933,
+    7012
+  ],
+  "num_pages": 1,
+  "line_number_prefix_used_for_semantics": null,
+  "num_connectors_detected": 9,
+  "connectors": [
+    {
+      "id": 1,
+      "connector_id": "conn_01_0001",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106",
+      "source_file": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        8103,
+        416,
+        481,
+        58
+      ],
+      "geometry": {
+        "bbox_px": [
+          8103,
+          416,
+          8584,
+          474
+        ],
+        "tip_polygon_px": [
+          [
+            8220,
+            417
+          ],
+          [
+            8555,
+            416
+          ],
+          [
+            8583,
+            445
+          ],
+          [
+            8555,
+            473
+          ],
+          [
+            8221,
+            473
+          ]
+        ],
+        "companion_bbox_px": [
+          8103,
+          416,
+          8217,
+          474
+        ],
+        "tip_side": "right",
+        "divider_x_px": 8218
+      },
+      "direction": "outflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "F-210",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 90.0,
+      "sheet_grid_reference": "J-5",
+      "sheet_grid_reference_ocr_confidence": 4.0,
+      "description": "TO 36\"PH-1006-HSG1A-P",
+      "equipment_tag": null,
+      "raw_ocr_text": "F-210\nJ-5\nTO 36\"PH-1006-HSG1A-P",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106:conn_01_0001",
+        "to_node": "F-210:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended"
+      ]
+    },
+    {
+      "id": 2,
+      "connector_id": "conn_01_0002",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106",
+      "source_file": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        695,
+        556,
+        481,
+        58
+      ],
+      "geometry": {
+        "bbox_px": [
+          695,
+          556,
+          1176,
+          614
+        ],
+        "tip_polygon_px": [
+          [
+            695,
+            584
+          ],
+          [
+            723,
+            556
+          ],
+          [
+            1057,
+            556
+          ],
+          [
+            1058,
+            612
+          ],
+          [
+            724,
+            613
+          ]
+        ],
+        "companion_bbox_px": [
+          1060,
+          556,
+          1176,
+          614
+        ],
+        "tip_side": "left",
+        "divider_x_px": 1059
+      },
+      "direction": "inflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "F-190",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 59.0,
+      "sheet_grid_reference": "6436",
+      "sheet_grid_reference_ocr_confidence": 94.0,
+      "description": "TO TEAL VENT SEAL DRUM\n\u2014.T?TSoO",
+      "equipment_tag": null,
+      "raw_ocr_text": "F-190\n6436\nTO TEAL VENT SEAL DRUM\n\u2014.T?TSoO",
+      "graph_edge": {
+        "from_node": "F-190:None",
+        "to_node": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106:conn_01_0002",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended"
+      ]
+    },
+    {
+      "id": 3,
+      "connector_id": "conn_01_0003",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106",
+      "source_file": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        695,
+        702,
+        481,
+        58
+      ],
+      "geometry": {
+        "bbox_px": [
+          695,
+          702,
+          1176,
+          760
+        ],
+        "tip_polygon_px": [
+          [
+            695,
+            730
+          ],
+          [
+            724,
+            702
+          ],
+          [
+            1057,
+            702
+          ],
+          [
+            1058,
+            758
+          ],
+          [
+            724,
+            759
+          ]
+        ],
+        "companion_bbox_px": [
+          1060,
+          702,
+          1176,
+          760
+        ],
+        "tip_side": "left",
+        "divider_x_px": 1059
+      },
+      "direction": "inflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "F-190",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 59.0,
+      "sheet_grid_reference": "6437",
+      "sheet_grid_reference_ocr_confidence": 55.0,
+      "description": "TO TEAL VENT SEAL DRUM",
+      "equipment_tag": null,
+      "raw_ocr_text": "F-190\n6437\nTO TEAL VENT SEAL DRUM",
+      "graph_edge": {
+        "from_node": "F-190:None",
+        "to_node": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106:conn_01_0003",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended"
+      ]
+    },
+    {
+      "id": 4,
+      "connector_id": "conn_01_0004",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106",
+      "source_file": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        695,
+        921,
+        480,
+        58
+      ],
+      "geometry": {
+        "bbox_px": [
+          695,
+          921,
+          1175,
+          979
+        ],
+        "tip_polygon_px": [
+          [
+            811,
+            922
+          ],
+          [
+            1146,
+            921
+          ],
+          [
+            1174,
+            950
+          ],
+          [
+            1146,
+            978
+          ],
+          [
+            812,
+            978
+          ]
+        ],
+        "companion_bbox_px": [
+          695,
+          921,
+          811,
+          979
+        ],
+        "tip_side": "right",
+        "divider_x_px": 811
+      },
+      "direction": "inflow",
+      "direction_source": "caption:from_to_label+geometry:tip_point:conflict",
+      "direction_signals_agree": false,
+      "reference_tag": "F-240",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 92.0,
+      "sheet_grid_reference": "1009",
+      "sheet_grid_reference_ocr_confidence": 96.0,
+      "description": "LOOP GAS FROM Lk-1100",
+      "equipment_tag": "LK-1100",
+      "raw_ocr_text": "F-240\n1009\nLOOP GAS FROM Lk-1100",
+      "graph_edge": {
+        "from_node": "F-240:LK-1100",
+        "to_node": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106:conn_01_0004",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "shape_and_caption_direction_mismatch"
+      ]
+    },
+    {
+      "id": 5,
+      "connector_id": "conn_01_0005",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106",
+      "source_file": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        695,
+        1718,
+        481,
+        58
+      ],
+      "geometry": {
+        "bbox_px": [
+          695,
+          1718,
+          1176,
+          1776
+        ],
+        "tip_polygon_px": [
+          [
+            695,
+            1746
+          ],
+          [
+            723,
+            1718
+          ],
+          [
+            1057,
+            1718
+          ],
+          [
+            1058,
+            1774
+          ],
+          [
+            724,
+            1775
+          ]
+        ],
+        "companion_bbox_px": [
+          1060,
+          1718,
+          1176,
+          1776
+        ],
+        "tip_side": "left",
+        "divider_x_px": 1059
+      },
+      "direction": "outflow",
+      "direction_source": "caption:from_to_label+geometry:tip_point:conflict",
+      "direction_signals_agree": false,
+      "reference_tag": "F-193",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 75.0,
+      "sheet_grid_reference": null,
+      "sheet_grid_reference_ocr_confidence": 0.0,
+      "description": "TO RO-1715A",
+      "equipment_tag": "RO-1715A",
+      "raw_ocr_text": "F-193\nTO RO-1715A",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106:conn_01_0005",
+        "to_node": "F-193:RO-1715A",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "sheet_grid_reference_ocr_empty",
+        "shape_and_caption_direction_mismatch",
+        "low_ocr_confidence_review_recommended"
+      ]
+    },
+    {
+      "id": 6,
+      "connector_id": "conn_01_0006",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106",
+      "source_file": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        695,
+        2163,
+        480,
+        58
+      ],
+      "geometry": {
+        "bbox_px": [
+          695,
+          2163,
+          1175,
+          2221
+        ],
+        "tip_polygon_px": [
+          [
+            811,
+            2164
+          ],
+          [
+            1146,
+            2163
+          ],
+          [
+            1174,
+            2192
+          ],
+          [
+            1146,
+            2220
+          ],
+          [
+            812,
+            2220
+          ]
+        ],
+        "companion_bbox_px": [
+          695,
+          2163,
+          811,
+          2221
+        ],
+        "tip_side": "right",
+        "divider_x_px": 811
+      },
+      "direction": "inflow",
+      "direction_source": "caption:from_to_label+geometry:tip_point:conflict",
+      "direction_signals_agree": false,
+      "reference_tag": "F-190",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 59.0,
+      "sheet_grid_reference": "1148",
+      "sheet_grid_reference_ocr_confidence": 96.0,
+      "description": "FROM LV-1109",
+      "equipment_tag": "LV-1109",
+      "raw_ocr_text": "F-190\n1148\nFROM LV-1109",
+      "graph_edge": {
+        "from_node": "F-190:LV-1109",
+        "to_node": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106:conn_01_0006",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "shape_and_caption_direction_mismatch",
+        "low_ocr_confidence_review_recommended"
+      ]
+    },
+    {
+      "id": 7,
+      "connector_id": "conn_01_0007",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106",
+      "source_file": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        695,
+        2747,
+        481,
+        58
+      ],
+      "geometry": {
+        "bbox_px": [
+          695,
+          2747,
+          1176,
+          2805
+        ],
+        "tip_polygon_px": [
+          [
+            811,
+            2748
+          ],
+          [
+            1146,
+            2747
+          ],
+          [
+            1175,
+            2776
+          ],
+          [
+            1147,
+            2804
+          ],
+          [
+            812,
+            2804
+          ]
+        ],
+        "companion_bbox_px": [
+          695,
+          2747,
+          811,
+          2805
+        ],
+        "tip_side": "right",
+        "divider_x_px": 811
+      },
+      "direction": "outflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "F-048",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 90.0,
+      "sheet_grid_reference": "1220",
+      "sheet_grid_reference_ocr_confidence": 96.0,
+      "description": "l",
+      "equipment_tag": null,
+      "raw_ocr_text": "F-048\n1220\nl",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106:conn_01_0007",
+        "to_node": "F-048:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed"
+      ]
+    },
+    {
+      "id": 8,
+      "connector_id": "conn_01_0008",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106",
+      "source_file": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        665,
+        3624,
+        481,
+        58
+      ],
+      "geometry": {
+        "bbox_px": [
+          665,
+          3624,
+          1146,
+          3682
+        ],
+        "tip_polygon_px": [
+          [
+            782,
+            3625
+          ],
+          [
+            1117,
+            3624
+          ],
+          [
+            1145,
+            3653
+          ],
+          [
+            1117,
+            3681
+          ],
+          [
+            783,
+            3681
+          ]
+        ],
+        "companion_bbox_px": [
+          665,
+          3624,
+          782,
+          3682
+        ],
+        "tip_side": "right",
+        "divider_x_px": 782
+      },
+      "direction": "outflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "F-048",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 91.0,
+      "sheet_grid_reference": "1211",
+      "sheet_grid_reference_ocr_confidence": 94.0,
+      "description": "PENTANE FLUSH FR. LP-7403",
+      "equipment_tag": null,
+      "raw_ocr_text": "F-048\n1211\nPENTANE FLUSH FR. LP-7403",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106:conn_01_0008",
+        "to_node": "F-048:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed"
+      ]
+    },
+    {
+      "id": 9,
+      "connector_id": "conn_01_0009",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106",
+      "source_file": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        8308,
+        4501,
+        481,
+        58
+      ],
+      "geometry": {
+        "bbox_px": [
+          8308,
+          4501,
+          8789,
+          4559
+        ],
+        "tip_polygon_px": [
+          [
+            8425,
+            4557
+          ],
+          [
+            8426,
+            4501
+          ],
+          [
+            8760,
+            4501
+          ],
+          [
+            8788,
+            4529
+          ],
+          [
+            8759,
+            4558
+          ]
+        ],
+        "companion_bbox_px": [
+          8308,
+          4501,
+          8424,
+          4559
+        ],
+        "tip_side": "right",
+        "divider_x_px": 8424
+      },
+      "direction": "outflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "F-190",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 59.0,
+      "sheet_grid_reference": "1181",
+      "sheet_grid_reference_ocr_confidence": 92.0,
+      "description": "TO TEAL VENT SEAL POT",
+      "equipment_tag": null,
+      "raw_ocr_text": "F-190\n1181\nTO TEAL VENT SEAL POT",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106:conn_01_0009",
+        "to_node": "F-190:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended"
+      ]
+    }
+  ],
+  "num_candidates_rejected_as_non_connectors": 1,
+  "rejected_candidates_for_qa": [
+    {
+      "id": 11,
+      "connector_id": "conn_01_0011",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106",
+      "source_file": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        603,
+        6809,
+        146,
+        59
+      ],
+      "geometry": {
+        "bbox_px": [
+          603,
+          6809,
+          749,
+          6868
+        ],
+        "tip_polygon_px": [
+          [
+            603,
+            6810
+          ],
+          [
+            747,
+            6809
+          ],
+          [
+            748,
+            6866
+          ],
+          [
+            619,
+            6867
+          ],
+          [
+            603,
+            6851
+          ]
+        ],
+        "companion_bbox_px": null,
+        "tip_side": "unknown",
+        "divider_x_px": null
+      },
+      "direction": null,
+      "direction_source": null,
+      "direction_signals_agree": true,
+      "reference_tag": "12",
+      "reference_tag_matches_drawing_series": false,
+      "reference_tag_ocr_confidence": 36.0,
+      "sheet_grid_reference": null,
+      "sheet_grid_reference_ocr_confidence": 0.0,
+      "description": "Drawing",
+      "equipment_tag": null,
+      "raw_ocr_text": "12\nDrawing",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-156] P&ID TR1 Reagent 20 Injection System -PID 100106:conn_01_0011",
+        "to_node": "12:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "companion_cell_not_found",
+        "sheet_grid_reference_ocr_empty",
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended",
+        "dropped_low_confidence_shape_only_match"
+      ]
+    }
+  ]
+}

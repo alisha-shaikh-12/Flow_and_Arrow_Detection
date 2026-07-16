@@ -1,0 +1,806 @@
+{
+  "drawing_number": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091",
+  "source_file": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091.pdf",
+  "render_dpi": 300,
+  "page_size_px": [
+    9933,
+    7012
+  ],
+  "num_pages": 1,
+  "line_number_prefix_used_for_semantics": null,
+  "num_connectors_detected": 10,
+  "connectors": [
+    {
+      "id": 1,
+      "connector_id": "conn_01_0001",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091",
+      "source_file": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        404,
+        738,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          404,
+          738,
+          857,
+          793
+        ],
+        "tip_polygon_px": [
+          [
+            514,
+            791
+          ],
+          [
+            515,
+            738
+          ],
+          [
+            829,
+            738
+          ],
+          [
+            856,
+            765
+          ],
+          [
+            829,
+            792
+          ]
+        ],
+        "companion_bbox_px": [
+          404,
+          738,
+          514,
+          793
+        ],
+        "tip_side": "right",
+        "divider_x_px": 514
+      },
+      "direction": "inflow",
+      "direction_source": "caption:from_to_label+geometry:tip_point:conflict",
+      "direction_signals_agree": false,
+      "reference_tag": "F-210",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 89.0,
+      "sheet_grid_reference": "1015",
+      "sheet_grid_reference_ocr_confidence": 81.0,
+      "description": "FROM LR-1100",
+      "equipment_tag": "LR-1100",
+      "raw_ocr_text": "F-210\n1015\nFROM LR-1100",
+      "graph_edge": {
+        "from_node": "F-210:LR-1100",
+        "to_node": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091:conn_01_0001",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "shape_and_caption_direction_mismatch"
+      ]
+    },
+    {
+      "id": 2,
+      "connector_id": "conn_01_0002",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091",
+      "source_file": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        404,
+        897,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          404,
+          897,
+          857,
+          952
+        ],
+        "tip_polygon_px": [
+          [
+            514,
+            950
+          ],
+          [
+            515,
+            897
+          ],
+          [
+            829,
+            897
+          ],
+          [
+            856,
+            924
+          ],
+          [
+            829,
+            951
+          ]
+        ],
+        "companion_bbox_px": [
+          404,
+          897,
+          514,
+          952
+        ],
+        "tip_side": "right",
+        "divider_x_px": 514
+      },
+      "direction": "inflow",
+      "direction_source": "caption:from_to_label+geometry:tip_point:conflict",
+      "direction_signals_agree": false,
+      "reference_tag": "F-210",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 89.0,
+      "sheet_grid_reference": "1016",
+      "sheet_grid_reference_ocr_confidence": 96.0,
+      "description": "FROM LR-1100",
+      "equipment_tag": "LR-1100",
+      "raw_ocr_text": "F-210\n1016\nFROM LR-1100",
+      "graph_edge": {
+        "from_node": "F-210:LR-1100",
+        "to_node": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091:conn_01_0002",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "shape_and_caption_direction_mismatch"
+      ]
+    },
+    {
+      "id": 3,
+      "connector_id": "conn_01_0003",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091",
+      "source_file": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        7566,
+        1765,
+        453,
+        54
+      ],
+      "geometry": {
+        "bbox_px": [
+          7566,
+          1765,
+          8019,
+          1819
+        ],
+        "tip_polygon_px": [
+          [
+            7676,
+            1766
+          ],
+          [
+            7992,
+            1765
+          ],
+          [
+            8018,
+            1792
+          ],
+          [
+            7992,
+            1818
+          ],
+          [
+            7677,
+            1818
+          ]
+        ],
+        "companion_bbox_px": [
+          7566,
+          1765,
+          7676,
+          1819
+        ],
+        "tip_side": "right",
+        "divider_x_px": 7676
+      },
+      "direction": "outflow",
+      "direction_source": "caption:from_to_label+geometry:tip_point:agree",
+      "direction_signals_agree": true,
+      "reference_tag": "F-230",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 79.0,
+      "sheet_grid_reference": "1022",
+      "sheet_grid_reference_ocr_confidence": 95.0,
+      "description": "TO LE-1100 PRIMARY GAS A 99\nCOOLER /\\ oe",
+      "equipment_tag": "LE-1100",
+      "raw_ocr_text": "F-230\n1022\nTO LE-1100 PRIMARY GAS A 99\nCOOLER /\\ oe",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091:conn_01_0003",
+        "to_node": "F-230:LE-1100",
+        "relationship": "flow_continues_to"
+      },
+      "flags": []
+    },
+    {
+      "id": 4,
+      "connector_id": "conn_01_0004",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091",
+      "source_file": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        7521,
+        2347,
+        453,
+        54
+      ],
+      "geometry": {
+        "bbox_px": [
+          7521,
+          2347,
+          7974,
+          2401
+        ],
+        "tip_polygon_px": [
+          [
+            7521,
+            2374
+          ],
+          [
+            7548,
+            2347
+          ],
+          [
+            7863,
+            2348
+          ],
+          [
+            7862,
+            2400
+          ],
+          [
+            7547,
+            2400
+          ]
+        ],
+        "companion_bbox_px": [
+          7865,
+          2347,
+          7974,
+          2401
+        ],
+        "tip_side": "left",
+        "divider_x_px": 7864
+      },
+      "direction": "inflow",
+      "direction_source": "caption:from_to_label+geometry:tip_point:agree",
+      "direction_signals_agree": true,
+      "reference_tag": "F-210",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 89.0,
+      "sheet_grid_reference": "4009",
+      "sheet_grid_reference_ocr_confidence": 71.0,
+      "description": "FROM TDI-1101A/B",
+      "equipment_tag": "TDI-1101A",
+      "raw_ocr_text": "F-210\n4009\nFROM TDI-1101A/B",
+      "graph_edge": {
+        "from_node": "F-210:TDI-1101A",
+        "to_node": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091:conn_01_0004",
+        "relationship": "flow_continues_to"
+      },
+      "flags": []
+    },
+    {
+      "id": 5,
+      "connector_id": "conn_01_0005",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091",
+      "source_file": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        377,
+        4035,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          377,
+          4035,
+          830,
+          4090
+        ],
+        "tip_polygon_px": [
+          [
+            377,
+            4062
+          ],
+          [
+            404,
+            4035
+          ],
+          [
+            719,
+            4036
+          ],
+          [
+            718,
+            4089
+          ],
+          [
+            404,
+            4089
+          ]
+        ],
+        "companion_bbox_px": [
+          720,
+          4035,
+          830,
+          4090
+        ],
+        "tip_side": "left",
+        "divider_x_px": 719
+      },
+      "direction": "outflow",
+      "direction_source": "caption:from_to_label+geometry:tip_point:conflict",
+      "direction_signals_agree": false,
+      "reference_tag": "F-200",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 85.0,
+      "sheet_grid_reference": "4058",
+      "sheet_grid_reference_ocr_confidence": 95.0,
+      "description": "TO HS-1100",
+      "equipment_tag": "HS-1100",
+      "raw_ocr_text": "F-200\n4058\nTO HS-1100",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091:conn_01_0005",
+        "to_node": "F-200:HS-1100",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "shape_and_caption_direction_mismatch"
+      ]
+    },
+    {
+      "id": 6,
+      "connector_id": "conn_01_0006",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091",
+      "source_file": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        405,
+        4770,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          405,
+          4770,
+          858,
+          4825
+        ],
+        "tip_polygon_px": [
+          [
+            405,
+            4796
+          ],
+          [
+            431,
+            4770
+          ],
+          [
+            746,
+            4770
+          ],
+          [
+            747,
+            4822
+          ],
+          [
+            432,
+            4824
+          ]
+        ],
+        "companion_bbox_px": [
+          748,
+          4770,
+          858,
+          4825
+        ],
+        "tip_side": "left",
+        "divider_x_px": 747
+      },
+      "direction": "outflow",
+      "direction_source": "caption:from_to_label+geometry:tip_point:conflict",
+      "direction_signals_agree": false,
+      "reference_tag": "F-210",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 89.0,
+      "sheet_grid_reference": "1157",
+      "sheet_grid_reference_ocr_confidence": 42.0,
+      "description": "TO LR-1100",
+      "equipment_tag": "LR-1100",
+      "raw_ocr_text": "F-210\n1157\nTO LR-1100",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091:conn_01_0006",
+        "to_node": "F-210:LR-1100",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "shape_and_caption_direction_mismatch",
+        "low_ocr_confidence_review_recommended"
+      ]
+    },
+    {
+      "id": 7,
+      "connector_id": "conn_01_0007",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091",
+      "source_file": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        397,
+        4951,
+        452,
+        54
+      ],
+      "geometry": {
+        "bbox_px": [
+          397,
+          4951,
+          849,
+          5005
+        ],
+        "tip_polygon_px": [
+          [
+            397,
+            4977
+          ],
+          [
+            423,
+            4951
+          ],
+          [
+            737,
+            4951
+          ],
+          [
+            738,
+            5003
+          ],
+          [
+            423,
+            5004
+          ]
+        ],
+        "companion_bbox_px": [
+          740,
+          4951,
+          849,
+          5005
+        ],
+        "tip_side": "left",
+        "divider_x_px": 739
+      },
+      "direction": "inflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "F-720",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 0.0,
+      "sheet_grid_reference": "6411",
+      "sheet_grid_reference_ocr_confidence": 87.0,
+      "description": "CO TO \"P\" VENT SYSTEM",
+      "equipment_tag": null,
+      "raw_ocr_text": "F-720\n6411\nCO TO \"P\" VENT SYSTEM",
+      "graph_edge": {
+        "from_node": "F-720:None",
+        "to_node": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091:conn_01_0007",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended"
+      ]
+    },
+    {
+      "id": 8,
+      "connector_id": "conn_01_0008",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091",
+      "source_file": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        405,
+        5137,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          405,
+          5137,
+          858,
+          5192
+        ],
+        "tip_polygon_px": [
+          [
+            405,
+            5164
+          ],
+          [
+            432,
+            5137
+          ],
+          [
+            745,
+            5137
+          ],
+          [
+            747,
+            5190
+          ],
+          [
+            431,
+            5191
+          ]
+        ],
+        "companion_bbox_px": [
+          748,
+          5137,
+          858,
+          5192
+        ],
+        "tip_side": "left",
+        "divider_x_px": 747
+      },
+      "direction": "outflow",
+      "direction_source": "caption:from_to_label+geometry:tip_point:conflict",
+      "direction_signals_agree": false,
+      "reference_tag": "F-210",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 89.0,
+      "sheet_grid_reference": "1018",
+      "sheet_grid_reference_ocr_confidence": 96.0,
+      "description": "TO LR-1100",
+      "equipment_tag": "LR-1100",
+      "raw_ocr_text": "F-210\n1018\nTO LR-1100",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091:conn_01_0008",
+        "to_node": "F-210:LR-1100",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "shape_and_caption_direction_mismatch"
+      ]
+    },
+    {
+      "id": 9,
+      "connector_id": "conn_01_0009",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091",
+      "source_file": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        410,
+        5274,
+        453,
+        54
+      ],
+      "geometry": {
+        "bbox_px": [
+          410,
+          5274,
+          863,
+          5328
+        ],
+        "tip_polygon_px": [
+          [
+            520,
+            5275
+          ],
+          [
+            836,
+            5274
+          ],
+          [
+            862,
+            5301
+          ],
+          [
+            836,
+            5327
+          ],
+          [
+            521,
+            5327
+          ]
+        ],
+        "companion_bbox_px": [
+          410,
+          5274,
+          520,
+          5328
+        ],
+        "tip_side": "right",
+        "divider_x_px": 520
+      },
+      "direction": "outflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "F-240",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 84.0,
+      "sheet_grid_reference": "1021",
+      "sheet_grid_reference_ocr_confidence": 95.0,
+      "description": "LK-1100 FLUIDIZATION GAS",
+      "equipment_tag": null,
+      "raw_ocr_text": "F-240\n1021\nLK-1100 FLUIDIZATION GAS",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091:conn_01_0009",
+        "to_node": "F-240:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed"
+      ]
+    },
+    {
+      "id": 10,
+      "connector_id": "conn_01_0010",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091",
+      "source_file": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        405,
+        5458,
+        453,
+        54
+      ],
+      "geometry": {
+        "bbox_px": [
+          405,
+          5458,
+          858,
+          5512
+        ],
+        "tip_polygon_px": [
+          [
+            405,
+            5484
+          ],
+          [
+            431,
+            5458
+          ],
+          [
+            746,
+            5458
+          ],
+          [
+            747,
+            5510
+          ],
+          [
+            431,
+            5511
+          ]
+        ],
+        "companion_bbox_px": [
+          748,
+          5458,
+          858,
+          5512
+        ],
+        "tip_side": "left",
+        "divider_x_px": 747
+      },
+      "direction": "outflow",
+      "direction_source": "caption:from_to_label+geometry:tip_point:conflict",
+      "direction_signals_agree": false,
+      "reference_tag": "F-210",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 89.0,
+      "sheet_grid_reference": "1017",
+      "sheet_grid_reference_ocr_confidence": 96.0,
+      "description": "TO LR-1100",
+      "equipment_tag": "LR-1100",
+      "raw_ocr_text": "F-210\n1017\nTO LR-1100",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091:conn_01_0010",
+        "to_node": "F-210:LR-1100",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "shape_and_caption_direction_mismatch"
+      ]
+    }
+  ],
+  "num_candidates_rejected_as_non_connectors": 1,
+  "rejected_candidates_for_qa": [
+    {
+      "id": 11,
+      "connector_id": "conn_01_0011",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091",
+      "source_file": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        345,
+        6623,
+        138,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          345,
+          6623,
+          483,
+          6678
+        ],
+        "tip_polygon_px": [
+          [
+            345,
+            6624
+          ],
+          [
+            481,
+            6623
+          ],
+          [
+            482,
+            6676
+          ],
+          [
+            360,
+            6677
+          ],
+          [
+            345,
+            6662
+          ]
+        ],
+        "companion_bbox_px": null,
+        "tip_side": "unknown",
+        "divider_x_px": null
+      },
+      "direction": null,
+      "direction_source": null,
+      "direction_signals_agree": true,
+      "reference_tag": "2",
+      "reference_tag_matches_drawing_series": false,
+      "reference_tag_ocr_confidence": 63.0,
+      "sheet_grid_reference": null,
+      "sheet_grid_reference_ocr_confidence": 0.0,
+      "description": "Se\nDrawir",
+      "equipment_tag": null,
+      "raw_ocr_text": "2\nSe\nDrawir",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-220] P&ID TR1 Carbon Dioxide Drum & Reactor Gas Cyclones -PID 100091:conn_01_0011",
+        "to_node": "2:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "companion_cell_not_found",
+        "sheet_grid_reference_ocr_empty",
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended",
+        "dropped_low_confidence_shape_only_match"
+      ]
+    }
+  ]
+}

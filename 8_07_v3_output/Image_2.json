@@ -1,0 +1,295 @@
+{
+  "source_image": "Image_2.jpeg",
+  "image_size": {
+    "width": 5100,
+    "height": 3300
+  },
+  "connector_count": 15,
+  "connectors": [
+    {
+      "id": 1,
+      "bbox_xywh": [
+        165,
+        209,
+        233,
+        45
+      ],
+      "reference_tag": "G-10234",
+      "description": "BRINE ION EXCHANGE COLUMN",
+      "equipment_tag": null,
+      "raw_ocr_text": "BRINE ION EXCHANGE COLUMN\ngC 2) O7A-10234",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 2,
+      "bbox_xywh": [
+        4222,
+        209,
+        232,
+        45
+      ],
+      "reference_tag": "G-10236",
+      "description": "EXACHANGE COLUMN C",
+      "equipment_tag": null,
+      "raw_ocr_text": "EXACHANGE COLUMN C\n07A-10236 (2 |",
+      "direction": "inflow",
+      "direction_source": "geometry:edge_convention_weak",
+      "confidence": "medium",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 3,
+      "bbox_xywh": [
+        165,
+        313,
+        233,
+        44
+      ],
+      "reference_tag": "G-10234",
+      "description": "EXCHANGE COLUMN A",
+      "equipment_tag": null,
+      "raw_ocr_text": "EXCHANGE COLUMN A\n4 O7A-10234",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 4,
+      "bbox_xywh": [
+        4222,
+        313,
+        231,
+        44
+      ],
+      "reference_tag": "G-10236",
+      "description": "REMOVAL COLUMN",
+      "equipment_tag": null,
+      "raw_ocr_text": "REMOVAL COLUMN\n07A-10236 (a)",
+      "direction": "inflow",
+      "direction_source": "geometry:edge_convention_weak",
+      "confidence": "medium",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 5,
+      "bbox_xywh": [
+        4221,
+        728,
+        233,
+        45
+      ],
+      "reference_tag": "G-10236",
+      "description": "COLUMN C",
+      "equipment_tag": null,
+      "raw_ocr_text": "COLUMN C\n07A-10236 (aS",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 6,
+      "bbox_xywh": [
+        165,
+        832,
+        232,
+        44
+      ],
+      "reference_tag": "G-10234",
+      "description": "BRINE ION EXCHANGE COLUMN",
+      "equipment_tag": null,
+      "raw_ocr_text": "BRINE ION EXCHANGE COLUMN\nits O7A- 10234",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 7,
+      "bbox_xywh": [
+        4576,
+        1044,
+        234,
+        70
+      ],
+      "reference_tag": null,
+      "description": "[BULLETIN NO. 1- 91365 /Z\\ ADDED ISOLATION VALVES TO BIX UNIT. CHG: RES - 911033 - BBY: C. OTTENWELLER REQ'R: L. SCHIFFMAN /\u00b0 BYISSUED: 7/31/17 FOR: MOC.3394/ 3497",
+      "equipment_tag": null,
+      "raw_ocr_text": "[BULLETIN NO. 1- 91365\n/Z\\ ADDED ISOLATION\n\nVALVES TO BIX UNIT.\nCHG: RES - 911033\n\n- BBY: C. OTTENWELLER\nREQ'R: L. SCHIFFMAN\n\n/\u00b0 BYISSUED: 7/31/17\nFOR: MOC.3394/ 3497\nBULLETIN NO. RECORD",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 8,
+      "bbox_xywh": [
+        165,
+        2597,
+        232,
+        44
+      ],
+      "reference_tag": "G-10234",
+      "description": "ION EXCHANGE COLUMN A",
+      "equipment_tag": null,
+      "raw_ocr_text": "ION EXCHANGE COLUMN A\n[> O7A-10234",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 9,
+      "bbox_xywh": [
+        3788,
+        2597,
+        232,
+        44
+      ],
+      "reference_tag": "G-10236",
+      "description": "PURE BRINE TANK",
+      "equipment_tag": null,
+      "raw_ocr_text": "PURE BRINE TANK\n07A- 10236 (25)",
+      "direction": "outflow",
+      "direction_source": "geometry:edge_convention_weak",
+      "confidence": "medium",
+      "nearest_edge": "bottom",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 10,
+      "bbox_xywh": [
+        166,
+        2701,
+        232,
+        44
+      ],
+      "reference_tag": "G-10234",
+      "description": "BRINE ION EXCHANGE COLUMN",
+      "equipment_tag": null,
+      "raw_ocr_text": "BRINE ION EXCHANGE COLUMN\n(26) 07A- 10234",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 11,
+      "bbox_xywh": [
+        3789,
+        2701,
+        231,
+        44
+      ],
+      "reference_tag": "G-10236",
+      "description": "CHEMICAL DILUTION STATIC",
+      "equipment_tag": null,
+      "raw_ocr_text": "CHEMICAL DILUTION STATIC\nO7A-10236 (26)",
+      "direction": "outflow",
+      "direction_source": "geometry:edge_convention_weak",
+      "confidence": "medium",
+      "nearest_edge": "bottom",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 12,
+      "bbox_xywh": [
+        167,
+        2805,
+        230,
+        44
+      ],
+      "reference_tag": "G-10234",
+      "description": "ION EXCHANGE COLUMN A",
+      "equipment_tag": null,
+      "raw_ocr_text": "ION EXCHANGE COLUMN A\n(7) O7A-10234",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 13,
+      "bbox_xywh": [
+        3788,
+        2805,
+        231,
+        44
+      ],
+      "reference_tag": "G-10236",
+      "description": "URAIN TO PROCESS SEWET",
+      "equipment_tag": null,
+      "raw_ocr_text": "URAIN TO PROCESS SEWET\n07A- 10236 @;",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "bottom",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 14,
+      "bbox_xywh": [
+        166,
+        2909,
+        231,
+        44
+      ],
+      "reference_tag": "G-10234",
+      "description": "BRINE ION EXCHANGE COLUMN",
+      "equipment_tag": null,
+      "raw_ocr_text": "BRINE ION EXCHANGE COLUMN\n(28) O07A-10234",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 15,
+      "bbox_xywh": [
+        3788,
+        2909,
+        232,
+        44
+      ],
+      "reference_tag": "G-10236",
+      "description": "TO RECOVERY OR DISPOSE",
+      "equipment_tag": null,
+      "raw_ocr_text": "TO RECOVERY OR DISPOSE\nO7A-10236 (28)",
+      "direction": "outflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "bottom",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    }
+  ]
+}

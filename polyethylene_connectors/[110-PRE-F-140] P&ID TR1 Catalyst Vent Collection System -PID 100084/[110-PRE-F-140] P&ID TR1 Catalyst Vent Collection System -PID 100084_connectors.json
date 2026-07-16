@@ -1,0 +1,1241 @@
+{
+  "drawing_number": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084",
+  "source_file": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084.pdf",
+  "render_dpi": 300,
+  "page_size_px": [
+    9933,
+    7012
+  ],
+  "num_pages": 1,
+  "line_number_prefix_used_for_semantics": null,
+  "num_connectors_detected": 14,
+  "connectors": [
+    {
+      "id": 1,
+      "connector_id": "conn_01_0001",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084",
+      "source_file": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        7493,
+        745,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          7493,
+          745,
+          7946,
+          800
+        ],
+        "tip_polygon_px": [
+          [
+            7603,
+            746
+          ],
+          [
+            7918,
+            745
+          ],
+          [
+            7945,
+            773
+          ],
+          [
+            7919,
+            799
+          ],
+          [
+            7604,
+            799
+          ]
+        ],
+        "companion_bbox_px": [
+          7493,
+          745,
+          7603,
+          800
+        ],
+        "tip_side": "right",
+        "divider_x_px": 7603
+      },
+      "direction": "outflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "F-210",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 89.0,
+      "sheet_grid_reference": "1222",
+      "sheet_grid_reference_ocr_confidence": 96.0,
+      "description": null,
+      "equipment_tag": null,
+      "raw_ocr_text": "F-210\n1222",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084:conn_01_0001",
+        "to_node": "F-210:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed"
+      ]
+    },
+    {
+      "id": 2,
+      "connector_id": "conn_01_0002",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084",
+      "source_file": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        7493,
+        1020,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          7493,
+          1020,
+          7946,
+          1075
+        ],
+        "tip_polygon_px": [
+          [
+            7603,
+            1021
+          ],
+          [
+            7918,
+            1020
+          ],
+          [
+            7945,
+            1048
+          ],
+          [
+            7919,
+            1074
+          ],
+          [
+            7604,
+            1074
+          ]
+        ],
+        "companion_bbox_px": [
+          7493,
+          1020,
+          7603,
+          1075
+        ],
+        "tip_side": "right",
+        "divider_x_px": 7603
+      },
+      "direction": "outflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "F-210",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 89.0,
+      "sheet_grid_reference": "1223",
+      "sheet_grid_reference_ocr_confidence": 96.0,
+      "description": "~ AANA \u00a9 | gCHNN |",
+      "equipment_tag": null,
+      "raw_ocr_text": "F-210\n1223\n~ AANA \u00a9 | gCHNN |",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084:conn_01_0002",
+        "to_node": "F-210:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed"
+      ]
+    },
+    {
+      "id": 3,
+      "connector_id": "conn_01_0003",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084",
+      "source_file": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        7494,
+        1706,
+        454,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          7494,
+          1706,
+          7948,
+          1761
+        ],
+        "tip_polygon_px": [
+          [
+            7494,
+            1733
+          ],
+          [
+            7521,
+            1706
+          ],
+          [
+            7836,
+            1707
+          ],
+          [
+            7835,
+            1760
+          ],
+          [
+            7521,
+            1760
+          ]
+        ],
+        "companion_bbox_px": [
+          7838,
+          1706,
+          7948,
+          1761
+        ],
+        "tip_side": "left",
+        "divider_x_px": 7837
+      },
+      "direction": "inflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "F-240",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 92.0,
+      "sheet_grid_reference": null,
+      "sheet_grid_reference_ocr_confidence": 0.0,
+      "description": null,
+      "equipment_tag": null,
+      "raw_ocr_text": "F-240",
+      "graph_edge": {
+        "from_node": "F-240:None",
+        "to_node": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084:conn_01_0003",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "sheet_grid_reference_ocr_empty",
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended"
+      ]
+    },
+    {
+      "id": 4,
+      "connector_id": "conn_01_0004",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084",
+      "source_file": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        7588,
+        2629,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          7588,
+          2629,
+          8041,
+          2684
+        ],
+        "tip_polygon_px": [
+          [
+            7588,
+            2656
+          ],
+          [
+            7615,
+            2629
+          ],
+          [
+            7930,
+            2630
+          ],
+          [
+            7929,
+            2683
+          ],
+          [
+            7615,
+            2683
+          ]
+        ],
+        "companion_bbox_px": [
+          7931,
+          2629,
+          8041,
+          2684
+        ],
+        "tip_side": "left",
+        "divider_x_px": 7930
+      },
+      "direction": "inflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "F-170",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 85.0,
+      "sheet_grid_reference": "6949",
+      "sheet_grid_reference_ocr_confidence": 85.0,
+      "description": "PSE-LV-1106-X",
+      "equipment_tag": null,
+      "raw_ocr_text": "F-170\n6949\nPSE-LV-1106-X",
+      "graph_edge": {
+        "from_node": "F-170:None",
+        "to_node": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084:conn_01_0004",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed"
+      ]
+    },
+    {
+      "id": 5,
+      "connector_id": "conn_01_0005",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084",
+      "source_file": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        7590,
+        3381,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          7590,
+          3381,
+          8043,
+          3436
+        ],
+        "tip_polygon_px": [
+          [
+            7590,
+            3407
+          ],
+          [
+            7616,
+            3381
+          ],
+          [
+            7931,
+            3381
+          ],
+          [
+            7932,
+            3434
+          ],
+          [
+            7617,
+            3435
+          ]
+        ],
+        "companion_bbox_px": [
+          7933,
+          3381,
+          8043,
+          3436
+        ],
+        "tip_side": "left",
+        "divider_x_px": 7932
+      },
+      "direction": "inflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "F-160",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 90.0,
+      "sheet_grid_reference": "1005",
+      "sheet_grid_reference_ocr_confidence": 96.0,
+      "description": "PSV-LV-1102-A",
+      "equipment_tag": null,
+      "raw_ocr_text": "F-160\n1005\nPSV-LV-1102-A",
+      "graph_edge": {
+        "from_node": "F-160:None",
+        "to_node": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084:conn_01_0005",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed"
+      ]
+    },
+    {
+      "id": 6,
+      "connector_id": "conn_01_0006",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084",
+      "source_file": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        7590,
+        3628,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          7590,
+          3628,
+          8043,
+          3683
+        ],
+        "tip_polygon_px": [
+          [
+            7590,
+            3655
+          ],
+          [
+            7617,
+            3628
+          ],
+          [
+            7932,
+            3629
+          ],
+          [
+            7931,
+            3682
+          ],
+          [
+            7616,
+            3682
+          ]
+        ],
+        "companion_bbox_px": [
+          7933,
+          3628,
+          8043,
+          3683
+        ],
+        "tip_side": "left",
+        "divider_x_px": 7932
+      },
+      "direction": "inflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "F-146",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 92.0,
+      "sheet_grid_reference": "1001",
+      "sheet_grid_reference_ocr_confidence": 96.0,
+      "description": "PSV-LV-1101-A",
+      "equipment_tag": null,
+      "raw_ocr_text": "F-146\n1001\nPSV-LV-1101-A",
+      "graph_edge": {
+        "from_node": "F-146:None",
+        "to_node": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084:conn_01_0006",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed"
+      ]
+    },
+    {
+      "id": 7,
+      "connector_id": "conn_01_0007",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084",
+      "source_file": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        408,
+        3936,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          408,
+          3936,
+          861,
+          3991
+        ],
+        "tip_polygon_px": [
+          [
+            518,
+            3989
+          ],
+          [
+            519,
+            3936
+          ],
+          [
+            834,
+            3936
+          ],
+          [
+            860,
+            3962
+          ],
+          [
+            833,
+            3990
+          ]
+        ],
+        "companion_bbox_px": [
+          408,
+          3936,
+          518,
+          3991
+        ],
+        "tip_side": "right",
+        "divider_x_px": 518
+      },
+      "direction": "outflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "F-170",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 85.0,
+      "sheet_grid_reference": "0044",
+      "sheet_grid_reference_ocr_confidence": 94.0,
+      "description": "CATALYST TOTE BIN VENT",
+      "equipment_tag": null,
+      "raw_ocr_text": "F-170\n0044\nCATALYST TOTE BIN VENT",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084:conn_01_0007",
+        "to_node": "F-170:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed"
+      ]
+    },
+    {
+      "id": 8,
+      "connector_id": "conn_01_0008",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084",
+      "source_file": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        7590,
+        4172,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          7590,
+          4172,
+          8043,
+          4227
+        ],
+        "tip_polygon_px": [
+          [
+            7590,
+            4199
+          ],
+          [
+            7617,
+            4172
+          ],
+          [
+            7932,
+            4173
+          ],
+          [
+            7931,
+            4226
+          ],
+          [
+            7616,
+            4226
+          ]
+        ],
+        "companion_bbox_px": [
+          7933,
+          4172,
+          8043,
+          4227
+        ],
+        "tip_side": "left",
+        "divider_x_px": 7932
+      },
+      "direction": "inflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "F-146",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 92.0,
+      "sheet_grid_reference": "1003",
+      "sheet_grid_reference_ocr_confidence": 96.0,
+      "description": "PSE-LV-1101-Y",
+      "equipment_tag": null,
+      "raw_ocr_text": "F-146\n1003\nPSE-LV-1101-Y",
+      "graph_edge": {
+        "from_node": "F-146:None",
+        "to_node": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084:conn_01_0008",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed"
+      ]
+    },
+    {
+      "id": 9,
+      "connector_id": "conn_01_0009",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084",
+      "source_file": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        405,
+        4185,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          405,
+          4185,
+          858,
+          4240
+        ],
+        "tip_polygon_px": [
+          [
+            515,
+            4238
+          ],
+          [
+            516,
+            4185
+          ],
+          [
+            830,
+            4185
+          ],
+          [
+            857,
+            4212
+          ],
+          [
+            830,
+            4239
+          ]
+        ],
+        "companion_bbox_px": [
+          405,
+          4185,
+          515,
+          4240
+        ],
+        "tip_side": "right",
+        "divider_x_px": 515
+      },
+      "direction": "outflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "F-146",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 92.0,
+      "sheet_grid_reference": "1221",
+      "sheet_grid_reference_ocr_confidence": 96.0,
+      "description": null,
+      "equipment_tag": null,
+      "raw_ocr_text": "F-146\n1221",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084:conn_01_0009",
+        "to_node": "F-146:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed"
+      ]
+    },
+    {
+      "id": 10,
+      "connector_id": "conn_01_0010",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084",
+      "source_file": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        404,
+        4448,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          404,
+          4448,
+          857,
+          4503
+        ],
+        "tip_polygon_px": [
+          [
+            514,
+            4501
+          ],
+          [
+            515,
+            4448
+          ],
+          [
+            829,
+            4448
+          ],
+          [
+            856,
+            4475
+          ],
+          [
+            829,
+            4502
+          ]
+        ],
+        "companion_bbox_px": [
+          404,
+          4448,
+          514,
+          4503
+        ],
+        "tip_side": "right",
+        "divider_x_px": 514
+      },
+      "direction": "outflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "F-160",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 91.0,
+      "sheet_grid_reference": "6492",
+      "sheet_grid_reference_ocr_confidence": 94.0,
+      "description": "| LV-1102 VENT",
+      "equipment_tag": null,
+      "raw_ocr_text": "F-160\n6492\n| LV-1102 VENT",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084:conn_01_0010",
+        "to_node": "F-160:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed"
+      ]
+    },
+    {
+      "id": 11,
+      "connector_id": "conn_01_0011",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084",
+      "source_file": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        404,
+        4778,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          404,
+          4778,
+          857,
+          4833
+        ],
+        "tip_polygon_px": [
+          [
+            514,
+            4831
+          ],
+          [
+            515,
+            4778
+          ],
+          [
+            829,
+            4778
+          ],
+          [
+            856,
+            4805
+          ],
+          [
+            829,
+            4832
+          ]
+        ],
+        "companion_bbox_px": [
+          404,
+          4778,
+          514,
+          4833
+        ],
+        "tip_side": "right",
+        "divider_x_px": 514
+      },
+      "direction": "outflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "F-146",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 92.0,
+      "sheet_grid_reference": "1004",
+      "sheet_grid_reference_ocr_confidence": 96.0,
+      "description": "LV-1101 VENT",
+      "equipment_tag": null,
+      "raw_ocr_text": "F-146\n1004\nLV-1101 VENT",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084:conn_01_0011",
+        "to_node": "F-146:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed"
+      ]
+    },
+    {
+      "id": 12,
+      "connector_id": "conn_01_0012",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084",
+      "source_file": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        407,
+        4948,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          407,
+          4948,
+          860,
+          5003
+        ],
+        "tip_polygon_px": [
+          [
+            517,
+            5001
+          ],
+          [
+            518,
+            4948
+          ],
+          [
+            832,
+            4948
+          ],
+          [
+            859,
+            4975
+          ],
+          [
+            832,
+            5002
+          ]
+        ],
+        "companion_bbox_px": [
+          407,
+          4948,
+          517,
+          5003
+        ],
+        "tip_side": "right",
+        "divider_x_px": 517
+      },
+      "direction": "outflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "F-146",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 92.0,
+      "sheet_grid_reference": "1000",
+      "sheet_grid_reference_ocr_confidence": 96.0,
+      "description": "TOTE BIN VENT",
+      "equipment_tag": null,
+      "raw_ocr_text": "F-146\n1000\nTOTE BIN VENT",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084:conn_01_0012",
+        "to_node": "F-146:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed"
+      ]
+    },
+    {
+      "id": 13,
+      "connector_id": "conn_01_0013",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084",
+      "source_file": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        407,
+        5113,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          407,
+          5113,
+          860,
+          5168
+        ],
+        "tip_polygon_px": [
+          [
+            517,
+            5166
+          ],
+          [
+            518,
+            5113
+          ],
+          [
+            832,
+            5113
+          ],
+          [
+            859,
+            5140
+          ],
+          [
+            832,
+            5167
+          ]
+        ],
+        "companion_bbox_px": [
+          407,
+          5113,
+          517,
+          5168
+        ],
+        "tip_side": "right",
+        "divider_x_px": 517
+      },
+      "direction": "outflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "F-146",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 92.0,
+      "sheet_grid_reference": "6932",
+      "sheet_grid_reference_ocr_confidence": 93.0,
+      "description": "TOTE BIN",
+      "equipment_tag": null,
+      "raw_ocr_text": "F-146\n6932\nTOTE BIN",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084:conn_01_0013",
+        "to_node": "F-146:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed"
+      ]
+    },
+    {
+      "id": 14,
+      "connector_id": "conn_01_0014",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084",
+      "source_file": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        407,
+        5278,
+        453,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          407,
+          5278,
+          860,
+          5333
+        ],
+        "tip_polygon_px": [
+          [
+            517,
+            5331
+          ],
+          [
+            518,
+            5278
+          ],
+          [
+            832,
+            5278
+          ],
+          [
+            859,
+            5305
+          ],
+          [
+            832,
+            5332
+          ]
+        ],
+        "companion_bbox_px": [
+          407,
+          5278,
+          517,
+          5333
+        ],
+        "tip_side": "right",
+        "divider_x_px": 517
+      },
+      "direction": "outflow",
+      "direction_source": "geometry:tip_point",
+      "direction_signals_agree": true,
+      "reference_tag": "F-146",
+      "reference_tag_matches_drawing_series": true,
+      "reference_tag_ocr_confidence": 92.0,
+      "sheet_grid_reference": "6931",
+      "sheet_grid_reference_ocr_confidence": 91.0,
+      "description": "TOTE BIN",
+      "equipment_tag": null,
+      "raw_ocr_text": "F-146\n6931\nTOTE BIN",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084:conn_01_0014",
+        "to_node": "F-146:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "from_to_caption_not_parsed"
+      ]
+    }
+  ],
+  "num_candidates_rejected_as_non_connectors": 3,
+  "rejected_candidates_for_qa": [
+    {
+      "id": 8,
+      "connector_id": "conn_01_0008",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084",
+      "source_file": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        3193,
+        4076,
+        561,
+        137
+      ],
+      "geometry": {
+        "bbox_px": [
+          3193,
+          4076,
+          3754,
+          4213
+        ],
+        "tip_polygon_px": [
+          [
+            3193,
+            4211
+          ],
+          [
+            3311,
+            4114
+          ],
+          [
+            3449,
+            4076
+          ],
+          [
+            3613,
+            4104
+          ],
+          [
+            3753,
+            4211
+          ]
+        ],
+        "companion_bbox_px": null,
+        "tip_side": "unknown",
+        "divider_x_px": null
+      },
+      "direction": null,
+      "direction_source": null,
+      "direction_signals_agree": true,
+      "reference_tag": null,
+      "reference_tag_matches_drawing_series": false,
+      "reference_tag_ocr_confidence": 0.0,
+      "sheet_grid_reference": null,
+      "sheet_grid_reference_ocr_confidence": 0.0,
+      "description": "ee",
+      "equipment_tag": null,
+      "raw_ocr_text": "ee",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084:conn_01_0008",
+        "to_node": null,
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "companion_cell_not_found",
+        "reference_tag_ocr_empty",
+        "sheet_grid_reference_ocr_empty",
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended",
+        "dropped_low_confidence_shape_only_match"
+      ]
+    },
+    {
+      "id": 16,
+      "connector_id": "conn_01_0016",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084",
+      "source_file": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        345,
+        6568,
+        138,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          345,
+          6568,
+          483,
+          6623
+        ],
+        "tip_polygon_px": [
+          [
+            345,
+            6569
+          ],
+          [
+            481,
+            6568
+          ],
+          [
+            482,
+            6621
+          ],
+          [
+            360,
+            6622
+          ],
+          [
+            345,
+            6607
+          ]
+        ],
+        "companion_bbox_px": null,
+        "tip_side": "unknown",
+        "divider_x_px": null
+      },
+      "direction": null,
+      "direction_source": null,
+      "direction_signals_agree": true,
+      "reference_tag": "-6",
+      "reference_tag_matches_drawing_series": false,
+      "reference_tag_ocr_confidence": 0.0,
+      "sheet_grid_reference": null,
+      "sheet_grid_reference_ocr_confidence": 0.0,
+      "description": "s\n| Vem emi aATIV",
+      "equipment_tag": null,
+      "raw_ocr_text": "-6\ns\n| Vem emi aATIV",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084:conn_01_0016",
+        "to_node": "-6:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "companion_cell_not_found",
+        "sheet_grid_reference_ocr_empty",
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended",
+        "dropped_low_confidence_shape_only_match"
+      ]
+    },
+    {
+      "id": 17,
+      "connector_id": "conn_01_0017",
+      "type": "off_page_connector",
+      "symbol_family": "westlake_technip_flag",
+      "drawing_number": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084",
+      "source_file": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084.pdf",
+      "page": 1,
+      "bbox_xywh": [
+        345,
+        6623,
+        138,
+        55
+      ],
+      "geometry": {
+        "bbox_px": [
+          345,
+          6623,
+          483,
+          6678
+        ],
+        "tip_polygon_px": [
+          [
+            345,
+            6637
+          ],
+          [
+            360,
+            6623
+          ],
+          [
+            481,
+            6623
+          ],
+          [
+            482,
+            6676
+          ],
+          [
+            346,
+            6677
+          ]
+        ],
+        "companion_bbox_px": null,
+        "tip_side": "unknown",
+        "divider_x_px": null
+      },
+      "direction": null,
+      "direction_source": null,
+      "direction_signals_agree": true,
+      "reference_tag": "7",
+      "reference_tag_matches_drawing_series": false,
+      "reference_tag_ocr_confidence": 53.0,
+      "sheet_grid_reference": null,
+      "sheet_grid_reference_ocr_confidence": 0.0,
+      "description": "Drawing",
+      "equipment_tag": null,
+      "raw_ocr_text": "7\nDrawing",
+      "graph_edge": {
+        "from_node": "[110-PRE-F-140] P&ID TR1 Catalyst Vent Collection System -PID 100084:conn_01_0017",
+        "to_node": "7:None",
+        "relationship": "flow_continues_to"
+      },
+      "flags": [
+        "companion_cell_not_found",
+        "sheet_grid_reference_ocr_empty",
+        "from_to_caption_not_parsed",
+        "low_ocr_confidence_review_recommended",
+        "dropped_low_confidence_shape_only_match"
+      ]
+    }
+  ]
+}

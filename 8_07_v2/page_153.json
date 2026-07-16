@@ -1,0 +1,504 @@
+{
+  "source_image": "page_153.png",
+  "image_size": {
+    "width": 3024,
+    "height": 2160
+  },
+  "connector_count": 26,
+  "connectors": [
+    {
+      "id": 1,
+      "bbox_xywh": [
+        151,
+        271,
+        79,
+        23
+      ],
+      "reference_tag": "G-32252",
+      "description": "NITROGEN \u201d",
+      "equipment_tag": null,
+      "raw_ocr_text": "NITROGEN \u201d\n| Pa 11/2\"-",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 2,
+      "bbox_xywh": [
+        2856,
+        330,
+        79,
+        23
+      ],
+      "reference_tag": "G-50288",
+      "description": "22 NATURAL GAS",
+      "equipment_tag": null,
+      "raw_ocr_text": "22 NATURAL GAS\nG\u2014 30288",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 3,
+      "bbox_xywh": [
+        152,
+        380,
+        78,
+        23
+      ],
+      "reference_tag": "G-50288",
+      "description": "NATURAL GAS",
+      "equipment_tag": null,
+      "raw_ocr_text": "NATURAL GAS\nG\u201430288",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 4,
+      "bbox_xywh": [
+        2857,
+        426,
+        79,
+        23
+      ],
+      "reference_tag": "G-52248",
+      "description": "NATURAL GAS",
+      "equipment_tag": null,
+      "raw_ocr_text": "NATURAL GAS",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 5,
+      "bbox_xywh": [
+        151,
+        498,
+        79,
+        23
+      ],
+      "reference_tag": "G-32248",
+      "description": "(G32 eZ",
+      "equipment_tag": null,
+      "raw_ocr_text": "(G32 eZ",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 6,
+      "bbox_xywh": [
+        2856,
+        498,
+        79,
+        23
+      ],
+      "reference_tag": "G-32252",
+      "description": "NUROGEN",
+      "equipment_tag": null,
+      "raw_ocr_text": "NUROGEN\nAle _\u00a2 G~ 32252",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 7,
+      "bbox_xywh": [
+        2856,
+        564,
+        79,
+        24
+      ],
+      "reference_tag": "G-30256",
+      "description": "FROM AT=30521 ON",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM AT=30521 ON\n\u201ce= 302800",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 8,
+      "bbox_xywh": [
+        1764,
+        738,
+        79,
+        23
+      ],
+      "reference_tag": "G-52250",
+      "description": "FROM ANALYZER",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM ANALYZER\n| SHELTER",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_right",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 9,
+      "bbox_xywh": [
+        2856,
+        1022,
+        79,
+        23
+      ],
+      "reference_tag": "G-32189",
+      "description": "FROM SV-30669/30610 ON",
+      "equipment_tag": "HE-124R",
+      "raw_ocr_text": "FROM\nSV-30669/30610\nON\nHE-124R-1/3-12",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 10,
+      "bbox_xywh": [
+        2856,
+        1112,
+        79,
+        23
+      ],
+      "reference_tag": "G-30297",
+      "description": "FROM SV= 30576 /30577 CRACKED GAS FROM",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM\n\nSV= 30576 /30577\nCRACKED GAS FROM\nDRIERS",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 11,
+      "bbox_xywh": [
+        2856,
+        1201,
+        79,
+        23
+      ],
+      "reference_tag": "G\u201431896",
+      "description": "FROM SV-31060 ON_TK\u2014311",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM SV-31060\nON_TK\u2014311\nG\u201431896",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 12,
+      "bbox_xywh": [
+        2856,
+        1289,
+        79,
+        24
+      ],
+      "reference_tag": null,
+      "description": "FROM SV-31560/31570",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM\nSV-31560/31570\nAND PSA VENT",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 13,
+      "bbox_xywh": [
+        2856,
+        1378,
+        79,
+        23
+      ],
+      "reference_tag": "G\u201431896",
+      "description": "FROM SV-31570 H2 PRODUCT FROM PSA",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM\n\nSV-31570 H2\n\nPRODUCT FROM PSA\nG\u201431896,",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 14,
+      "bbox_xywh": [
+        2856,
+        1481,
+        79,
+        23
+      ],
+      "reference_tag": "G-31897",
+      "description": "FROM SV-30698/30699",
+      "equipment_tag": "TK-303N",
+      "raw_ocr_text": "FROM\nSV-30698/30699\nON TK-303N",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 15,
+      "bbox_xywh": [
+        2856,
+        1557,
+        79,
+        23
+      ],
+      "reference_tag": "G-32300",
+      "description": "FROM SV\u2014-52052",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM SV\u2014-52052",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 16,
+      "bbox_xywh": [
+        2856,
+        1612,
+        79,
+        23
+      ],
+      "reference_tag": "G-31897",
+      "description": "FROM SV\u2014-52052 FROM SV-30697/",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM SV\u2014-52052\nFROM SV-30697/\n30699",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left",
+      "shape_orientation": "horizontal"
+    },
+    {
+      "id": 17,
+      "bbox_xywh": [
+        1241,
+        125,
+        23,
+        79
+      ],
+      "reference_tag": null,
+      "description": "FROM SV-30784/30785",
+      "equipment_tag": "TK220N",
+      "raw_ocr_text": "FROM\nSV-30784/30785\nON TK220N-1",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_down",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 18,
+      "bbox_xywh": [
+        1406,
+        125,
+        23,
+        79
+      ],
+      "reference_tag": null,
+      "description": "FROM SV-30808/30816",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM\nSV-30808/30816\nON S=B180e",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_down",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 19,
+      "bbox_xywh": [
+        1476,
+        125,
+        23,
+        79
+      ],
+      "reference_tag": null,
+      "description": "FROM RE-103N A/B",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM\nRE-103N A/B\nDUMP VALVES",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_down",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 20,
+      "bbox_xywh": [
+        1548,
+        125,
+        23,
+        78
+      ],
+      "reference_tag": "G-31901",
+      "description": "FROM SV\u201430803/30804",
+      "equipment_tag": "HE-312N",
+      "raw_ocr_text": "FROM\nSV\u201430803/30804\nON HE-312N",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_down",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 21,
+      "bbox_xywh": [
+        1640,
+        125,
+        23,
+        79
+      ],
+      "reference_tag": null,
+      "description": "FROM SV-\u201430827 /30830",
+      "equipment_tag": "HE-313N",
+      "raw_ocr_text": "FROM\nSV-\u201430827 /30830\nON HE-313N",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_down",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 22,
+      "bbox_xywh": [
+        1741,
+        125,
+        23,
+        79
+      ],
+      "reference_tag": null,
+      "description": "FROM SV-30794/30795",
+      "equipment_tag": "HE-311N",
+      "raw_ocr_text": "FROM\nSV-30794/30795\nON HE-311N",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_down",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 23,
+      "bbox_xywh": [
+        1209,
+        1008,
+        23,
+        79
+      ],
+      "reference_tag": "G-31900",
+      "description": "FROM SV-30776/30780",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM\nSV-30776/30780\nON DR-102R-124/B",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_up",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 24,
+      "bbox_xywh": [
+        1441,
+        1008,
+        23,
+        79
+      ],
+      "reference_tag": null,
+      "description": "FROM KE-105N A/6",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM KE-105N A/6",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "medium",
+      "nearest_edge": "top",
+      "chevron_point_orientation": "points_up",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 25,
+      "bbox_xywh": [
+        1710,
+        1008,
+        23,
+        79
+      ],
+      "reference_tag": "G-31900",
+      "description": "FROM Al=O0//6 AND AT-\u201430781 ON",
+      "equipment_tag": null,
+      "raw_ocr_text": "FROM Al=O0//6\nAND AT-\u201430781 ON\nOR-102R-12AB",
+      "direction": "inflow",
+      "direction_source": "text",
+      "confidence": "high",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_up",
+      "shape_orientation": "vertical"
+    },
+    {
+      "id": 26,
+      "bbox_xywh": [
+        2166,
+        1832,
+        23,
+        79
+      ],
+      "reference_tag": "G-30337",
+      "description": "1O EXISTING WARM FLARE HEADER,",
+      "equipment_tag": null,
+      "raw_ocr_text": "1O EXISTING WARM\nFLARE HEADER,\nT\u201430337-194A/8",
+      "direction": "outflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "bottom",
+      "chevron_point_orientation": "points_down",
+      "shape_orientation": "vertical"
+    }
+  ]
+}

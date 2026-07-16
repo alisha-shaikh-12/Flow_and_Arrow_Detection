@@ -1,0 +1,82 @@
+{
+  "source_image": "brine_16--07A-10238--Pure Brine Storage Tank_page_1.jpeg",
+  "image_size": {
+    "width": 10800,
+    "height": 7200
+  },
+  "connector_count": 4,
+  "connectors": [
+    {
+      "id": 1,
+      "bbox_xywh": [
+        432,
+        1154,
+        498,
+        93
+      ],
+      "reference_tag": "G-10122",
+      "description": "15 O7 A= 1O122",
+      "equipment_tag": null,
+      "raw_ocr_text": "15 O7 A= 1O122",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    },
+    {
+      "id": 2,
+      "bbox_xywh": [
+        9220,
+        1604,
+        496,
+        93
+      ],
+      "reference_tag": "G-10123",
+      "description": "OFA 101 23 14",
+      "equipment_tag": null,
+      "raw_ocr_text": "OFA 101 23 14",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 3,
+      "bbox_xywh": [
+        9218,
+        2279,
+        498,
+        93
+      ],
+      "reference_tag": "G-10123",
+      "description": "QO7A-10123 22",
+      "equipment_tag": null,
+      "raw_ocr_text": "QO7A-10123 22",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "right",
+      "chevron_point_orientation": "points_left"
+    },
+    {
+      "id": 4,
+      "bbox_xywh": [
+        432,
+        3854,
+        496,
+        93
+      ],
+      "reference_tag": "G-10236",
+      "description": "18 O7A-10236",
+      "equipment_tag": null,
+      "raw_ocr_text": "18 O7A-10236",
+      "direction": "inflow",
+      "direction_source": "geometry:edge+point",
+      "confidence": "medium",
+      "nearest_edge": "left",
+      "chevron_point_orientation": "points_right"
+    }
+  ]
+}
